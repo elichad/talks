@@ -1,6 +1,6 @@
 ---
 title: "The Other Kind of Accessible"
-subtitle: "Making research software accessible for disabled researchers and RSEs"
+subtitle: "Removing software barriers for disabled researchers and RSEs"
 date: 2023-09-04
 date-format: long
 author: "Eli Chadwick"

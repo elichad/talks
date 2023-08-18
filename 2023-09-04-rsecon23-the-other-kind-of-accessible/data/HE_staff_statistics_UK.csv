@@ -1,0 +1,2198 @@
+Title,"Academic staff (excluding atypical) by age group, disability status, ethnicity, nationality, sex, contract level and country of HE provider",,,,
+Location,UK,,,,
+Academic years,2017/18 to 2021/22,,,,
+Data source,HESA,,,,
+Data source link,https://www.hesa.ac.uk/data-and-analysis/sb264/figure-5,,,,
+Data file canonical link,https://www.hesa.ac.uk/data-and-analysis/sb264/figure-5.csv,,,,
+Licence,Creative Commons Attribution 4.0 International Licence,,,,
+Code page,Unicode UTF-8,,,,
+Disclaimer,Please note that this data includes rounded totals.  Caution must be taken when importing into a pivot table so as not to double count.,,,,
+"2017/18 total: 211,980",,,,,
+"2018/19 total: 217,065",,,,,
+"2019/20 total: 223,525",,,,,
+"2020/21 total: 224,530",,,,,
+"2021/22 total: 233,930",,,,,
+Last updated,Jan-23,,,,
+,,,,,
+,,,,,
+Category Marker,Category,Country of HE Provider,Contract Level,Academic year,Number
+Age Group,25 and under,England,Other contract level,2017/18,4755
+Age Group,25 and under,England,Other senior academic,2017/18,0
+Age Group,25 and under,England,Professor,2017/18,0
+Age Group,25 and under,England,Total,2017/18,4755
+Age Group,25 and under,Northern Ireland,Other contract level,2017/18,50
+Age Group,25 and under,Northern Ireland,Other senior academic,2017/18,0
+Age Group,25 and under,Northern Ireland,Professor,2017/18,0
+Age Group,25 and under,Northern Ireland,Total,2017/18,50
+Age Group,25 and under,Scotland,Other contract level,2017/18,1255
+Age Group,25 and under,Scotland,Other senior academic,2017/18,0
+Age Group,25 and under,Scotland,Professor,2017/18,0
+Age Group,25 and under,Scotland,Total,2017/18,1255
+Age Group,25 and under,Wales,Other contract level,2017/18,205
+Age Group,25 and under,Wales,Other senior academic,2017/18,0
+Age Group,25 and under,Wales,Professor,2017/18,0
+Age Group,25 and under,Wales,Total,2017/18,205
+Age Group,25 and under,All,Other contract level,2017/18,6270
+Age Group,25 and under,All,Other senior academic,2017/18,0
+Age Group,25 and under,All,Professor,2017/18,0
+Age Group,25 and under,All,Total,2017/18,6270
+Age Group,25 and under,England,Other contract level,2018/19,4985
+Age Group,25 and under,England,Other senior academic,2018/19,0
+Age Group,25 and under,England,Professor,2018/19,0
+Age Group,25 and under,England,Total,2018/19,4990
+Age Group,25 and under,Northern Ireland,Other contract level,2018/19,75
+Age Group,25 and under,Northern Ireland,Other senior academic,2018/19,0
+Age Group,25 and under,Northern Ireland,Professor,2018/19,0
+Age Group,25 and under,Northern Ireland,Total,2018/19,75
+Age Group,25 and under,Scotland,Other contract level,2018/19,1435
+Age Group,25 and under,Scotland,Other senior academic,2018/19,0
+Age Group,25 and under,Scotland,Professor,2018/19,0
+Age Group,25 and under,Scotland,Total,2018/19,1435
+Age Group,25 and under,Wales,Other contract level,2018/19,215
+Age Group,25 and under,Wales,Other senior academic,2018/19,0
+Age Group,25 and under,Wales,Professor,2018/19,0
+Age Group,25 and under,Wales,Total,2018/19,215
+Age Group,25 and under,All,Other contract level,2018/19,6710
+Age Group,25 and under,All,Other senior academic,2018/19,0
+Age Group,25 and under,All,Professor,2018/19,0
+Age Group,25 and under,All,Total,2018/19,6710
+Age Group,25 and under,England,Other contract level,2019/20,5035
+Age Group,25 and under,England,Other senior academic,2019/20,0
+Age Group,25 and under,England,Professor,2019/20,0
+Age Group,25 and under,England,Total,2019/20,5035
+Age Group,25 and under,Northern Ireland,Other contract level,2019/20,80
+Age Group,25 and under,Northern Ireland,Other senior academic,2019/20,0
+Age Group,25 and under,Northern Ireland,Professor,2019/20,0
+Age Group,25 and under,Northern Ireland,Total,2019/20,80
+Age Group,25 and under,Scotland,Other contract level,2019/20,1610
+Age Group,25 and under,Scotland,Other senior academic,2019/20,0
+Age Group,25 and under,Scotland,Professor,2019/20,0
+Age Group,25 and under,Scotland,Total,2019/20,1610
+Age Group,25 and under,Wales,Other contract level,2019/20,205
+Age Group,25 and under,Wales,Other senior academic,2019/20,0
+Age Group,25 and under,Wales,Professor,2019/20,0
+Age Group,25 and under,Wales,Total,2019/20,205
+Age Group,25 and under,All,Other contract level,2019/20,6930
+Age Group,25 and under,All,Other senior academic,2019/20,0
+Age Group,25 and under,All,Professor,2019/20,0
+Age Group,25 and under,All,Total,2019/20,6930
+Age Group,25 and under,England,Other contract level,2020/21,4630
+Age Group,25 and under,England,Other senior academic,2020/21,0
+Age Group,25 and under,England,Professor,2020/21,0
+Age Group,25 and under,England,Total,2020/21,4630
+Age Group,25 and under,Northern Ireland,Other contract level,2020/21,55
+Age Group,25 and under,Northern Ireland,Other senior academic,2020/21,0
+Age Group,25 and under,Northern Ireland,Professor,2020/21,0
+Age Group,25 and under,Northern Ireland,Total,2020/21,55
+Age Group,25 and under,Scotland,Other contract level,2020/21,1605
+Age Group,25 and under,Scotland,Other senior academic,2020/21,0
+Age Group,25 and under,Scotland,Professor,2020/21,0
+Age Group,25 and under,Scotland,Total,2020/21,1605
+Age Group,25 and under,Wales,Other contract level,2020/21,195
+Age Group,25 and under,Wales,Other senior academic,2020/21,0
+Age Group,25 and under,Wales,Professor,2020/21,0
+Age Group,25 and under,Wales,Total,2020/21,195
+Age Group,25 and under,All,Other contract level,2020/21,6480
+Age Group,25 and under,All,Other senior academic,2020/21,0
+Age Group,25 and under,All,Professor,2020/21,0
+Age Group,25 and under,All,Total,2020/21,6480
+Age Group,25 and under,England,Other contract level,2021/22,5545
+Age Group,25 and under,England,Other senior academic,2021/22,0
+Age Group,25 and under,England,Professor,2021/22,0
+Age Group,25 and under,England,Total,2021/22,5545
+Age Group,25 and under,Northern Ireland,Other contract level,2021/22,60
+Age Group,25 and under,Northern Ireland,Other senior academic,2021/22,0
+Age Group,25 and under,Northern Ireland,Professor,2021/22,0
+Age Group,25 and under,Northern Ireland,Total,2021/22,60
+Age Group,25 and under,Scotland,Other contract level,2021/22,1650
+Age Group,25 and under,Scotland,Other senior academic,2021/22,0
+Age Group,25 and under,Scotland,Professor,2021/22,0
+Age Group,25 and under,Scotland,Total,2021/22,1650
+Age Group,25 and under,Wales,Other contract level,2021/22,200
+Age Group,25 and under,Wales,Other senior academic,2021/22,0
+Age Group,25 and under,Wales,Professor,2021/22,0
+Age Group,25 and under,Wales,Total,2021/22,200
+Age Group,25 and under,All,Other contract level,2021/22,7450
+Age Group,25 and under,All,Other senior academic,2021/22,0
+Age Group,25 and under,All,Professor,2021/22,0
+Age Group,25 and under,All,Total,2021/22,7450
+Age Group,26-35,England,Other contract level,2017/18,45565
+Age Group,26-35,England,Other senior academic,2017/18,75
+Age Group,26-35,England,Professor,2017/18,85
+Age Group,26-35,England,Total,2017/18,45725
+Age Group,26-35,Northern Ireland,Other contract level,2017/18,755
+Age Group,26-35,Northern Ireland,Other senior academic,2017/18,0
+Age Group,26-35,Northern Ireland,Professor,2017/18,0
+Age Group,26-35,Northern Ireland,Total,2017/18,755
+Age Group,26-35,Scotland,Other contract level,2017/18,6685
+Age Group,26-35,Scotland,Other senior academic,2017/18,5
+Age Group,26-35,Scotland,Professor,2017/18,5
+Age Group,26-35,Scotland,Total,2017/18,6695
+Age Group,26-35,Wales,Other contract level,2017/18,2270
+Age Group,26-35,Wales,Other senior academic,2017/18,5
+Age Group,26-35,Wales,Professor,2017/18,5
+Age Group,26-35,Wales,Total,2017/18,2280
+Age Group,26-35,All,Other contract level,2017/18,55275
+Age Group,26-35,All,Other senior academic,2017/18,85
+Age Group,26-35,All,Professor,2017/18,95
+Age Group,26-35,All,Total,2017/18,55455
+Age Group,26-35,England,Other contract level,2018/19,46185
+Age Group,26-35,England,Other senior academic,2018/19,75
+Age Group,26-35,England,Professor,2018/19,110
+Age Group,26-35,England,Total,2018/19,46370
+Age Group,26-35,Northern Ireland,Other contract level,2018/19,790
+Age Group,26-35,Northern Ireland,Other senior academic,2018/19,0
+Age Group,26-35,Northern Ireland,Professor,2018/19,0
+Age Group,26-35,Northern Ireland,Total,2018/19,790
+Age Group,26-35,Scotland,Other contract level,2018/19,6850
+Age Group,26-35,Scotland,Other senior academic,2018/19,0
+Age Group,26-35,Scotland,Professor,2018/19,5
+Age Group,26-35,Scotland,Total,2018/19,6855
+Age Group,26-35,Wales,Other contract level,2018/19,2350
+Age Group,26-35,Wales,Other senior academic,2018/19,10
+Age Group,26-35,Wales,Professor,2018/19,5
+Age Group,26-35,Wales,Total,2018/19,2365
+Age Group,26-35,All,Other contract level,2018/19,56175
+Age Group,26-35,All,Other senior academic,2018/19,85
+Age Group,26-35,All,Professor,2018/19,125
+Age Group,26-35,All,Total,2018/19,56385
+Age Group,26-35,England,Other contract level,2019/20,47240
+Age Group,26-35,England,Other senior academic,2019/20,90
+Age Group,26-35,England,Professor,2019/20,110
+Age Group,26-35,England,Total,2019/20,47440
+Age Group,26-35,Northern Ireland,Other contract level,2019/20,840
+Age Group,26-35,Northern Ireland,Other senior academic,2019/20,0
+Age Group,26-35,Northern Ireland,Professor,2019/20,0
+Age Group,26-35,Northern Ireland,Total,2019/20,840
+Age Group,26-35,Scotland,Other contract level,2019/20,6975
+Age Group,26-35,Scotland,Other senior academic,2019/20,0
+Age Group,26-35,Scotland,Professor,2019/20,5
+Age Group,26-35,Scotland,Total,2019/20,6980
+Age Group,26-35,Wales,Other contract level,2019/20,2215
+Age Group,26-35,Wales,Other senior academic,2019/20,5
+Age Group,26-35,Wales,Professor,2019/20,5
+Age Group,26-35,Wales,Total,2019/20,2220
+Age Group,26-35,All,Other contract level,2019/20,57270
+Age Group,26-35,All,Other senior academic,2019/20,100
+Age Group,26-35,All,Professor,2019/20,115
+Age Group,26-35,All,Total,2019/20,57485
+Age Group,26-35,England,Other contract level,2020/21,46530
+Age Group,26-35,England,Other senior academic,2020/21,85
+Age Group,26-35,England,Professor,2020/21,85
+Age Group,26-35,England,Total,2020/21,46705
+Age Group,26-35,Northern Ireland,Other contract level,2020/21,825
+Age Group,26-35,Northern Ireland,Other senior academic,2020/21,5
+Age Group,26-35,Northern Ireland,Professor,2020/21,0
+Age Group,26-35,Northern Ireland,Total,2020/21,830
+Age Group,26-35,Scotland,Other contract level,2020/21,7220
+Age Group,26-35,Scotland,Other senior academic,2020/21,0
+Age Group,26-35,Scotland,Professor,2020/21,5
+Age Group,26-35,Scotland,Total,2020/21,7225
+Age Group,26-35,Wales,Other contract level,2020/21,2155
+Age Group,26-35,Wales,Other senior academic,2020/21,5
+Age Group,26-35,Wales,Professor,2020/21,5
+Age Group,26-35,Wales,Total,2020/21,2170
+Age Group,26-35,All,Other contract level,2020/21,56730
+Age Group,26-35,All,Other senior academic,2020/21,95
+Age Group,26-35,All,Professor,2020/21,100
+Age Group,26-35,All,Total,2020/21,56925
+Age Group,26-35,England,Other contract level,2021/22,48200
+Age Group,26-35,England,Other senior academic,2021/22,105
+Age Group,26-35,England,Professor,2021/22,70
+Age Group,26-35,England,Total,2021/22,48375
+Age Group,26-35,Northern Ireland,Other contract level,2021/22,850
+Age Group,26-35,Northern Ireland,Other senior academic,2021/22,5
+Age Group,26-35,Northern Ireland,Professor,2021/22,0
+Age Group,26-35,Northern Ireland,Total,2021/22,855
+Age Group,26-35,Scotland,Other contract level,2021/22,7450
+Age Group,26-35,Scotland,Other senior academic,2021/22,0
+Age Group,26-35,Scotland,Professor,2021/22,10
+Age Group,26-35,Scotland,Total,2021/22,7465
+Age Group,26-35,Wales,Other contract level,2021/22,2060
+Age Group,26-35,Wales,Other senior academic,2021/22,5
+Age Group,26-35,Wales,Professor,2021/22,5
+Age Group,26-35,Wales,Total,2021/22,2070
+Age Group,26-35,All,Other contract level,2021/22,58560
+Age Group,26-35,All,Other senior academic,2021/22,120
+Age Group,26-35,All,Professor,2021/22,80
+Age Group,26-35,All,Total,2021/22,58760
+Age Group,36-45,England,Other contract level,2017/18,44670
+Age Group,36-45,England,Other senior academic,2017/18,810
+Age Group,36-45,England,Professor,2017/18,2505
+Age Group,36-45,England,Total,2017/18,47990
+Age Group,36-45,Northern Ireland,Other contract level,2017/18,905
+Age Group,36-45,Northern Ireland,Other senior academic,2017/18,30
+Age Group,36-45,Northern Ireland,Professor,2017/18,40
+Age Group,36-45,Northern Ireland,Total,2017/18,975
+Age Group,36-45,Scotland,Other contract level,2017/18,5645
+Age Group,36-45,Scotland,Other senior academic,2017/18,80
+Age Group,36-45,Scotland,Professor,2017/18,330
+Age Group,36-45,Scotland,Total,2017/18,6055
+Age Group,36-45,Wales,Other contract level,2017/18,2675
+Age Group,36-45,Wales,Other senior academic,2017/18,50
+Age Group,36-45,Wales,Professor,2017/18,170
+Age Group,36-45,Wales,Total,2017/18,2895
+Age Group,36-45,All,Other contract level,2017/18,53895
+Age Group,36-45,All,Other senior academic,2017/18,965
+Age Group,36-45,All,Professor,2017/18,3050
+Age Group,36-45,All,Total,2017/18,57910
+Age Group,36-45,England,Other contract level,2018/19,46430
+Age Group,36-45,England,Other senior academic,2018/19,775
+Age Group,36-45,England,Professor,2018/19,2520
+Age Group,36-45,England,Total,2018/19,49725
+Age Group,36-45,Northern Ireland,Other contract level,2018/19,940
+Age Group,36-45,Northern Ireland,Other senior academic,2018/19,45
+Age Group,36-45,Northern Ireland,Professor,2018/19,40
+Age Group,36-45,Northern Ireland,Total,2018/19,1025
+Age Group,36-45,Scotland,Other contract level,2018/19,5860
+Age Group,36-45,Scotland,Other senior academic,2018/19,75
+Age Group,36-45,Scotland,Professor,2018/19,320
+Age Group,36-45,Scotland,Total,2018/19,6255
+Age Group,36-45,Wales,Other contract level,2018/19,2705
+Age Group,36-45,Wales,Other senior academic,2018/19,60
+Age Group,36-45,Wales,Professor,2018/19,115
+Age Group,36-45,Wales,Total,2018/19,2880
+Age Group,36-45,All,Other contract level,2018/19,55930
+Age Group,36-45,All,Other senior academic,2018/19,955
+Age Group,36-45,All,Professor,2018/19,2995
+Age Group,36-45,All,Total,2018/19,59885
+Age Group,36-45,England,Other contract level,2019/20,48215
+Age Group,36-45,England,Other senior academic,2019/20,860
+Age Group,36-45,England,Professor,2019/20,2685
+Age Group,36-45,England,Total,2019/20,51765
+Age Group,36-45,Northern Ireland,Other contract level,2019/20,980
+Age Group,36-45,Northern Ireland,Other senior academic,2019/20,30
+Age Group,36-45,Northern Ireland,Professor,2019/20,40
+Age Group,36-45,Northern Ireland,Total,2019/20,1050
+Age Group,36-45,Scotland,Other contract level,2019/20,6070
+Age Group,36-45,Scotland,Other senior academic,2019/20,70
+Age Group,36-45,Scotland,Professor,2019/20,345
+Age Group,36-45,Scotland,Total,2019/20,6485
+Age Group,36-45,Wales,Other contract level,2019/20,2750
+Age Group,36-45,Wales,Other senior academic,2019/20,55
+Age Group,36-45,Wales,Professor,2019/20,120
+Age Group,36-45,Wales,Total,2019/20,2925
+Age Group,36-45,All,Other contract level,2019/20,58015
+Age Group,36-45,All,Other senior academic,2019/20,1015
+Age Group,36-45,All,Professor,2019/20,3190
+Age Group,36-45,All,Total,2019/20,62220
+Age Group,36-45,England,Other contract level,2020/21,49710
+Age Group,36-45,England,Other senior academic,2020/21,880
+Age Group,36-45,England,Professor,2020/21,2620
+Age Group,36-45,England,Total,2020/21,53210
+Age Group,36-45,Northern Ireland,Other contract level,2020/21,970
+Age Group,36-45,Northern Ireland,Other senior academic,2020/21,50
+Age Group,36-45,Northern Ireland,Professor,2020/21,45
+Age Group,36-45,Northern Ireland,Total,2020/21,1065
+Age Group,36-45,Scotland,Other contract level,2020/21,6330
+Age Group,36-45,Scotland,Other senior academic,2020/21,80
+Age Group,36-45,Scotland,Professor,2020/21,345
+Age Group,36-45,Scotland,Total,2020/21,6755
+Age Group,36-45,Wales,Other contract level,2020/21,2775
+Age Group,36-45,Wales,Other senior academic,2020/21,45
+Age Group,36-45,Wales,Professor,2020/21,115
+Age Group,36-45,Wales,Total,2020/21,2930
+Age Group,36-45,All,Other contract level,2020/21,59785
+Age Group,36-45,All,Other senior academic,2020/21,1050
+Age Group,36-45,All,Professor,2020/21,3125
+Age Group,36-45,All,Total,2020/21,63955
+Age Group,36-45,England,Other contract level,2021/22,52350
+Age Group,36-45,England,Other senior academic,2021/22,905
+Age Group,36-45,England,Professor,2021/22,2780
+Age Group,36-45,England,Total,2021/22,56030
+Age Group,36-45,Northern Ireland,Other contract level,2021/22,985
+Age Group,36-45,Northern Ireland,Other senior academic,2021/22,45
+Age Group,36-45,Northern Ireland,Professor,2021/22,50
+Age Group,36-45,Northern Ireland,Total,2021/22,1085
+Age Group,36-45,Scotland,Other contract level,2021/22,6610
+Age Group,36-45,Scotland,Other senior academic,2021/22,65
+Age Group,36-45,Scotland,Professor,2021/22,350
+Age Group,36-45,Scotland,Total,2021/22,7025
+Age Group,36-45,Wales,Other contract level,2021/22,2845
+Age Group,36-45,Wales,Other senior academic,2021/22,40
+Age Group,36-45,Wales,Professor,2021/22,130
+Age Group,36-45,Wales,Total,2021/22,3010
+Age Group,36-45,All,Other contract level,2021/22,62790
+Age Group,36-45,All,Other senior academic,2021/22,1055
+Age Group,36-45,All,Professor,2021/22,3310
+Age Group,36-45,All,Total,2021/22,67155
+Age Group,46-55,England,Other contract level,2017/18,34450
+Age Group,46-55,England,Other senior academic,2017/18,2380
+Age Group,46-55,England,Professor,2017/18,6770
+Age Group,46-55,England,Total,2017/18,43595
+Age Group,46-55,Northern Ireland,Other contract level,2017/18,680
+Age Group,46-55,Northern Ireland,Other senior academic,2017/18,75
+Age Group,46-55,Northern Ireland,Professor,2017/18,140
+Age Group,46-55,Northern Ireland,Total,2017/18,895
+Age Group,46-55,Scotland,Other contract level,2017/18,4010
+Age Group,46-55,Scotland,Other senior academic,2017/18,240
+Age Group,46-55,Scotland,Professor,2017/18,980
+Age Group,46-55,Scotland,Total,2017/18,5230
+Age Group,46-55,Wales,Other contract level,2017/18,2225
+Age Group,46-55,Wales,Other senior academic,2017/18,165
+Age Group,46-55,Wales,Professor,2017/18,470
+Age Group,46-55,Wales,Total,2017/18,2860
+Age Group,46-55,All,Other contract level,2017/18,41365
+Age Group,46-55,All,Other senior academic,2017/18,2855
+Age Group,46-55,All,Professor,2017/18,8360
+Age Group,46-55,All,Total,2017/18,52580
+Age Group,46-55,England,Other contract level,2018/19,34905
+Age Group,46-55,England,Other senior academic,2018/19,2320
+Age Group,46-55,England,Professor,2018/19,6955
+Age Group,46-55,England,Total,2018/19,44185
+Age Group,46-55,Northern Ireland,Other contract level,2018/19,690
+Age Group,46-55,Northern Ireland,Other senior academic,2018/19,90
+Age Group,46-55,Northern Ireland,Professor,2018/19,145
+Age Group,46-55,Northern Ireland,Total,2018/19,925
+Age Group,46-55,Scotland,Other contract level,2018/19,4030
+Age Group,46-55,Scotland,Other senior academic,2018/19,220
+Age Group,46-55,Scotland,Professor,2018/19,1000
+Age Group,46-55,Scotland,Total,2018/19,5250
+Age Group,46-55,Wales,Other contract level,2018/19,2205
+Age Group,46-55,Wales,Other senior academic,2018/19,180
+Age Group,46-55,Wales,Professor,2018/19,390
+Age Group,46-55,Wales,Total,2018/19,2775
+Age Group,46-55,All,Other contract level,2018/19,41830
+Age Group,46-55,All,Other senior academic,2018/19,2810
+Age Group,46-55,All,Professor,2018/19,8495
+Age Group,46-55,All,Total,2018/19,53135
+Age Group,46-55,England,Other contract level,2019/20,35590
+Age Group,46-55,England,Other senior academic,2019/20,2265
+Age Group,46-55,England,Professor,2019/20,7330
+Age Group,46-55,England,Total,2019/20,45185
+Age Group,46-55,Northern Ireland,Other contract level,2019/20,730
+Age Group,46-55,Northern Ireland,Other senior academic,2019/20,85
+Age Group,46-55,Northern Ireland,Professor,2019/20,170
+Age Group,46-55,Northern Ireland,Total,2019/20,985
+Age Group,46-55,Scotland,Other contract level,2019/20,3990
+Age Group,46-55,Scotland,Other senior academic,2019/20,200
+Age Group,46-55,Scotland,Professor,2019/20,1075
+Age Group,46-55,Scotland,Total,2019/20,5265
+Age Group,46-55,Wales,Other contract level,2019/20,2185
+Age Group,46-55,Wales,Other senior academic,2019/20,135
+Age Group,46-55,Wales,Professor,2019/20,420
+Age Group,46-55,Wales,Total,2019/20,2745
+Age Group,46-55,All,Other contract level,2019/20,42495
+Age Group,46-55,All,Other senior academic,2019/20,2690
+Age Group,46-55,All,Professor,2019/20,8995
+Age Group,46-55,All,Total,2019/20,54180
+Age Group,46-55,England,Other contract level,2020/21,35545
+Age Group,46-55,England,Other senior academic,2020/21,2245
+Age Group,46-55,England,Professor,2020/21,7235
+Age Group,46-55,England,Total,2020/21,45025
+Age Group,46-55,Northern Ireland,Other contract level,2020/21,760
+Age Group,46-55,Northern Ireland,Other senior academic,2020/21,95
+Age Group,46-55,Northern Ireland,Professor,2020/21,155
+Age Group,46-55,Northern Ireland,Total,2020/21,1010
+Age Group,46-55,Scotland,Other contract level,2020/21,4020
+Age Group,46-55,Scotland,Other senior academic,2020/21,210
+Age Group,46-55,Scotland,Professor,2020/21,1090
+Age Group,46-55,Scotland,Total,2020/21,5320
+Age Group,46-55,Wales,Other contract level,2020/21,2180
+Age Group,46-55,Wales,Other senior academic,2020/21,125
+Age Group,46-55,Wales,Professor,2020/21,400
+Age Group,46-55,Wales,Total,2020/21,2700
+Age Group,46-55,All,Other contract level,2020/21,42505
+Age Group,46-55,All,Other senior academic,2020/21,2675
+Age Group,46-55,All,Professor,2020/21,8880
+Age Group,46-55,All,Total,2020/21,54055
+Age Group,46-55,England,Other contract level,2021/22,36485
+Age Group,46-55,England,Other senior academic,2021/22,2270
+Age Group,46-55,England,Professor,2021/22,7345
+Age Group,46-55,England,Total,2021/22,46100
+Age Group,46-55,Northern Ireland,Other contract level,2021/22,730
+Age Group,46-55,Northern Ireland,Other senior academic,2021/22,75
+Age Group,46-55,Northern Ireland,Professor,2021/22,160
+Age Group,46-55,Northern Ireland,Total,2021/22,965
+Age Group,46-55,Scotland,Other contract level,2021/22,4085
+Age Group,46-55,Scotland,Other senior academic,2021/22,225
+Age Group,46-55,Scotland,Professor,2021/22,1075
+Age Group,46-55,Scotland,Total,2021/22,5385
+Age Group,46-55,Wales,Other contract level,2021/22,2220
+Age Group,46-55,Wales,Other senior academic,2021/22,120
+Age Group,46-55,Wales,Professor,2021/22,380
+Age Group,46-55,Wales,Total,2021/22,2720
+Age Group,46-55,All,Other contract level,2021/22,43515
+Age Group,46-55,All,Other senior academic,2021/22,2690
+Age Group,46-55,All,Professor,2021/22,8965
+Age Group,46-55,All,Total,2021/22,55170
+Age Group,56-65,England,Other contract level,2017/18,19500
+Age Group,56-65,England,Other senior academic,2017/18,1730
+Age Group,56-65,England,Professor,2017/18,5925
+Age Group,56-65,England,Total,2017/18,27155
+Age Group,56-65,Northern Ireland,Other contract level,2017/18,300
+Age Group,56-65,Northern Ireland,Other senior academic,2017/18,30
+Age Group,56-65,Northern Ireland,Professor,2017/18,110
+Age Group,56-65,Northern Ireland,Total,2017/18,435
+Age Group,56-65,Scotland,Other contract level,2017/18,2025
+Age Group,56-65,Scotland,Other senior academic,2017/18,210
+Age Group,56-65,Scotland,Professor,2017/18,845
+Age Group,56-65,Scotland,Total,2017/18,3080
+Age Group,56-65,Wales,Other contract level,2017/18,1200
+Age Group,56-65,Wales,Other senior academic,2017/18,90
+Age Group,56-65,Wales,Professor,2017/18,365
+Age Group,56-65,Wales,Total,2017/18,1655
+Age Group,56-65,All,Other contract level,2017/18,23025
+Age Group,56-65,All,Other senior academic,2017/18,2055
+Age Group,56-65,All,Professor,2017/18,7240
+Age Group,56-65,All,Total,2017/18,32325
+Age Group,56-65,England,Other contract level,2018/19,19855
+Age Group,56-65,England,Other senior academic,2018/19,1745
+Age Group,56-65,England,Professor,2018/19,6225
+Age Group,56-65,England,Total,2018/19,27820
+Age Group,56-65,Northern Ireland,Other contract level,2018/19,300
+Age Group,56-65,Northern Ireland,Other senior academic,2018/19,40
+Age Group,56-65,Northern Ireland,Professor,2018/19,105
+Age Group,56-65,Northern Ireland,Total,2018/19,445
+Age Group,56-65,Scotland,Other contract level,2018/19,2125
+Age Group,56-65,Scotland,Other senior academic,2018/19,210
+Age Group,56-65,Scotland,Professor,2018/19,875
+Age Group,56-65,Scotland,Total,2018/19,3215
+Age Group,56-65,Wales,Other contract level,2018/19,1230
+Age Group,56-65,Wales,Other senior academic,2018/19,100
+Age Group,56-65,Wales,Professor,2018/19,335
+Age Group,56-65,Wales,Total,2018/19,1670
+Age Group,56-65,All,Other contract level,2018/19,23505
+Age Group,56-65,All,Other senior academic,2018/19,2100
+Age Group,56-65,All,Professor,2018/19,7545
+Age Group,56-65,All,Total,2018/19,33150
+Age Group,56-65,England,Other contract level,2019/20,20615
+Age Group,56-65,England,Other senior academic,2019/20,1745
+Age Group,56-65,England,Professor,2019/20,6540
+Age Group,56-65,England,Total,2019/20,28900
+Age Group,56-65,Northern Ireland,Other contract level,2019/20,315
+Age Group,56-65,Northern Ireland,Other senior academic,2019/20,40
+Age Group,56-65,Northern Ireland,Professor,2019/20,125
+Age Group,56-65,Northern Ireland,Total,2019/20,475
+Age Group,56-65,Scotland,Other contract level,2019/20,2190
+Age Group,56-65,Scotland,Other senior academic,2019/20,205
+Age Group,56-65,Scotland,Professor,2019/20,890
+Age Group,56-65,Scotland,Total,2019/20,3280
+Age Group,56-65,Wales,Other contract level,2019/20,1240
+Age Group,56-65,Wales,Other senior academic,2019/20,80
+Age Group,56-65,Wales,Professor,2019/20,370
+Age Group,56-65,Wales,Total,2019/20,1690
+Age Group,56-65,All,Other contract level,2019/20,24360
+Age Group,56-65,All,Other senior academic,2019/20,2070
+Age Group,56-65,All,Professor,2019/20,7920
+Age Group,56-65,All,Total,2019/20,34350
+Age Group,56-65,England,Other contract level,2020/21,20780
+Age Group,56-65,England,Other senior academic,2020/21,1805
+Age Group,56-65,England,Professor,2020/21,6750
+Age Group,56-65,England,Total,2020/21,29335
+Age Group,56-65,Northern Ireland,Other contract level,2020/21,365
+Age Group,56-65,Northern Ireland,Other senior academic,2020/21,50
+Age Group,56-65,Northern Ireland,Professor,2020/21,135
+Age Group,56-65,Northern Ireland,Total,2020/21,545
+Age Group,56-65,Scotland,Other contract level,2020/21,2240
+Age Group,56-65,Scotland,Other senior academic,2020/21,220
+Age Group,56-65,Scotland,Professor,2020/21,905
+Age Group,56-65,Scotland,Total,2020/21,3365
+Age Group,56-65,Wales,Other contract level,2020/21,1225
+Age Group,56-65,Wales,Other senior academic,2020/21,75
+Age Group,56-65,Wales,Professor,2020/21,385
+Age Group,56-65,Wales,Total,2020/21,1685
+Age Group,56-65,All,Other contract level,2020/21,24605
+Age Group,56-65,All,Other senior academic,2020/21,2145
+Age Group,56-65,All,Professor,2020/21,8175
+Age Group,56-65,All,Total,2020/21,34930
+Age Group,56-65,England,Other contract level,2021/22,22020
+Age Group,56-65,England,Other senior academic,2021/22,1845
+Age Group,56-65,England,Professor,2021/22,7005
+Age Group,56-65,England,Total,2021/22,30870
+Age Group,56-65,Northern Ireland,Other contract level,2021/22,395
+Age Group,56-65,Northern Ireland,Other senior academic,2021/22,60
+Age Group,56-65,Northern Ireland,Professor,2021/22,155
+Age Group,56-65,Northern Ireland,Total,2021/22,610
+Age Group,56-65,Scotland,Other contract level,2021/22,2360
+Age Group,56-65,Scotland,Other senior academic,2021/22,220
+Age Group,56-65,Scotland,Professor,2021/22,965
+Age Group,56-65,Scotland,Total,2021/22,3545
+Age Group,56-65,Wales,Other contract level,2021/22,1315
+Age Group,56-65,Wales,Other senior academic,2021/22,80
+Age Group,56-65,Wales,Professor,2021/22,400
+Age Group,56-65,Wales,Total,2021/22,1795
+Age Group,56-65,All,Other contract level,2021/22,26090
+Age Group,56-65,All,Other senior academic,2021/22,2210
+Age Group,56-65,All,Professor,2021/22,8525
+Age Group,56-65,All,Total,2021/22,36820
+Age Group,66 and over,England,Other contract level,2017/18,4450
+Age Group,66 and over,England,Other senior academic,2017/18,185
+Age Group,66 and over,England,Professor,2017/18,1860
+Age Group,66 and over,England,Total,2017/18,6495
+Age Group,66 and over,Northern Ireland,Other contract level,2017/18,35
+Age Group,66 and over,Northern Ireland,Other senior academic,2017/18,0
+Age Group,66 and over,Northern Ireland,Professor,2017/18,25
+Age Group,66 and over,Northern Ireland,Total,2017/18,55
+Age Group,66 and over,Scotland,Other contract level,2017/18,315
+Age Group,66 and over,Scotland,Other senior academic,2017/18,20
+Age Group,66 and over,Scotland,Professor,2017/18,190
+Age Group,66 and over,Scotland,Total,2017/18,525
+Age Group,66 and over,Wales,Other contract level,2017/18,230
+Age Group,66 and over,Wales,Other senior academic,2017/18,10
+Age Group,66 and over,Wales,Professor,2017/18,120
+Age Group,66 and over,Wales,Total,2017/18,360
+Age Group,66 and over,All,Other contract level,2017/18,5030
+Age Group,66 and over,All,Other senior academic,2017/18,215
+Age Group,66 and over,All,Professor,2017/18,2190
+Age Group,66 and over,All,Total,2017/18,7440
+Age Group,66 and over,England,Other contract level,2018/19,4600
+Age Group,66 and over,England,Other senior academic,2018/19,210
+Age Group,66 and over,England,Professor,2018/19,2000
+Age Group,66 and over,England,Total,2018/19,6810
+Age Group,66 and over,Northern Ireland,Other contract level,2018/19,35
+Age Group,66 and over,Northern Ireland,Other senior academic,2018/19,0
+Age Group,66 and over,Northern Ireland,Professor,2018/19,30
+Age Group,66 and over,Northern Ireland,Total,2018/19,65
+Age Group,66 and over,Scotland,Other contract level,2018/19,335
+Age Group,66 and over,Scotland,Other senior academic,2018/19,15
+Age Group,66 and over,Scotland,Professor,2018/19,220
+Age Group,66 and over,Scotland,Total,2018/19,570
+Age Group,66 and over,Wales,Other contract level,2018/19,240
+Age Group,66 and over,Wales,Other senior academic,2018/19,10
+Age Group,66 and over,Wales,Professor,2018/19,105
+Age Group,66 and over,Wales,Total,2018/19,360
+Age Group,66 and over,All,Other contract level,2018/19,5205
+Age Group,66 and over,All,Other senior academic,2018/19,235
+Age Group,66 and over,All,Professor,2018/19,2360
+Age Group,66 and over,All,Total,2018/19,7805
+Age Group,66 and over,England,Other contract level,2019/20,4890
+Age Group,66 and over,England,Other senior academic,2019/20,210
+Age Group,66 and over,England,Professor,2019/20,2180
+Age Group,66 and over,England,Total,2019/20,7280
+Age Group,66 and over,Northern Ireland,Other contract level,2019/20,35
+Age Group,66 and over,Northern Ireland,Other senior academic,2019/20,0
+Age Group,66 and over,Northern Ireland,Professor,2019/20,40
+Age Group,66 and over,Northern Ireland,Total,2019/20,75
+Age Group,66 and over,Scotland,Other contract level,2019/20,350
+Age Group,66 and over,Scotland,Other senior academic,2019/20,25
+Age Group,66 and over,Scotland,Professor,2019/20,255
+Age Group,66 and over,Scotland,Total,2019/20,630
+Age Group,66 and over,Wales,Other contract level,2019/20,255
+Age Group,66 and over,Wales,Other senior academic,2019/20,5
+Age Group,66 and over,Wales,Professor,2019/20,115
+Age Group,66 and over,Wales,Total,2019/20,380
+Age Group,66 and over,All,Other contract level,2019/20,5535
+Age Group,66 and over,All,Other senior academic,2019/20,245
+Age Group,66 and over,All,Professor,2019/20,2585
+Age Group,66 and over,All,Total,2019/20,8365
+Age Group,66 and over,England,Other contract level,2020/21,4705
+Age Group,66 and over,England,Other senior academic,2020/21,205
+Age Group,66 and over,England,Professor,2020/21,2155
+Age Group,66 and over,England,Total,2020/21,7060
+Age Group,66 and over,Northern Ireland,Other contract level,2020/21,35
+Age Group,66 and over,Northern Ireland,Other senior academic,2020/21,5
+Age Group,66 and over,Northern Ireland,Professor,2020/21,40
+Age Group,66 and over,Northern Ireland,Total,2020/21,80
+Age Group,66 and over,Scotland,Other contract level,2020/21,370
+Age Group,66 and over,Scotland,Other senior academic,2020/21,40
+Age Group,66 and over,Scotland,Professor,2020/21,265
+Age Group,66 and over,Scotland,Total,2020/21,675
+Age Group,66 and over,Wales,Other contract level,2020/21,240
+Age Group,66 and over,Wales,Other senior academic,2020/21,5
+Age Group,66 and over,Wales,Professor,2020/21,120
+Age Group,66 and over,Wales,Total,2020/21,365
+Age Group,66 and over,All,Other contract level,2020/21,5350
+Age Group,66 and over,All,Other senior academic,2020/21,255
+Age Group,66 and over,All,Professor,2020/21,2580
+Age Group,66 and over,All,Total,2020/21,8180
+Age Group,66 and over,England,Other contract level,2021/22,4970
+Age Group,66 and over,England,Other senior academic,2021/22,210
+Age Group,66 and over,England,Professor,2021/22,2220
+Age Group,66 and over,England,Total,2021/22,7395
+Age Group,66 and over,Northern Ireland,Other contract level,2021/22,45
+Age Group,66 and over,Northern Ireland,Other senior academic,2021/22,5
+Age Group,66 and over,Northern Ireland,Professor,2021/22,35
+Age Group,66 and over,Northern Ireland,Total,2021/22,85
+Age Group,66 and over,Scotland,Other contract level,2021/22,400
+Age Group,66 and over,Scotland,Other senior academic,2021/22,35
+Age Group,66 and over,Scotland,Professor,2021/22,270
+Age Group,66 and over,Scotland,Total,2021/22,705
+Age Group,66 and over,Wales,Other contract level,2021/22,260
+Age Group,66 and over,Wales,Other senior academic,2021/22,10
+Age Group,66 and over,Wales,Professor,2021/22,115
+Age Group,66 and over,Wales,Total,2021/22,385
+Age Group,66 and over,All,Other contract level,2021/22,5680
+Age Group,66 and over,All,Other senior academic,2021/22,255
+Age Group,66 and over,All,Professor,2021/22,2640
+Age Group,66 and over,All,Total,2021/22,8570
+Disability status,Known to have a disability,England,Other contract level,2017/18,6755
+Disability status,Known to have a disability,England,Other senior academic,2017/18,190
+Disability status,Known to have a disability,England,Professor,2017/18,525
+Disability status,Known to have a disability,England,Total,2017/18,7470
+Disability status,Known to have a disability,Northern Ireland,Other contract level,2017/18,145
+Disability status,Known to have a disability,Northern Ireland,Other senior academic,2017/18,5
+Disability status,Known to have a disability,Northern Ireland,Professor,2017/18,15
+Disability status,Known to have a disability,Northern Ireland,Total,2017/18,160
+Disability status,Known to have a disability,Scotland,Other contract level,2017/18,595
+Disability status,Known to have a disability,Scotland,Other senior academic,2017/18,20
+Disability status,Known to have a disability,Scotland,Professor,2017/18,70
+Disability status,Known to have a disability,Scotland,Total,2017/18,685
+Disability status,Known to have a disability,Wales,Other contract level,2017/18,420
+Disability status,Known to have a disability,Wales,Other senior academic,2017/18,15
+Disability status,Known to have a disability,Wales,Professor,2017/18,45
+Disability status,Known to have a disability,Wales,Total,2017/18,475
+Disability status,Known to have a disability,All,Other contract level,2017/18,7915
+Disability status,Known to have a disability,All,Other senior academic,2017/18,225
+Disability status,Known to have a disability,All,Professor,2017/18,655
+Disability status,Known to have a disability,All,Total,2017/18,8795
+Disability status,Known to have a disability,England,Other contract level,2018/19,7280
+Disability status,Known to have a disability,England,Other senior academic,2018/19,190
+Disability status,Known to have a disability,England,Professor,2018/19,540
+Disability status,Known to have a disability,England,Total,2018/19,8010
+Disability status,Known to have a disability,Northern Ireland,Other contract level,2018/19,160
+Disability status,Known to have a disability,Northern Ireland,Other senior academic,2018/19,10
+Disability status,Known to have a disability,Northern Ireland,Professor,2018/19,20
+Disability status,Known to have a disability,Northern Ireland,Total,2018/19,190
+Disability status,Known to have a disability,Scotland,Other contract level,2018/19,625
+Disability status,Known to have a disability,Scotland,Other senior academic,2018/19,15
+Disability status,Known to have a disability,Scotland,Professor,2018/19,80
+Disability status,Known to have a disability,Scotland,Total,2018/19,725
+Disability status,Known to have a disability,Wales,Other contract level,2018/19,460
+Disability status,Known to have a disability,Wales,Other senior academic,2018/19,15
+Disability status,Known to have a disability,Wales,Professor,2018/19,40
+Disability status,Known to have a disability,Wales,Total,2018/19,515
+Disability status,Known to have a disability,All,Other contract level,2018/19,8525
+Disability status,Known to have a disability,All,Other senior academic,2018/19,225
+Disability status,Known to have a disability,All,Professor,2018/19,685
+Disability status,Known to have a disability,All,Total,2018/19,9435
+Disability status,Known to have a disability,England,Other contract level,2019/20,8070
+Disability status,Known to have a disability,England,Other senior academic,2019/20,195
+Disability status,Known to have a disability,England,Professor,2019/20,590
+Disability status,Known to have a disability,England,Total,2019/20,8850
+Disability status,Known to have a disability,Northern Ireland,Other contract level,2019/20,170
+Disability status,Known to have a disability,Northern Ireland,Other senior academic,2019/20,5
+Disability status,Known to have a disability,Northern Ireland,Professor,2019/20,20
+Disability status,Known to have a disability,Northern Ireland,Total,2019/20,195
+Disability status,Known to have a disability,Scotland,Other contract level,2019/20,690
+Disability status,Known to have a disability,Scotland,Other senior academic,2019/20,15
+Disability status,Known to have a disability,Scotland,Professor,2019/20,80
+Disability status,Known to have a disability,Scotland,Total,2019/20,785
+Disability status,Known to have a disability,Wales,Other contract level,2019/20,490
+Disability status,Known to have a disability,Wales,Other senior academic,2019/20,15
+Disability status,Known to have a disability,Wales,Professor,2019/20,50
+Disability status,Known to have a disability,Wales,Total,2019/20,555
+Disability status,Known to have a disability,All,Other contract level,2019/20,9420
+Disability status,Known to have a disability,All,Other senior academic,2019/20,230
+Disability status,Known to have a disability,All,Professor,2019/20,735
+Disability status,Known to have a disability,All,Total,2019/20,10385
+Disability status,Known to have a disability,England,Other contract level,2020/21,8685
+Disability status,Known to have a disability,England,Other senior academic,2020/21,215
+Disability status,Known to have a disability,England,Professor,2020/21,640
+Disability status,Known to have a disability,England,Total,2020/21,9540
+Disability status,Known to have a disability,Northern Ireland,Other contract level,2020/21,160
+Disability status,Known to have a disability,Northern Ireland,Other senior academic,2020/21,10
+Disability status,Known to have a disability,Northern Ireland,Professor,2020/21,25
+Disability status,Known to have a disability,Northern Ireland,Total,2020/21,195
+Disability status,Known to have a disability,Scotland,Other contract level,2020/21,950
+Disability status,Known to have a disability,Scotland,Other senior academic,2020/21,20
+Disability status,Known to have a disability,Scotland,Professor,2020/21,90
+Disability status,Known to have a disability,Scotland,Total,2020/21,1060
+Disability status,Known to have a disability,Wales,Other contract level,2020/21,530
+Disability status,Known to have a disability,Wales,Other senior academic,2020/21,10
+Disability status,Known to have a disability,Wales,Professor,2020/21,55
+Disability status,Known to have a disability,Wales,Total,2020/21,600
+Disability status,Known to have a disability,All,Other contract level,2020/21,10330
+Disability status,Known to have a disability,All,Other senior academic,2020/21,255
+Disability status,Known to have a disability,All,Professor,2020/21,810
+Disability status,Known to have a disability,All,Total,2020/21,11395
+Disability status,Known to have a disability,England,Other contract level,2021/22,10025
+Disability status,Known to have a disability,England,Other senior academic,2021/22,255
+Disability status,Known to have a disability,England,Professor,2021/22,715
+Disability status,Known to have a disability,England,Total,2021/22,10995
+Disability status,Known to have a disability,Northern Ireland,Other contract level,2021/22,170
+Disability status,Known to have a disability,Northern Ireland,Other senior academic,2021/22,15
+Disability status,Known to have a disability,Northern Ireland,Professor,2021/22,20
+Disability status,Known to have a disability,Northern Ireland,Total,2021/22,205
+Disability status,Known to have a disability,Scotland,Other contract level,2021/22,2045
+Disability status,Known to have a disability,Scotland,Other senior academic,2021/22,20
+Disability status,Known to have a disability,Scotland,Professor,2021/22,110
+Disability status,Known to have a disability,Scotland,Total,2021/22,2175
+Disability status,Known to have a disability,Wales,Other contract level,2021/22,585
+Disability status,Known to have a disability,Wales,Other senior academic,2021/22,15
+Disability status,Known to have a disability,Wales,Professor,2021/22,65
+Disability status,Known to have a disability,Wales,Total,2021/22,665
+Disability status,Known to have a disability,All,Other contract level,2021/22,12825
+Disability status,Known to have a disability,All,Other senior academic,2021/22,305
+Disability status,Known to have a disability,All,Professor,2021/22,910
+Disability status,Known to have a disability,All,Total,2021/22,14040
+Disability status,No known disability,England,Other contract level,2017/18,146635
+Disability status,No known disability,England,Other senior academic,2017/18,4985
+Disability status,No known disability,England,Professor,2017/18,16625
+Disability status,No known disability,England,Total,2017/18,168245
+Disability status,No known disability,Northern Ireland,Other contract level,2017/18,2580
+Disability status,No known disability,Northern Ireland,Other senior academic,2017/18,125
+Disability status,No known disability,Northern Ireland,Professor,2017/18,300
+Disability status,No known disability,Northern Ireland,Total,2017/18,3005
+Disability status,No known disability,Scotland,Other contract level,2017/18,19340
+Disability status,No known disability,Scotland,Other senior academic,2017/18,530
+Disability status,No known disability,Scotland,Professor,2017/18,2280
+Disability status,No known disability,Scotland,Total,2017/18,22150
+Disability status,No known disability,Wales,Other contract level,2017/18,8390
+Disability status,No known disability,Wales,Other senior academic,2017/18,305
+Disability status,No known disability,Wales,Professor,2017/18,1080
+Disability status,No known disability,Wales,Total,2017/18,9780
+Disability status,No known disability,All,Other contract level,2017/18,176950
+Disability status,No known disability,All,Other senior academic,2017/18,5950
+Disability status,No known disability,All,Professor,2017/18,20285
+Disability status,No known disability,All,Total,2017/18,203185
+Disability status,No known disability,England,Other contract level,2018/19,149680
+Disability status,No known disability,England,Other senior academic,2018/19,4930
+Disability status,No known disability,England,Professor,2018/19,17270
+Disability status,No known disability,England,Total,2018/19,171885
+Disability status,No known disability,Northern Ireland,Other contract level,2018/19,2665
+Disability status,No known disability,Northern Ireland,Other senior academic,2018/19,170
+Disability status,No known disability,Northern Ireland,Professor,2018/19,305
+Disability status,No known disability,Northern Ireland,Total,2018/19,3135
+Disability status,No known disability,Scotland,Other contract level,2018/19,20000
+Disability status,No known disability,Scotland,Other senior academic,2018/19,510
+Disability status,No known disability,Scotland,Professor,2018/19,2345
+Disability status,No known disability,Scotland,Total,2018/19,22860
+Disability status,No known disability,Wales,Other contract level,2018/19,8490
+Disability status,No known disability,Wales,Other senior academic,2018/19,345
+Disability status,No known disability,Wales,Professor,2018/19,915
+Disability status,No known disability,Wales,Total,2018/19,9750
+Disability status,No known disability,All,Other contract level,2018/19,180835
+Disability status,No known disability,All,Other senior academic,2018/19,5960
+Disability status,No known disability,All,Professor,2018/19,20835
+Disability status,No known disability,All,Total,2018/19,207630
+Disability status,No known disability,England,Other contract level,2019/20,153515
+Disability status,No known disability,England,Other senior academic,2019/20,4980
+Disability status,No known disability,England,Professor,2019/20,18255
+Disability status,No known disability,England,Total,2019/20,176750
+Disability status,No known disability,Northern Ireland,Other contract level,2019/20,2815
+Disability status,No known disability,Northern Ireland,Other senior academic,2019/20,150
+Disability status,No known disability,Northern Ireland,Professor,2019/20,350
+Disability status,No known disability,Northern Ireland,Total,2019/20,3320
+Disability status,No known disability,Scotland,Other contract level,2019/20,20490
+Disability status,No known disability,Scotland,Other senior academic,2019/20,485
+Disability status,No known disability,Scotland,Professor,2019/20,2485
+Disability status,No known disability,Scotland,Total,2019/20,23465
+Disability status,No known disability,Wales,Other contract level,2019/20,8360
+Disability status,No known disability,Wales,Other senior academic,2019/20,270
+Disability status,No known disability,Wales,Professor,2019/20,980
+Disability status,No known disability,Wales,Total,2019/20,9610
+Disability status,No known disability,All,Other contract level,2019/20,185185
+Disability status,No known disability,All,Other senior academic,2019/20,5885
+Disability status,No known disability,All,Professor,2019/20,22075
+Disability status,No known disability,All,Total,2019/20,213145
+Disability status,No known disability,England,Other contract level,2020/21,153215
+Disability status,No known disability,England,Other senior academic,2020/21,5005
+Disability status,No known disability,England,Professor,2020/21,18205
+Disability status,No known disability,England,Total,2020/21,176425
+Disability status,No known disability,Northern Ireland,Other contract level,2020/21,2845
+Disability status,No known disability,Northern Ireland,Other senior academic,2020/21,190
+Disability status,No known disability,Northern Ireland,Professor,2020/21,350
+Disability status,No known disability,Northern Ireland,Total,2020/21,3385
+Disability status,No known disability,Scotland,Other contract level,2020/21,20835
+Disability status,No known disability,Scotland,Other senior academic,2020/21,525
+Disability status,No known disability,Scotland,Professor,2020/21,2520
+Disability status,No known disability,Scotland,Total,2020/21,23880
+Disability status,No known disability,Wales,Other contract level,2020/21,8230
+Disability status,No known disability,Wales,Other senior academic,2020/21,245
+Disability status,No known disability,Wales,Professor,2020/21,965
+Disability status,No known disability,Wales,Total,2020/21,9445
+Disability status,No known disability,All,Other contract level,2020/21,185125
+Disability status,No known disability,All,Other senior academic,2020/21,5965
+Disability status,No known disability,All,Professor,2020/21,22045
+Disability status,No known disability,All,Total,2020/21,213135
+Disability status,No known disability,England,Other contract level,2021/22,159545
+Disability status,No known disability,England,Other senior academic,2021/22,5080
+Disability status,No known disability,England,Professor,2021/22,18705
+Disability status,No known disability,England,Total,2021/22,183325
+Disability status,No known disability,Northern Ireland,Other contract level,2021/22,2895
+Disability status,No known disability,Northern Ireland,Other senior academic,2021/22,175
+Disability status,No known disability,Northern Ireland,Professor,2021/22,380
+Disability status,No known disability,Northern Ireland,Total,2021/22,3450
+Disability status,No known disability,Scotland,Other contract level,2021/22,20510
+Disability status,No known disability,Scotland,Other senior academic,2021/22,530
+Disability status,No known disability,Scotland,Professor,2021/22,2555
+Disability status,No known disability,Scotland,Total,2021/22,23600
+Disability status,No known disability,Wales,Other contract level,2021/22,8310
+Disability status,No known disability,Wales,Other senior academic,2021/22,240
+Disability status,No known disability,Wales,Professor,2021/22,965
+Disability status,No known disability,Wales,Total,2021/22,9515
+Disability status,No known disability,All,Other contract level,2021/22,191260
+Disability status,No known disability,All,Other senior academic,2021/22,6030
+Disability status,No known disability,All,Professor,2021/22,22605
+Disability status,No known disability,All,Total,2021/22,219890
+Ethnicity,White,England,Other contract level,2017/18,116900
+Ethnicity,White,England,Other senior academic,2017/18,4585
+Ethnicity,White,England,Professor,2017/18,14205
+Ethnicity,White,England,Total,2017/18,135690
+Ethnicity,White,Northern Ireland,Other contract level,2017/18,2370
+Ethnicity,White,Northern Ireland,Other senior academic,2017/18,130
+Ethnicity,White,Northern Ireland,Professor,2017/18,280
+Ethnicity,White,Northern Ireland,Total,2017/18,2780
+Ethnicity,White,Scotland,Other contract level,2017/18,14610
+Ethnicity,White,Scotland,Other senior academic,2017/18,485
+Ethnicity,White,Scotland,Professor,2017/18,1935
+Ethnicity,White,Scotland,Total,2017/18,17030
+Ethnicity,White,Wales,Other contract level,2017/18,7360
+Ethnicity,White,Wales,Other senior academic,2017/18,300
+Ethnicity,White,Wales,Professor,2017/18,950
+Ethnicity,White,Wales,Total,2017/18,8615
+Ethnicity,White,All,Other contract level,2017/18,141240
+Ethnicity,White,All,Other senior academic,2017/18,5505
+Ethnicity,White,All,Professor,2017/18,17370
+Ethnicity,White,All,Total,2017/18,164115
+Ethnicity,White,England,Other contract level,2018/19,118100
+Ethnicity,White,England,Other senior academic,2018/19,4515
+Ethnicity,White,England,Professor,2018/19,14705
+Ethnicity,White,England,Total,2018/19,137315
+Ethnicity,White,Northern Ireland,Other contract level,2018/19,2405
+Ethnicity,White,Northern Ireland,Other senior academic,2018/19,175
+Ethnicity,White,Northern Ireland,Professor,2018/19,285
+Ethnicity,White,Northern Ireland,Total,2018/19,2865
+Ethnicity,White,Scotland,Other contract level,2018/19,14665
+Ethnicity,White,Scotland,Other senior academic,2018/19,460
+Ethnicity,White,Scotland,Professor,2018/19,1990
+Ethnicity,White,Scotland,Total,2018/19,17115
+Ethnicity,White,Wales,Other contract level,2018/19,7335
+Ethnicity,White,Wales,Other senior academic,2018/19,340
+Ethnicity,White,Wales,Professor,2018/19,800
+Ethnicity,White,Wales,Total,2018/19,8470
+Ethnicity,White,All,Other contract level,2018/19,142505
+Ethnicity,White,All,Other senior academic,2018/19,5485
+Ethnicity,White,All,Professor,2018/19,17775
+Ethnicity,White,All,Total,2018/19,165765
+Ethnicity,White,England,Other contract level,2019/20,118875
+Ethnicity,White,England,Other senior academic,2019/20,4495
+Ethnicity,White,England,Professor,2019/20,15505
+Ethnicity,White,England,Total,2019/20,138875
+Ethnicity,White,Northern Ireland,Other contract level,2019/20,2485
+Ethnicity,White,Northern Ireland,Other senior academic,2019/20,155
+Ethnicity,White,Northern Ireland,Professor,2019/20,330
+Ethnicity,White,Northern Ireland,Total,2019/20,2970
+Ethnicity,White,Scotland,Other contract level,2019/20,14765
+Ethnicity,White,Scotland,Other senior academic,2019/20,445
+Ethnicity,White,Scotland,Professor,2019/20,2075
+Ethnicity,White,Scotland,Total,2019/20,17290
+Ethnicity,White,Wales,Other contract level,2019/20,7150
+Ethnicity,White,Wales,Other senior academic,2019/20,265
+Ethnicity,White,Wales,Professor,2019/20,865
+Ethnicity,White,Wales,Total,2019/20,8275
+Ethnicity,White,All,Other contract level,2019/20,143275
+Ethnicity,White,All,Other senior academic,2019/20,5360
+Ethnicity,White,All,Professor,2019/20,18770
+Ethnicity,White,All,Total,2019/20,167405
+Ethnicity,White,England,Other contract level,2020/21,117650
+Ethnicity,White,England,Other senior academic,2020/21,4525
+Ethnicity,White,England,Professor,2020/21,15385
+Ethnicity,White,England,Total,2020/21,137555
+Ethnicity,White,Northern Ireland,Other contract level,2020/21,2495
+Ethnicity,White,Northern Ireland,Other senior academic,2020/21,195
+Ethnicity,White,Northern Ireland,Professor,2020/21,340
+Ethnicity,White,Northern Ireland,Total,2020/21,3025
+Ethnicity,White,Scotland,Other contract level,2020/21,14950
+Ethnicity,White,Scotland,Other senior academic,2020/21,485
+Ethnicity,White,Scotland,Professor,2020/21,2120
+Ethnicity,White,Scotland,Total,2020/21,17555
+Ethnicity,White,Wales,Other contract level,2020/21,6770
+Ethnicity,White,Wales,Other senior academic,2020/21,235
+Ethnicity,White,Wales,Professor,2020/21,870
+Ethnicity,White,Wales,Total,2020/21,7875
+Ethnicity,White,All,Other contract level,2020/21,141865
+Ethnicity,White,All,Other senior academic,2020/21,5435
+Ethnicity,White,All,Professor,2020/21,18710
+Ethnicity,White,All,Total,2020/21,166010
+Ethnicity,White,England,Other contract level,2021/22,120130
+Ethnicity,White,England,Other senior academic,2021/22,4585
+Ethnicity,White,England,Professor,2021/22,15750
+Ethnicity,White,England,Total,2021/22,140465
+Ethnicity,White,Northern Ireland,Other contract level,2021/22,2505
+Ethnicity,White,Northern Ireland,Other senior academic,2021/22,185
+Ethnicity,White,Northern Ireland,Professor,2021/22,360
+Ethnicity,White,Northern Ireland,Total,2021/22,3055
+Ethnicity,White,Scotland,Other contract level,2021/22,14930
+Ethnicity,White,Scotland,Other senior academic,2021/22,490
+Ethnicity,White,Scotland,Professor,2021/22,2145
+Ethnicity,White,Scotland,Total,2021/22,17565
+Ethnicity,White,Wales,Other contract level,2021/22,6690
+Ethnicity,White,Wales,Other senior academic,2021/22,230
+Ethnicity,White,Wales,Professor,2021/22,870
+Ethnicity,White,Wales,Total,2021/22,7795
+Ethnicity,White,All,Other contract level,2021/22,144255
+Ethnicity,White,All,Other senior academic,2021/22,5490
+Ethnicity,White,All,Professor,2021/22,19130
+Ethnicity,White,All,Total,2021/22,168880
+Ethnicity,Black,England,Other contract level,2017/18,3220
+Ethnicity,Black,England,Other senior academic,2017/18,35
+Ethnicity,Black,England,Professor,2017/18,100
+Ethnicity,Black,England,Total,2017/18,3355
+Ethnicity,Black,Northern Ireland,Other contract level,2017/18,20
+Ethnicity,Black,Northern Ireland,Other senior academic,2017/18,0
+Ethnicity,Black,Northern Ireland,Professor,2017/18,0
+Ethnicity,Black,Northern Ireland,Total,2017/18,20
+Ethnicity,Black,Scotland,Other contract level,2017/18,225
+Ethnicity,Black,Scotland,Other senior academic,2017/18,5
+Ethnicity,Black,Scotland,Professor,2017/18,15
+Ethnicity,Black,Scotland,Total,2017/18,245
+Ethnicity,Black,Wales,Other contract level,2017/18,95
+Ethnicity,Black,Wales,Other senior academic,2017/18,0
+Ethnicity,Black,Wales,Professor,2017/18,10
+Ethnicity,Black,Wales,Total,2017/18,105
+Ethnicity,Black,All,Other contract level,2017/18,3560
+Ethnicity,Black,All,Other senior academic,2017/18,40
+Ethnicity,Black,All,Professor,2017/18,125
+Ethnicity,Black,All,Total,2017/18,3725
+Ethnicity,Black,England,Other contract level,2018/19,3580
+Ethnicity,Black,England,Other senior academic,2018/19,40
+Ethnicity,Black,England,Professor,2018/19,120
+Ethnicity,Black,England,Total,2018/19,3735
+Ethnicity,Black,Northern Ireland,Other contract level,2018/19,25
+Ethnicity,Black,Northern Ireland,Other senior academic,2018/19,0
+Ethnicity,Black,Northern Ireland,Professor,2018/19,0
+Ethnicity,Black,Northern Ireland,Total,2018/19,30
+Ethnicity,Black,Scotland,Other contract level,2018/19,245
+Ethnicity,Black,Scotland,Other senior academic,2018/19,5
+Ethnicity,Black,Scotland,Professor,2018/19,15
+Ethnicity,Black,Scotland,Total,2018/19,265
+Ethnicity,Black,Wales,Other contract level,2018/19,105
+Ethnicity,Black,Wales,Other senior academic,2018/19,0
+Ethnicity,Black,Wales,Professor,2018/19,5
+Ethnicity,Black,Wales,Total,2018/19,110
+Ethnicity,Black,All,Other contract level,2018/19,3955
+Ethnicity,Black,All,Other senior academic,2018/19,40
+Ethnicity,Black,All,Professor,2018/19,140
+Ethnicity,Black,All,Total,2018/19,4140
+Ethnicity,Black,England,Other contract level,2019/20,4075
+Ethnicity,Black,England,Other senior academic,2019/20,50
+Ethnicity,Black,England,Professor,2019/20,130
+Ethnicity,Black,England,Total,2019/20,4255
+Ethnicity,Black,Northern Ireland,Other contract level,2019/20,35
+Ethnicity,Black,Northern Ireland,Other senior academic,2019/20,0
+Ethnicity,Black,Northern Ireland,Professor,2019/20,0
+Ethnicity,Black,Northern Ireland,Total,2019/20,35
+Ethnicity,Black,Scotland,Other contract level,2019/20,290
+Ethnicity,Black,Scotland,Other senior academic,2019/20,0
+Ethnicity,Black,Scotland,Professor,2019/20,15
+Ethnicity,Black,Scotland,Total,2019/20,310
+Ethnicity,Black,Wales,Other contract level,2019/20,120
+Ethnicity,Black,Wales,Other senior academic,2019/20,0
+Ethnicity,Black,Wales,Professor,2019/20,5
+Ethnicity,Black,Wales,Total,2019/20,125
+Ethnicity,Black,All,Other contract level,2019/20,4520
+Ethnicity,Black,All,Other senior academic,2019/20,55
+Ethnicity,Black,All,Professor,2019/20,155
+Ethnicity,Black,All,Total,2019/20,4725
+Ethnicity,Black,England,Other contract level,2020/21,4480
+Ethnicity,Black,England,Other senior academic,2020/21,60
+Ethnicity,Black,England,Professor,2020/21,135
+Ethnicity,Black,England,Total,2020/21,4675
+Ethnicity,Black,Northern Ireland,Other contract level,2020/21,35
+Ethnicity,Black,Northern Ireland,Other senior academic,2020/21,0
+Ethnicity,Black,Northern Ireland,Professor,2020/21,0
+Ethnicity,Black,Northern Ireland,Total,2020/21,40
+Ethnicity,Black,Scotland,Other contract level,2020/21,320
+Ethnicity,Black,Scotland,Other senior academic,2020/21,0
+Ethnicity,Black,Scotland,Professor,2020/21,20
+Ethnicity,Black,Scotland,Total,2020/21,340
+Ethnicity,Black,Wales,Other contract level,2020/21,145
+Ethnicity,Black,Wales,Other senior academic,2020/21,0
+Ethnicity,Black,Wales,Professor,2020/21,10
+Ethnicity,Black,Wales,Total,2020/21,155
+Ethnicity,Black,All,Other contract level,2020/21,4980
+Ethnicity,Black,All,Other senior academic,2020/21,60
+Ethnicity,Black,All,Professor,2020/21,160
+Ethnicity,Black,All,Total,2020/21,5205
+Ethnicity,Black,England,Other contract level,2021/22,5390
+Ethnicity,Black,England,Other senior academic,2021/22,75
+Ethnicity,Black,England,Professor,2021/22,140
+Ethnicity,Black,England,Total,2021/22,5600
+Ethnicity,Black,Northern Ireland,Other contract level,2021/22,35
+Ethnicity,Black,Northern Ireland,Other senior academic,2021/22,0
+Ethnicity,Black,Northern Ireland,Professor,2021/22,0
+Ethnicity,Black,Northern Ireland,Total,2021/22,35
+Ethnicity,Black,Scotland,Other contract level,2021/22,365
+Ethnicity,Black,Scotland,Other senior academic,2021/22,0
+Ethnicity,Black,Scotland,Professor,2021/22,20
+Ethnicity,Black,Scotland,Total,2021/22,385
+Ethnicity,Black,Wales,Other contract level,2021/22,155
+Ethnicity,Black,Wales,Other senior academic,2021/22,0
+Ethnicity,Black,Wales,Professor,2021/22,5
+Ethnicity,Black,Wales,Total,2021/22,165
+Ethnicity,Black,All,Other contract level,2021/22,5940
+Ethnicity,Black,All,Other senior academic,2021/22,75
+Ethnicity,Black,All,Professor,2021/22,165
+Ethnicity,Black,All,Total,2021/22,6185
+Ethnicity,Asian,England,Other contract level,2017/18,15180
+Ethnicity,Asian,England,Other senior academic,2017/18,215
+Ethnicity,Asian,England,Professor,2017/18,1075
+Ethnicity,Asian,England,Total,2017/18,16465
+Ethnicity,Asian,Northern Ireland,Other contract level,2017/18,215
+Ethnicity,Asian,Northern Ireland,Other senior academic,2017/18,0
+Ethnicity,Asian,Northern Ireland,Professor,2017/18,20
+Ethnicity,Asian,Northern Ireland,Total,2017/18,235
+Ethnicity,Asian,Scotland,Other contract level,2017/18,1525
+Ethnicity,Asian,Scotland,Other senior academic,2017/18,20
+Ethnicity,Asian,Scotland,Professor,2017/18,110
+Ethnicity,Asian,Scotland,Total,2017/18,1655
+Ethnicity,Asian,Wales,Other contract level,2017/18,555
+Ethnicity,Asian,Wales,Other senior academic,2017/18,5
+Ethnicity,Asian,Wales,Professor,2017/18,70
+Ethnicity,Asian,Wales,Total,2017/18,625
+Ethnicity,Asian,All,Other contract level,2017/18,17475
+Ethnicity,Asian,All,Other senior academic,2017/18,235
+Ethnicity,Asian,All,Professor,2017/18,1270
+Ethnicity,Asian,All,Total,2017/18,18980
+Ethnicity,Asian,England,Other contract level,2018/19,16255
+Ethnicity,Asian,England,Other senior academic,2018/19,230
+Ethnicity,Asian,England,Professor,2018/19,1175
+Ethnicity,Asian,England,Total,2018/19,17655
+Ethnicity,Asian,Northern Ireland,Other contract level,2018/19,240
+Ethnicity,Asian,Northern Ireland,Other senior academic,2018/19,0
+Ethnicity,Asian,Northern Ireland,Professor,2018/19,20
+Ethnicity,Asian,Northern Ireland,Total,2018/19,260
+Ethnicity,Asian,Scotland,Other contract level,2018/19,1610
+Ethnicity,Asian,Scotland,Other senior academic,2018/19,15
+Ethnicity,Asian,Scotland,Professor,2018/19,105
+Ethnicity,Asian,Scotland,Total,2018/19,1730
+Ethnicity,Asian,Wales,Other contract level,2018/19,625
+Ethnicity,Asian,Wales,Other senior academic,2018/19,5
+Ethnicity,Asian,Wales,Professor,2018/19,60
+Ethnicity,Asian,Wales,Total,2018/19,695
+Ethnicity,Asian,All,Other contract level,2018/19,18730
+Ethnicity,Asian,All,Other senior academic,2018/19,255
+Ethnicity,Asian,All,Professor,2018/19,1360
+Ethnicity,Asian,All,Total,2018/19,20340
+Ethnicity,Asian,England,Other contract level,2019/20,17525
+Ethnicity,Asian,England,Other senior academic,2019/20,255
+Ethnicity,Asian,England,Professor,2019/20,1300
+Ethnicity,Asian,England,Total,2019/20,19080
+Ethnicity,Asian,Northern Ireland,Other contract level,2019/20,265
+Ethnicity,Asian,Northern Ireland,Other senior academic,2019/20,0
+Ethnicity,Asian,Northern Ireland,Professor,2019/20,20
+Ethnicity,Asian,Northern Ireland,Total,2019/20,285
+Ethnicity,Asian,Scotland,Other contract level,2019/20,1830
+Ethnicity,Asian,Scotland,Other senior academic,2019/20,15
+Ethnicity,Asian,Scotland,Professor,2019/20,115
+Ethnicity,Asian,Scotland,Total,2019/20,1955
+Ethnicity,Asian,Wales,Other contract level,2019/20,665
+Ethnicity,Asian,Wales,Other senior academic,2019/20,10
+Ethnicity,Asian,Wales,Professor,2019/20,60
+Ethnicity,Asian,Wales,Total,2019/20,730
+Ethnicity,Asian,All,Other contract level,2019/20,20285
+Ethnicity,Asian,All,Other senior academic,2019/20,280
+Ethnicity,Asian,All,Professor,2019/20,1495
+Ethnicity,Asian,All,Total,2019/20,22055
+Ethnicity,Asian,England,Other contract level,2020/21,18180
+Ethnicity,Asian,England,Other senior academic,2020/21,270
+Ethnicity,Asian,England,Professor,2020/21,1375
+Ethnicity,Asian,England,Total,2020/21,19825
+Ethnicity,Asian,Northern Ireland,Other contract level,2020/21,270
+Ethnicity,Asian,Northern Ireland,Other senior academic,2020/21,5
+Ethnicity,Asian,Northern Ireland,Professor,2020/21,25
+Ethnicity,Asian,Northern Ireland,Total,2020/21,295
+Ethnicity,Asian,Scotland,Other contract level,2020/21,1995
+Ethnicity,Asian,Scotland,Other senior academic,2020/21,20
+Ethnicity,Asian,Scotland,Professor,2020/21,125
+Ethnicity,Asian,Scotland,Total,2020/21,2140
+Ethnicity,Asian,Wales,Other contract level,2020/21,695
+Ethnicity,Asian,Wales,Other senior academic,2020/21,10
+Ethnicity,Asian,Wales,Professor,2020/21,55
+Ethnicity,Asian,Wales,Total,2020/21,760
+Ethnicity,Asian,All,Other contract level,2020/21,21140
+Ethnicity,Asian,All,Other senior academic,2020/21,300
+Ethnicity,Asian,All,Professor,2020/21,1580
+Ethnicity,Asian,All,Total,2020/21,23020
+Ethnicity,Asian,England,Other contract level,2021/22,19980
+Ethnicity,Asian,England,Other senior academic,2021/22,300
+Ethnicity,Asian,England,Professor,2021/22,1485
+Ethnicity,Asian,England,Total,2021/22,21765
+Ethnicity,Asian,Northern Ireland,Other contract level,2021/22,295
+Ethnicity,Asian,Northern Ireland,Other senior academic,2021/22,5
+Ethnicity,Asian,Northern Ireland,Professor,2021/22,25
+Ethnicity,Asian,Northern Ireland,Total,2021/22,320
+Ethnicity,Asian,Scotland,Other contract level,2021/22,2130
+Ethnicity,Asian,Scotland,Other senior academic,2021/22,20
+Ethnicity,Asian,Scotland,Professor,2021/22,140
+Ethnicity,Asian,Scotland,Total,2021/22,2290
+Ethnicity,Asian,Wales,Other contract level,2021/22,700
+Ethnicity,Asian,Wales,Other senior academic,2021/22,10
+Ethnicity,Asian,Wales,Professor,2021/22,55
+Ethnicity,Asian,Wales,Total,2021/22,765
+Ethnicity,Asian,All,Other contract level,2021/22,23105
+Ethnicity,Asian,All,Other senior academic,2021/22,330
+Ethnicity,Asian,All,Professor,2021/22,1705
+Ethnicity,Asian,All,Total,2021/22,25140
+Ethnicity,Mixed,England,Other contract level,2017/18,3385
+Ethnicity,Mixed,England,Other senior academic,2017/18,55
+Ethnicity,Mixed,England,Professor,2017/18,205
+Ethnicity,Mixed,England,Total,2017/18,3645
+Ethnicity,Mixed,Northern Ireland,Other contract level,2017/18,25
+Ethnicity,Mixed,Northern Ireland,Other senior academic,2017/18,0
+Ethnicity,Mixed,Northern Ireland,Professor,2017/18,0
+Ethnicity,Mixed,Northern Ireland,Total,2017/18,25
+Ethnicity,Mixed,Scotland,Other contract level,2017/18,310
+Ethnicity,Mixed,Scotland,Other senior academic,2017/18,0
+Ethnicity,Mixed,Scotland,Professor,2017/18,25
+Ethnicity,Mixed,Scotland,Total,2017/18,335
+Ethnicity,Mixed,Wales,Other contract level,2017/18,90
+Ethnicity,Mixed,Wales,Other senior academic,2017/18,5
+Ethnicity,Mixed,Wales,Professor,2017/18,5
+Ethnicity,Mixed,Wales,Total,2017/18,100
+Ethnicity,Mixed,All,Other contract level,2017/18,3805
+Ethnicity,Mixed,All,Other senior academic,2017/18,60
+Ethnicity,Mixed,All,Professor,2017/18,235
+Ethnicity,Mixed,All,Total,2017/18,4100
+Ethnicity,Mixed,England,Other contract level,2018/19,3665
+Ethnicity,Mixed,England,Other senior academic,2018/19,60
+Ethnicity,Mixed,England,Professor,2018/19,220
+Ethnicity,Mixed,England,Total,2018/19,3945
+Ethnicity,Mixed,Northern Ireland,Other contract level,2018/19,30
+Ethnicity,Mixed,Northern Ireland,Other senior academic,2018/19,0
+Ethnicity,Mixed,Northern Ireland,Professor,2018/19,0
+Ethnicity,Mixed,Northern Ireland,Total,2018/19,30
+Ethnicity,Mixed,Scotland,Other contract level,2018/19,365
+Ethnicity,Mixed,Scotland,Other senior academic,2018/19,0
+Ethnicity,Mixed,Scotland,Professor,2018/19,25
+Ethnicity,Mixed,Scotland,Total,2018/19,395
+Ethnicity,Mixed,Wales,Other contract level,2018/19,110
+Ethnicity,Mixed,Wales,Other senior academic,2018/19,5
+Ethnicity,Mixed,Wales,Professor,2018/19,10
+Ethnicity,Mixed,Wales,Total,2018/19,120
+Ethnicity,Mixed,All,Other contract level,2018/19,4165
+Ethnicity,Mixed,All,Other senior academic,2018/19,65
+Ethnicity,Mixed,All,Professor,2018/19,255
+Ethnicity,Mixed,All,Total,2018/19,4485
+Ethnicity,Mixed,England,Other contract level,2019/20,4115
+Ethnicity,Mixed,England,Other senior academic,2019/20,70
+Ethnicity,Mixed,England,Professor,2019/20,250
+Ethnicity,Mixed,England,Total,2019/20,4435
+Ethnicity,Mixed,Northern Ireland,Other contract level,2019/20,30
+Ethnicity,Mixed,Northern Ireland,Other senior academic,2019/20,0
+Ethnicity,Mixed,Northern Ireland,Professor,2019/20,5
+Ethnicity,Mixed,Northern Ireland,Total,2019/20,35
+Ethnicity,Mixed,Scotland,Other contract level,2019/20,405
+Ethnicity,Mixed,Scotland,Other senior academic,2019/20,0
+Ethnicity,Mixed,Scotland,Professor,2019/20,30
+Ethnicity,Mixed,Scotland,Total,2019/20,435
+Ethnicity,Mixed,Wales,Other contract level,2019/20,130
+Ethnicity,Mixed,Wales,Other senior academic,2019/20,0
+Ethnicity,Mixed,Wales,Professor,2019/20,10
+Ethnicity,Mixed,Wales,Total,2019/20,140
+Ethnicity,Mixed,All,Other contract level,2019/20,4675
+Ethnicity,Mixed,All,Other senior academic,2019/20,70
+Ethnicity,Mixed,All,Professor,2019/20,295
+Ethnicity,Mixed,All,Total,2019/20,5045
+Ethnicity,Mixed,England,Other contract level,2020/21,4385
+Ethnicity,Mixed,England,Other senior academic,2020/21,70
+Ethnicity,Mixed,England,Professor,2020/21,280
+Ethnicity,Mixed,England,Total,2020/21,4735
+Ethnicity,Mixed,Northern Ireland,Other contract level,2020/21,25
+Ethnicity,Mixed,Northern Ireland,Other senior academic,2020/21,0
+Ethnicity,Mixed,Northern Ireland,Professor,2020/21,5
+Ethnicity,Mixed,Northern Ireland,Total,2020/21,30
+Ethnicity,Mixed,Scotland,Other contract level,2020/21,450
+Ethnicity,Mixed,Scotland,Other senior academic,2020/21,0
+Ethnicity,Mixed,Scotland,Professor,2020/21,40
+Ethnicity,Mixed,Scotland,Total,2020/21,490
+Ethnicity,Mixed,Wales,Other contract level,2020/21,145
+Ethnicity,Mixed,Wales,Other senior academic,2020/21,0
+Ethnicity,Mixed,Wales,Professor,2020/21,10
+Ethnicity,Mixed,Wales,Total,2020/21,155
+Ethnicity,Mixed,All,Other contract level,2020/21,5005
+Ethnicity,Mixed,All,Other senior academic,2020/21,75
+Ethnicity,Mixed,All,Professor,2020/21,335
+Ethnicity,Mixed,All,Total,2020/21,5410
+Ethnicity,Mixed,England,Other contract level,2021/22,5025
+Ethnicity,Mixed,England,Other senior academic,2021/22,80
+Ethnicity,Mixed,England,Professor,2021/22,310
+Ethnicity,Mixed,England,Total,2021/22,5415
+Ethnicity,Mixed,Northern Ireland,Other contract level,2021/22,30
+Ethnicity,Mixed,Northern Ireland,Other senior academic,2021/22,0
+Ethnicity,Mixed,Northern Ireland,Professor,2021/22,5
+Ethnicity,Mixed,Northern Ireland,Total,2021/22,35
+Ethnicity,Mixed,Scotland,Other contract level,2021/22,465
+Ethnicity,Mixed,Scotland,Other senior academic,2021/22,0
+Ethnicity,Mixed,Scotland,Professor,2021/22,40
+Ethnicity,Mixed,Scotland,Total,2021/22,510
+Ethnicity,Mixed,Wales,Other contract level,2021/22,150
+Ethnicity,Mixed,Wales,Other senior academic,2021/22,0
+Ethnicity,Mixed,Wales,Professor,2021/22,10
+Ethnicity,Mixed,Wales,Total,2021/22,160
+Ethnicity,Mixed,All,Other contract level,2021/22,5675
+Ethnicity,Mixed,All,Other senior academic,2021/22,80
+Ethnicity,Mixed,All,Professor,2021/22,365
+Ethnicity,Mixed,All,Total,2021/22,6125
+Ethnicity,Other,England,Other contract level,2017/18,3070
+Ethnicity,Other,England,Other senior academic,2017/18,65
+Ethnicity,Other,England,Professor,2017/18,240
+Ethnicity,Other,England,Total,2017/18,3370
+Ethnicity,Other,Northern Ireland,Other contract level,2017/18,15
+Ethnicity,Other,Northern Ireland,Other senior academic,2017/18,0
+Ethnicity,Other,Northern Ireland,Professor,2017/18,5
+Ethnicity,Other,Northern Ireland,Total,2017/18,20
+Ethnicity,Other,Scotland,Other contract level,2017/18,485
+Ethnicity,Other,Scotland,Other senior academic,2017/18,5
+Ethnicity,Other,Scotland,Professor,2017/18,20
+Ethnicity,Other,Scotland,Total,2017/18,510
+Ethnicity,Other,Wales,Other contract level,2017/18,215
+Ethnicity,Other,Wales,Other senior academic,2017/18,5
+Ethnicity,Other,Wales,Professor,2017/18,45
+Ethnicity,Other,Wales,Total,2017/18,265
+Ethnicity,Other,All,Other contract level,2017/18,3780
+Ethnicity,Other,All,Other senior academic,2017/18,75
+Ethnicity,Other,All,Professor,2017/18,310
+Ethnicity,Other,All,Total,2017/18,4165
+Ethnicity,Other,England,Other contract level,2018/19,3390
+Ethnicity,Other,England,Other senior academic,2018/19,60
+Ethnicity,Other,England,Professor,2018/19,260
+Ethnicity,Other,England,Total,2018/19,3710
+Ethnicity,Other,Northern Ireland,Other contract level,2018/19,15
+Ethnicity,Other,Northern Ireland,Other senior academic,2018/19,0
+Ethnicity,Other,Northern Ireland,Professor,2018/19,5
+Ethnicity,Other,Northern Ireland,Total,2018/19,20
+Ethnicity,Other,Scotland,Other contract level,2018/19,505
+Ethnicity,Other,Scotland,Other senior academic,2018/19,5
+Ethnicity,Other,Scotland,Professor,2018/19,25
+Ethnicity,Other,Scotland,Total,2018/19,535
+Ethnicity,Other,Wales,Other contract level,2018/19,210
+Ethnicity,Other,Wales,Other senior academic,2018/19,5
+Ethnicity,Other,Wales,Professor,2018/19,35
+Ethnicity,Other,Wales,Total,2018/19,250
+Ethnicity,Other,All,Other contract level,2018/19,4125
+Ethnicity,Other,All,Other senior academic,2018/19,75
+Ethnicity,Other,All,Professor,2018/19,315
+Ethnicity,Other,All,Total,2018/19,4515
+Ethnicity,Other,England,Other contract level,2019/20,3725
+Ethnicity,Other,England,Other senior academic,2019/20,65
+Ethnicity,Other,England,Professor,2019/20,275
+Ethnicity,Other,England,Total,2019/20,4065
+Ethnicity,Other,Northern Ireland,Other contract level,2019/20,25
+Ethnicity,Other,Northern Ireland,Other senior academic,2019/20,0
+Ethnicity,Other,Northern Ireland,Professor,2019/20,5
+Ethnicity,Other,Northern Ireland,Total,2019/20,30
+Ethnicity,Other,Scotland,Other contract level,2019/20,575
+Ethnicity,Other,Scotland,Other senior academic,2019/20,5
+Ethnicity,Other,Scotland,Professor,2019/20,30
+Ethnicity,Other,Scotland,Total,2019/20,605
+Ethnicity,Other,Wales,Other contract level,2019/20,210
+Ethnicity,Other,Wales,Other senior academic,2019/20,5
+Ethnicity,Other,Wales,Professor,2019/20,40
+Ethnicity,Other,Wales,Total,2019/20,250
+Ethnicity,Other,All,Other contract level,2019/20,4530
+Ethnicity,Other,All,Other senior academic,2019/20,75
+Ethnicity,Other,All,Professor,2019/20,340
+Ethnicity,Other,All,Total,2019/20,4950
+Ethnicity,Other,England,Other contract level,2020/21,4000
+Ethnicity,Other,England,Other senior academic,2020/21,75
+Ethnicity,Other,England,Professor,2020/21,285
+Ethnicity,Other,England,Total,2020/21,4360
+Ethnicity,Other,Northern Ireland,Other contract level,2020/21,35
+Ethnicity,Other,Northern Ireland,Other senior academic,2020/21,0
+Ethnicity,Other,Northern Ireland,Professor,2020/21,5
+Ethnicity,Other,Northern Ireland,Total,2020/21,40
+Ethnicity,Other,Scotland,Other contract level,2020/21,630
+Ethnicity,Other,Scotland,Other senior academic,2020/21,5
+Ethnicity,Other,Scotland,Professor,2020/21,30
+Ethnicity,Other,Scotland,Total,2020/21,665
+Ethnicity,Other,Wales,Other contract level,2020/21,210
+Ethnicity,Other,Wales,Other senior academic,2020/21,5
+Ethnicity,Other,Wales,Professor,2020/21,35
+Ethnicity,Other,Wales,Total,2020/21,245
+Ethnicity,Other,All,Other contract level,2020/21,4870
+Ethnicity,Other,All,Other senior academic,2020/21,85
+Ethnicity,Other,All,Professor,2020/21,350
+Ethnicity,Other,All,Total,2020/21,5310
+Ethnicity,Other,England,Other contract level,2021/22,4545
+Ethnicity,Other,England,Other senior academic,2021/22,75
+Ethnicity,Other,England,Professor,2021/22,310
+Ethnicity,Other,England,Total,2021/22,4935
+Ethnicity,Other,Northern Ireland,Other contract level,2021/22,40
+Ethnicity,Other,Northern Ireland,Other senior academic,2021/22,0
+Ethnicity,Other,Northern Ireland,Professor,2021/22,5
+Ethnicity,Other,Northern Ireland,Total,2021/22,40
+Ethnicity,Other,Scotland,Other contract level,2021/22,640
+Ethnicity,Other,Scotland,Other senior academic,2021/22,5
+Ethnicity,Other,Scotland,Professor,2021/22,35
+Ethnicity,Other,Scotland,Total,2021/22,680
+Ethnicity,Other,Wales,Other contract level,2021/22,220
+Ethnicity,Other,Wales,Other senior academic,2021/22,5
+Ethnicity,Other,Wales,Professor,2021/22,35
+Ethnicity,Other,Wales,Total,2021/22,260
+Ethnicity,Other,All,Other contract level,2021/22,5445
+Ethnicity,Other,All,Other senior academic,2021/22,85
+Ethnicity,Other,All,Professor,2021/22,385
+Ethnicity,Other,All,Total,2021/22,5920
+Ethnicity,Not known,England,Other contract level,2017/18,11645
+Ethnicity,Not known,England,Other senior academic,2017/18,225
+Ethnicity,Not known,England,Professor,2017/18,1325
+Ethnicity,Not known,England,Total,2017/18,13190
+Ethnicity,Not known,Northern Ireland,Other contract level,2017/18,80
+Ethnicity,Not known,Northern Ireland,Other senior academic,2017/18,0
+Ethnicity,Not known,Northern Ireland,Professor,2017/18,10
+Ethnicity,Not known,Northern Ireland,Total,2017/18,90
+Ethnicity,Not known,Scotland,Other contract level,2017/18,2780
+Ethnicity,Not known,Scotland,Other senior academic,2017/18,30
+Ethnicity,Not known,Scotland,Professor,2017/18,250
+Ethnicity,Not known,Scotland,Total,2017/18,3060
+Ethnicity,Not known,Wales,Other contract level,2017/18,500
+Ethnicity,Not known,Wales,Other senior academic,2017/18,5
+Ethnicity,Not known,Wales,Professor,2017/18,45
+Ethnicity,Not known,Wales,Total,2017/18,550
+Ethnicity,Not known,All,Other contract level,2017/18,15000
+Ethnicity,Not known,All,Other senior academic,2017/18,260
+Ethnicity,Not known,All,Professor,2017/18,1630
+Ethnicity,Not known,All,Total,2017/18,16895
+Ethnicity,Not known,England,Other contract level,2018/19,11970
+Ethnicity,Not known,England,Other senior academic,2018/19,220
+Ethnicity,Not known,England,Professor,2018/19,1340
+Ethnicity,Not known,England,Total,2018/19,13535
+Ethnicity,Not known,Northern Ireland,Other contract level,2018/19,105
+Ethnicity,Not known,Northern Ireland,Other senior academic,2018/19,0
+Ethnicity,Not known,Northern Ireland,Professor,2018/19,15
+Ethnicity,Not known,Northern Ireland,Total,2018/19,125
+Ethnicity,Not known,Scotland,Other contract level,2018/19,3235
+Ethnicity,Not known,Scotland,Other senior academic,2018/19,35
+Ethnicity,Not known,Scotland,Professor,2018/19,270
+Ethnicity,Not known,Scotland,Total,2018/19,3540
+Ethnicity,Not known,Wales,Other contract level,2018/19,565
+Ethnicity,Not known,Wales,Other senior academic,2018/19,5
+Ethnicity,Not known,Wales,Professor,2018/19,50
+Ethnicity,Not known,Wales,Total,2018/19,620
+Ethnicity,Not known,All,Other contract level,2018/19,15880
+Ethnicity,Not known,All,Other senior academic,2018/19,270
+Ethnicity,Not known,All,Professor,2018/19,1675
+Ethnicity,Not known,All,Total,2018/19,17820
+Ethnicity,Not known,England,Other contract level,2019/20,13270
+Ethnicity,Not known,England,Other senior academic,2019/20,240
+Ethnicity,Not known,England,Professor,2019/20,1385
+Ethnicity,Not known,England,Total,2019/20,14895
+Ethnicity,Not known,Northern Ireland,Other contract level,2019/20,150
+Ethnicity,Not known,Northern Ireland,Other senior academic,2019/20,0
+Ethnicity,Not known,Northern Ireland,Professor,2019/20,15
+Ethnicity,Not known,Northern Ireland,Total,2019/20,165
+Ethnicity,Not known,Scotland,Other contract level,2019/20,3320
+Ethnicity,Not known,Scotland,Other senior academic,2019/20,30
+Ethnicity,Not known,Scotland,Professor,2019/20,300
+Ethnicity,Not known,Scotland,Total,2019/20,3650
+Ethnicity,Not known,Wales,Other contract level,2019/20,580
+Ethnicity,Not known,Wales,Other senior academic,2019/20,5
+Ethnicity,Not known,Wales,Professor,2019/20,55
+Ethnicity,Not known,Wales,Total,2019/20,640
+Ethnicity,Not known,All,Other contract level,2019/20,17315
+Ethnicity,Not known,All,Other senior academic,2019/20,280
+Ethnicity,Not known,All,Professor,2019/20,1755
+Ethnicity,Not known,All,Total,2019/20,19350
+Ethnicity,Not known,England,Other contract level,2020/21,13205
+Ethnicity,Not known,England,Other senior academic,2020/21,220
+Ethnicity,Not known,England,Professor,2020/21,1390
+Ethnicity,Not known,England,Total,2020/21,14815
+Ethnicity,Not known,Northern Ireland,Other contract level,2020/21,145
+Ethnicity,Not known,Northern Ireland,Other senior academic,2020/21,0
+Ethnicity,Not known,Northern Ireland,Professor,2020/21,5
+Ethnicity,Not known,Northern Ireland,Total,2020/21,150
+Ethnicity,Not known,Scotland,Other contract level,2020/21,3445
+Ethnicity,Not known,Scotland,Other senior academic,2020/21,30
+Ethnicity,Not known,Scotland,Professor,2020/21,280
+Ethnicity,Not known,Scotland,Total,2020/21,3755
+Ethnicity,Not known,Wales,Other contract level,2020/21,800
+Ethnicity,Not known,Wales,Other senior academic,2020/21,5
+Ethnicity,Not known,Wales,Professor,2020/21,45
+Ethnicity,Not known,Wales,Total,2020/21,850
+Ethnicity,Not known,All,Other contract level,2020/21,17595
+Ethnicity,Not known,All,Other senior academic,2020/21,260
+Ethnicity,Not known,All,Professor,2020/21,1720
+Ethnicity,Not known,All,Total,2020/21,19575
+Ethnicity,Not known,England,Other contract level,2021/22,14495
+Ethnicity,Not known,England,Other senior academic,2021/22,230
+Ethnicity,Not known,England,Professor,2021/22,1415
+Ethnicity,Not known,England,Total,2021/22,16140
+Ethnicity,Not known,Northern Ireland,Other contract level,2021/22,160
+Ethnicity,Not known,Northern Ireland,Other senior academic,2021/22,0
+Ethnicity,Not known,Northern Ireland,Professor,2021/22,5
+Ethnicity,Not known,Northern Ireland,Total,2021/22,170
+Ethnicity,Not known,Scotland,Other contract level,2021/22,4020
+Ethnicity,Not known,Scotland,Other senior academic,2021/22,30
+Ethnicity,Not known,Scotland,Professor,2021/22,290
+Ethnicity,Not known,Scotland,Total,2021/22,4340
+Ethnicity,Not known,Wales,Other contract level,2021/22,985
+Ethnicity,Not known,Wales,Other senior academic,2021/22,5
+Ethnicity,Not known,Wales,Professor,2021/22,50
+Ethnicity,Not known,Wales,Total,2021/22,1040
+Ethnicity,Not known,All,Other contract level,2021/22,19660
+Ethnicity,Not known,All,Other senior academic,2021/22,265
+Ethnicity,Not known,All,Professor,2021/22,1755
+Ethnicity,Not known,All,Total,2021/22,21685
+Nationality,UK,England,Other contract level,2017/18,103205
+Nationality,UK,England,Other senior academic,2017/18,4500
+Nationality,UK,England,Professor,2017/18,13075
+Nationality,UK,England,Total,2017/18,120780
+Nationality,UK,Northern Ireland,Other contract level,2017/18,1460
+Nationality,UK,Northern Ireland,Other senior academic,2017/18,100
+Nationality,UK,Northern Ireland,Professor,2017/18,195
+Nationality,UK,Northern Ireland,Total,2017/18,1760
+Nationality,UK,Scotland,Other contract level,2017/18,12530
+Nationality,UK,Scotland,Other senior academic,2017/18,480
+Nationality,UK,Scotland,Professor,2017/18,1845
+Nationality,UK,Scotland,Total,2017/18,14850
+Nationality,UK,Wales,Other contract level,2017/18,6920
+Nationality,UK,Wales,Other senior academic,2017/18,300
+Nationality,UK,Wales,Professor,2017/18,955
+Nationality,UK,Wales,Total,2017/18,8175
+Nationality,UK,All,Other contract level,2017/18,124115
+Nationality,UK,All,Other senior academic,2017/18,5375
+Nationality,UK,All,Professor,2017/18,16070
+Nationality,UK,All,Total,2017/18,145560
+Nationality,UK,England,Other contract level,2018/19,104965
+Nationality,UK,England,Other senior academic,2018/19,4470
+Nationality,UK,England,Professor,2018/19,13495
+Nationality,UK,England,Total,2018/19,122935
+Nationality,UK,Northern Ireland,Other contract level,2018/19,1475
+Nationality,UK,Northern Ireland,Other senior academic,2018/19,125
+Nationality,UK,Northern Ireland,Professor,2018/19,195
+Nationality,UK,Northern Ireland,Total,2018/19,1800
+Nationality,UK,Scotland,Other contract level,2018/19,12800
+Nationality,UK,Scotland,Other senior academic,2018/19,455
+Nationality,UK,Scotland,Professor,2018/19,1875
+Nationality,UK,Scotland,Total,2018/19,15130
+Nationality,UK,Wales,Other contract level,2018/19,6970
+Nationality,UK,Wales,Other senior academic,2018/19,335
+Nationality,UK,Wales,Professor,2018/19,800
+Nationality,UK,Wales,Total,2018/19,8105
+Nationality,UK,All,Other contract level,2018/19,126215
+Nationality,UK,All,Other senior academic,2018/19,5385
+Nationality,UK,All,Professor,2018/19,16370
+Nationality,UK,All,Total,2018/19,147970
+Nationality,UK,England,Other contract level,2019/20,108030
+Nationality,UK,England,Other senior academic,2019/20,4530
+Nationality,UK,England,Professor,2019/20,14075
+Nationality,UK,England,Total,2019/20,126635
+Nationality,UK,Northern Ireland,Other contract level,2019/20,1510
+Nationality,UK,Northern Ireland,Other senior academic,2019/20,120
+Nationality,UK,Northern Ireland,Professor,2019/20,225
+Nationality,UK,Northern Ireland,Total,2019/20,1855
+Nationality,UK,Scotland,Other contract level,2019/20,12905
+Nationality,UK,Scotland,Other senior academic,2019/20,435
+Nationality,UK,Scotland,Professor,2019/20,1970
+Nationality,UK,Scotland,Total,2019/20,15310
+Nationality,UK,Wales,Other contract level,2019/20,6835
+Nationality,UK,Wales,Other senior academic,2019/20,265
+Nationality,UK,Wales,Professor,2019/20,850
+Nationality,UK,Wales,Total,2019/20,7950
+Nationality,UK,All,Other contract level,2019/20,129275
+Nationality,UK,All,Other senior academic,2019/20,5350
+Nationality,UK,All,Professor,2019/20,17120
+Nationality,UK,All,Total,2019/20,151745
+Nationality,UK,England,Other contract level,2020/21,107740
+Nationality,UK,England,Other senior academic,2020/21,4565
+Nationality,UK,England,Professor,2020/21,13990
+Nationality,UK,England,Total,2020/21,126295
+Nationality,UK,Northern Ireland,Other contract level,2020/21,1490
+Nationality,UK,Northern Ireland,Other senior academic,2020/21,135
+Nationality,UK,Northern Ireland,Professor,2020/21,220
+Nationality,UK,Northern Ireland,Total,2020/21,1845
+Nationality,UK,Scotland,Other contract level,2020/21,13025
+Nationality,UK,Scotland,Other senior academic,2020/21,465
+Nationality,UK,Scotland,Professor,2020/21,1980
+Nationality,UK,Scotland,Total,2020/21,15470
+Nationality,UK,Wales,Other contract level,2020/21,6700
+Nationality,UK,Wales,Other senior academic,2020/21,240
+Nationality,UK,Wales,Professor,2020/21,850
+Nationality,UK,Wales,Total,2020/21,7785
+Nationality,UK,All,Other contract level,2020/21,128955
+Nationality,UK,All,Other senior academic,2020/21,5405
+Nationality,UK,All,Professor,2020/21,17035
+Nationality,UK,All,Total,2020/21,151395
+Nationality,UK,England,Other contract level,2021/22,113235
+Nationality,UK,England,Other senior academic,2021/22,4645
+Nationality,UK,England,Professor,2021/22,14290
+Nationality,UK,England,Total,2021/22,132170
+Nationality,UK,Northern Ireland,Other contract level,2021/22,1505
+Nationality,UK,Northern Ireland,Other senior academic,2021/22,135
+Nationality,UK,Northern Ireland,Professor,2021/22,230
+Nationality,UK,Northern Ireland,Total,2021/22,1870
+Nationality,UK,Scotland,Other contract level,2021/22,13420
+Nationality,UK,Scotland,Other senior academic,2021/22,470
+Nationality,UK,Scotland,Professor,2021/22,2005
+Nationality,UK,Scotland,Total,2021/22,15895
+Nationality,UK,Wales,Other contract level,2021/22,6780
+Nationality,UK,Wales,Other senior academic,2021/22,235
+Nationality,UK,Wales,Professor,2021/22,845
+Nationality,UK,Wales,Total,2021/22,7860
+Nationality,UK,All,Other contract level,2021/22,134940
+Nationality,UK,All,Other senior academic,2021/22,5485
+Nationality,UK,All,Professor,2021/22,17365
+Nationality,UK,All,Total,2021/22,157790
+Nationality,European Union,England,Other contract level,2017/18,27630
+Nationality,European Union,England,Other senior academic,2017/18,415
+Nationality,European Union,England,Professor,2017/18,2460
+Nationality,European Union,England,Total,2017/18,30505
+Nationality,European Union,Northern Ireland,Other contract level,2017/18,910
+Nationality,European Union,Northern Ireland,Other senior academic,2017/18,30
+Nationality,European Union,Northern Ireland,Professor,2017/18,95
+Nationality,European Union,Northern Ireland,Total,2017/18,1035
+Nationality,European Union,Scotland,Other contract level,2017/18,4220
+Nationality,European Union,Scotland,Other senior academic,2017/18,45
+Nationality,European Union,Scotland,Professor,2017/18,305
+Nationality,European Union,Scotland,Total,2017/18,4570
+Nationality,European Union,Wales,Other contract level,2017/18,1025
+Nationality,European Union,Wales,Other senior academic,2017/18,10
+Nationality,European Union,Wales,Professor,2017/18,110
+Nationality,European Union,Wales,Total,2017/18,1145
+Nationality,European Union,All,Other contract level,2017/18,33790
+Nationality,European Union,All,Other senior academic,2017/18,500
+Nationality,European Union,All,Professor,2017/18,2965
+Nationality,European Union,All,Total,2017/18,37255
+Nationality,European Union,England,Other contract level,2018/19,28035
+Nationality,European Union,England,Other senior academic,2018/19,395
+Nationality,European Union,England,Professor,2018/19,2610
+Nationality,European Union,England,Total,2018/19,31045
+Nationality,European Union,Northern Ireland,Other contract level,2018/19,965
+Nationality,European Union,Northern Ireland,Other senior academic,2018/19,45
+Nationality,European Union,Northern Ireland,Professor,2018/19,105
+Nationality,European Union,Northern Ireland,Total,2018/19,1110
+Nationality,European Union,Scotland,Other contract level,2018/19,4420
+Nationality,European Union,Scotland,Other senior academic,2018/19,45
+Nationality,European Union,Scotland,Professor,2018/19,330
+Nationality,European Union,Scotland,Total,2018/19,4800
+Nationality,European Union,Wales,Other contract level,2018/19,1020
+Nationality,European Union,Wales,Other senior academic,2018/19,15
+Nationality,European Union,Wales,Professor,2018/19,95
+Nationality,European Union,Wales,Total,2018/19,1130
+Nationality,European Union,All,Other contract level,2018/19,34435
+Nationality,European Union,All,Other senior academic,2018/19,505
+Nationality,European Union,All,Professor,2018/19,3145
+Nationality,European Union,All,Total,2018/19,38080
+Nationality,European Union,England,Other contract level,2019/20,27925
+Nationality,European Union,England,Other senior academic,2019/20,385
+Nationality,European Union,England,Professor,2019/20,2895
+Nationality,European Union,England,Total,2019/20,31205
+Nationality,European Union,Northern Ireland,Other contract level,2019/20,1020
+Nationality,European Union,Northern Ireland,Other senior academic,2019/20,35
+Nationality,European Union,Northern Ireland,Professor,2019/20,115
+Nationality,European Union,Northern Ireland,Total,2019/20,1175
+Nationality,European Union,Scotland,Other contract level,2019/20,4520
+Nationality,European Union,Scotland,Other senior academic,2019/20,45
+Nationality,European Union,Scotland,Professor,2019/20,355
+Nationality,European Union,Scotland,Total,2019/20,4920
+Nationality,European Union,Wales,Other contract level,2019/20,995
+Nationality,European Union,Wales,Other senior academic,2019/20,10
+Nationality,European Union,Wales,Professor,2019/20,110
+Nationality,European Union,Wales,Total,2019/20,1115
+Nationality,European Union,All,Other contract level,2019/20,34460
+Nationality,European Union,All,Other senior academic,2019/20,470
+Nationality,European Union,All,Professor,2019/20,3480
+Nationality,European Union,All,Total,2019/20,38410
+Nationality,European Union,England,Other contract level,2020/21,27530
+Nationality,European Union,England,Other senior academic,2020/21,380
+Nationality,European Union,England,Professor,2020/21,2935
+Nationality,European Union,England,Total,2020/21,30845
+Nationality,European Union,Northern Ireland,Other contract level,2020/21,1050
+Nationality,European Union,Northern Ireland,Other senior academic,2020/21,55
+Nationality,European Union,Northern Ireland,Professor,2020/21,130
+Nationality,European Union,Northern Ireland,Total,2020/21,1235
+Nationality,European Union,Scotland,Other contract level,2020/21,4630
+Nationality,European Union,Scotland,Other senior academic,2020/21,50
+Nationality,European Union,Scotland,Professor,2020/21,370
+Nationality,European Union,Scotland,Total,2020/21,5050
+Nationality,European Union,Wales,Other contract level,2020/21,980
+Nationality,European Union,Wales,Other senior academic,2020/21,10
+Nationality,European Union,Wales,Professor,2020/21,110
+Nationality,European Union,Wales,Total,2020/21,1100
+Nationality,European Union,All,Other contract level,2020/21,34185
+Nationality,European Union,All,Other senior academic,2020/21,495
+Nationality,European Union,All,Professor,2020/21,3545
+Nationality,European Union,All,Total,2020/21,38230
+Nationality,European Union,England,Other contract level,2021/22,27160
+Nationality,European Union,England,Other senior academic,2021/22,410
+Nationality,European Union,England,Professor,2021/22,3085
+Nationality,European Union,England,Total,2021/22,30655
+Nationality,European Union,Northern Ireland,Other contract level,2021/22,1055
+Nationality,European Union,Northern Ireland,Other senior academic,2021/22,55
+Nationality,European Union,Northern Ireland,Professor,2021/22,145
+Nationality,European Union,Northern Ireland,Total,2021/22,1250
+Nationality,European Union,Scotland,Other contract level,2021/22,4545
+Nationality,European Union,Scotland,Other senior academic,2021/22,55
+Nationality,European Union,Scotland,Professor,2021/22,395
+Nationality,European Union,Scotland,Total,2021/22,4995
+Nationality,European Union,Wales,Other contract level,2021/22,970
+Nationality,European Union,Wales,Other senior academic,2021/22,10
+Nationality,European Union,Wales,Professor,2021/22,115
+Nationality,European Union,Wales,Total,2021/22,1095
+Nationality,European Union,All,Other contract level,2021/22,33730
+Nationality,European Union,All,Other senior academic,2021/22,525
+Nationality,European Union,All,Professor,2021/22,3740
+Nationality,European Union,All,Total,2021/22,37995
+Nationality,Non-European Union,England,Other contract level,2017/18,21255
+Nationality,Non-European Union,England,Other senior academic,2017/18,245
+Nationality,Non-European Union,England,Professor,2017/18,1515
+Nationality,Non-European Union,England,Total,2017/18,23015
+Nationality,Non-European Union,Northern Ireland,Other contract level,2017/18,335
+Nationality,Non-European Union,Northern Ireland,Other senior academic,2017/18,5
+Nationality,Non-European Union,Northern Ireland,Professor,2017/18,20
+Nationality,Non-European Union,Northern Ireland,Total,2017/18,360
+Nationality,Non-European Union,Scotland,Other contract level,2017/18,3155
+Nationality,Non-European Union,Scotland,Other senior academic,2017/18,25
+Nationality,Non-European Union,Scotland,Professor,2017/18,205
+Nationality,Non-European Union,Scotland,Total,2017/18,3385
+Nationality,Non-European Union,Wales,Other contract level,2017/18,795
+Nationality,Non-European Union,Wales,Other senior academic,2017/18,10
+Nationality,Non-European Union,Wales,Professor,2017/18,60
+Nationality,Non-European Union,Wales,Total,2017/18,865
+Nationality,Non-European Union,All,Other contract level,2017/18,25540
+Nationality,Non-European Union,All,Other senior academic,2017/18,280
+Nationality,Non-European Union,All,Professor,2017/18,1800
+Nationality,Non-European Union,All,Total,2017/18,27625
+Nationality,Non-European Union,England,Other contract level,2018/19,22750
+Nationality,Non-European Union,England,Other senior academic,2018/19,235
+Nationality,Non-European Union,England,Professor,2018/19,1615
+Nationality,Non-European Union,England,Total,2018/19,24595
+Nationality,Non-European Union,Northern Ireland,Other contract level,2018/19,375
+Nationality,Non-European Union,Northern Ireland,Other senior academic,2018/19,10
+Nationality,Non-European Union,Northern Ireland,Professor,2018/19,25
+Nationality,Non-European Union,Northern Ireland,Total,2018/19,405
+Nationality,Non-European Union,Scotland,Other contract level,2018/19,3360
+Nationality,Non-European Union,Scotland,Other senior academic,2018/19,25
+Nationality,Non-European Union,Scotland,Professor,2018/19,220
+Nationality,Non-European Union,Scotland,Total,2018/19,3600
+Nationality,Non-European Union,Wales,Other contract level,2018/19,895
+Nationality,Non-European Union,Wales,Other senior academic,2018/19,10
+Nationality,Non-European Union,Wales,Professor,2018/19,60
+Nationality,Non-European Union,Wales,Total,2018/19,965
+Nationality,Non-European Union,All,Other contract level,2018/19,27380
+Nationality,Non-European Union,All,Other senior academic,2018/19,275
+Nationality,Non-European Union,All,Professor,2018/19,1915
+Nationality,Non-European Union,All,Total,2018/19,29565
+Nationality,Non-European Union,England,Other contract level,2019/20,24300
+Nationality,Non-European Union,England,Other senior academic,2019/20,240
+Nationality,Non-European Union,England,Professor,2019/20,1770
+Nationality,Non-European Union,England,Total,2019/20,26305
+Nationality,Non-European Union,Northern Ireland,Other contract level,2019/20,445
+Nationality,Non-European Union,Northern Ireland,Other senior academic,2019/20,5
+Nationality,Non-European Union,Northern Ireland,Professor,2019/20,30
+Nationality,Non-European Union,Northern Ireland,Total,2019/20,475
+Nationality,Non-European Union,Scotland,Other contract level,2019/20,3705
+Nationality,Non-European Union,Scotland,Other senior academic,2019/20,20
+Nationality,Non-European Union,Scotland,Professor,2019/20,235
+Nationality,Non-European Union,Scotland,Total,2019/20,3965
+Nationality,Non-European Union,Wales,Other contract level,2019/20,970
+Nationality,Non-European Union,Wales,Other senior academic,2019/20,5
+Nationality,Non-European Union,Wales,Professor,2019/20,65
+Nationality,Non-European Union,Wales,Total,2019/20,1040
+Nationality,Non-European Union,All,Other contract level,2019/20,29420
+Nationality,Non-European Union,All,Other senior academic,2019/20,270
+Nationality,Non-European Union,All,Professor,2019/20,2100
+Nationality,Non-European Union,All,Total,2019/20,31785
+Nationality,Non-European Union,England,Other contract level,2020/21,25270
+Nationality,Non-European Union,England,Other senior academic,2020/21,245
+Nationality,Non-European Union,England,Professor,2020/21,1815
+Nationality,Non-European Union,England,Total,2020/21,27335
+Nationality,Non-European Union,Northern Ireland,Other contract level,2020/21,455
+Nationality,Non-European Union,Northern Ireland,Other senior academic,2020/21,10
+Nationality,Non-European Union,Northern Ireland,Professor,2020/21,30
+Nationality,Non-European Union,Northern Ireland,Total,2020/21,490
+Nationality,Non-European Union,Scotland,Other contract level,2020/21,4070
+Nationality,Non-European Union,Scotland,Other senior academic,2020/21,25
+Nationality,Non-European Union,Scotland,Professor,2020/21,260
+Nationality,Non-European Union,Scotland,Total,2020/21,4355
+Nationality,Non-European Union,Wales,Other contract level,2020/21,1020
+Nationality,Non-European Union,Wales,Other senior academic,2020/21,5
+Nationality,Non-European Union,Wales,Professor,2020/21,65
+Nationality,Non-European Union,Wales,Total,2020/21,1090
+Nationality,Non-European Union,All,Other contract level,2020/21,30815
+Nationality,Non-European Union,All,Other senior academic,2020/21,290
+Nationality,Non-European Union,All,Professor,2020/21,2165
+Nationality,Non-European Union,All,Total,2020/21,33270
+Nationality,Non-European Union,England,Other contract level,2021/22,27630
+Nationality,Non-European Union,England,Other senior academic,2021/22,260
+Nationality,Non-European Union,England,Professor,2021/22,1910
+Nationality,Non-European Union,England,Total,2021/22,29795
+Nationality,Non-European Union,Northern Ireland,Other contract level,2021/22,490
+Nationality,Non-European Union,Northern Ireland,Other senior academic,2021/22,5
+Nationality,Non-European Union,Northern Ireland,Professor,2021/22,25
+Nationality,Non-European Union,Northern Ireland,Total,2021/22,520
+Nationality,Non-European Union,Scotland,Other contract level,2021/22,4400
+Nationality,Non-European Union,Scotland,Other senior academic,2021/22,25
+Nationality,Non-European Union,Scotland,Professor,2021/22,270
+Nationality,Non-European Union,Scotland,Total,2021/22,4700
+Nationality,Non-European Union,Wales,Other contract level,2021/22,1025
+Nationality,Non-European Union,Wales,Other senior academic,2021/22,5
+Nationality,Non-European Union,Wales,Professor,2021/22,70
+Nationality,Non-European Union,Wales,Total,2021/22,1100
+Nationality,Non-European Union,All,Other contract level,2021/22,33545
+Nationality,Non-European Union,All,Other senior academic,2021/22,295
+Nationality,Non-European Union,All,Professor,2021/22,2275
+Nationality,Non-European Union,All,Total,2021/22,36115
+Nationality,Not known,England,Other contract level,2017/18,1305
+Nationality,Not known,England,Other senior academic,2017/18,20
+Nationality,Not known,England,Professor,2017/18,100
+Nationality,Not known,England,Total,2017/18,1420
+Nationality,Not known,Northern Ireland,Other contract level,2017/18,10
+Nationality,Not known,Northern Ireland,Other senior academic,2017/18,0
+Nationality,Not known,Northern Ireland,Professor,2017/18,0
+Nationality,Not known,Northern Ireland,Total,2017/18,10
+Nationality,Not known,Scotland,Other contract level,2017/18,35
+Nationality,Not known,Scotland,Other senior academic,2017/18,0
+Nationality,Not known,Scotland,Professor,2017/18,0
+Nationality,Not known,Scotland,Total,2017/18,35
+Nationality,Not known,Wales,Other contract level,2017/18,70
+Nationality,Not known,Wales,Other senior academic,2017/18,0
+Nationality,Not known,Wales,Professor,2017/18,5
+Nationality,Not known,Wales,Total,2017/18,75
+Nationality,Not known,All,Other contract level,2017/18,1415
+Nationality,Not known,All,Other senior academic,2017/18,20
+Nationality,Not known,All,Professor,2017/18,105
+Nationality,Not known,All,Total,2017/18,1540
+Nationality,Not known,England,Other contract level,2018/19,1210
+Nationality,Not known,England,Other senior academic,2018/19,20
+Nationality,Not known,England,Professor,2018/19,90
+Nationality,Not known,England,Total,2018/19,1325
+Nationality,Not known,Northern Ireland,Other contract level,2018/19,10
+Nationality,Not known,Northern Ireland,Other senior academic,2018/19,0
+Nationality,Not known,Northern Ireland,Professor,2018/19,0
+Nationality,Not known,Northern Ireland,Total,2018/19,10
+Nationality,Not known,Scotland,Other contract level,2018/19,50
+Nationality,Not known,Scotland,Other senior academic,2018/19,0
+Nationality,Not known,Scotland,Professor,2018/19,0
+Nationality,Not known,Scotland,Total,2018/19,50
+Nationality,Not known,Wales,Other contract level,2018/19,60
+Nationality,Not known,Wales,Other senior academic,2018/19,0
+Nationality,Not known,Wales,Professor,2018/19,0
+Nationality,Not known,Wales,Total,2018/19,65
+Nationality,Not known,All,Other contract level,2018/19,1330
+Nationality,Not known,All,Other senior academic,2018/19,20
+Nationality,Not known,All,Professor,2018/19,95
+Nationality,Not known,All,Total,2018/19,1450
+Nationality,Not known,England,Other contract level,2019/20,1330
+Nationality,Not known,England,Other senior academic,2019/20,20
+Nationality,Not known,England,Professor,2019/20,105
+Nationality,Not known,England,Total,2019/20,1455
+Nationality,Not known,Northern Ireland,Other contract level,2019/20,10
+Nationality,Not known,Northern Ireland,Other senior academic,2019/20,0
+Nationality,Not known,Northern Ireland,Professor,2019/20,0
+Nationality,Not known,Northern Ireland,Total,2019/20,15
+Nationality,Not known,Scotland,Other contract level,2019/20,55
+Nationality,Not known,Scotland,Other senior academic,2019/20,5
+Nationality,Not known,Scotland,Professor,2019/20,0
+Nationality,Not known,Scotland,Total,2019/20,60
+Nationality,Not known,Wales,Other contract level,2019/20,50
+Nationality,Not known,Wales,Other senior academic,2019/20,0
+Nationality,Not known,Wales,Professor,2019/20,5
+Nationality,Not known,Wales,Total,2019/20,55
+Nationality,Not known,All,Other contract level,2019/20,1450
+Nationality,Not known,All,Other senior academic,2019/20,25
+Nationality,Not known,All,Professor,2019/20,110
+Nationality,Not known,All,Total,2019/20,1585
+Nationality,Not known,England,Other contract level,2020/21,1360
+Nationality,Not known,England,Other senior academic,2020/21,25
+Nationality,Not known,England,Professor,2020/21,105
+Nationality,Not known,England,Total,2020/21,1490
+Nationality,Not known,Northern Ireland,Other contract level,2020/21,10
+Nationality,Not known,Northern Ireland,Other senior academic,2020/21,0
+Nationality,Not known,Northern Ireland,Professor,2020/21,0
+Nationality,Not known,Northern Ireland,Total,2020/21,15
+Nationality,Not known,Scotland,Other contract level,2020/21,60
+Nationality,Not known,Scotland,Other senior academic,2020/21,5
+Nationality,Not known,Scotland,Professor,2020/21,0
+Nationality,Not known,Scotland,Total,2020/21,65
+Nationality,Not known,Wales,Other contract level,2020/21,65
+Nationality,Not known,Wales,Other senior academic,2020/21,0
+Nationality,Not known,Wales,Professor,2020/21,0
+Nationality,Not known,Wales,Total,2020/21,70
+Nationality,Not known,All,Other contract level,2020/21,1500
+Nationality,Not known,All,Other senior academic,2020/21,25
+Nationality,Not known,All,Professor,2020/21,110
+Nationality,Not known,All,Total,2020/21,1635
+Nationality,Not known,England,Other contract level,2021/22,1545
+Nationality,Not known,England,Other senior academic,2021/22,25
+Nationality,Not known,England,Professor,2021/22,130
+Nationality,Not known,England,Total,2021/22,1700
+Nationality,Not known,Northern Ireland,Other contract level,2021/22,15
+Nationality,Not known,Northern Ireland,Other senior academic,2021/22,0
+Nationality,Not known,Northern Ireland,Professor,2021/22,5
+Nationality,Not known,Northern Ireland,Total,2021/22,15
+Nationality,Not known,Scotland,Other contract level,2021/22,185
+Nationality,Not known,Scotland,Other senior academic,2021/22,0
+Nationality,Not known,Scotland,Professor,2021/22,0
+Nationality,Not known,Scotland,Total,2021/22,190
+Nationality,Not known,Wales,Other contract level,2021/22,125
+Nationality,Not known,Wales,Other senior academic,2021/22,0
+Nationality,Not known,Wales,Professor,2021/22,0
+Nationality,Not known,Wales,Total,2021/22,125
+Nationality,Not known,All,Other contract level,2021/22,1870
+Nationality,Not known,All,Other senior academic,2021/22,25
+Nationality,Not known,All,Professor,2021/22,135
+Nationality,Not known,All,Total,2021/22,2030
+Sex,Female,England,Other contract level,2017/18,74445
+Sex,Female,England,Other senior academic,2017/18,1910
+Sex,Female,England,Professor,2017/18,4405
+Sex,Female,England,Total,2017/18,80760
+Sex,Female,Northern Ireland,Other contract level,2017/18,1285
+Sex,Female,Northern Ireland,Other senior academic,2017/18,40
+Sex,Female,Northern Ireland,Professor,2017/18,85
+Sex,Female,Northern Ireland,Total,2017/18,1410
+Sex,Female,Scotland,Other contract level,2017/18,9505
+Sex,Female,Scotland,Other senior academic,2017/18,185
+Sex,Female,Scotland,Professor,2017/18,580
+Sex,Female,Scotland,Total,2017/18,10270
+Sex,Female,Wales,Other contract level,2017/18,4375
+Sex,Female,Wales,Other senior academic,2017/18,110
+Sex,Female,Wales,Professor,2017/18,275
+Sex,Female,Wales,Total,2017/18,4760
+Sex,Female,All,Other contract level,2017/18,89610
+Sex,Female,All,Other senior academic,2017/18,2245
+Sex,Female,All,Professor,2017/18,5345
+Sex,Female,All,Total,2017/18,97200
+Sex,Female,England,Other contract level,2018/19,76540
+Sex,Female,England,Other senior academic,2018/19,1960
+Sex,Female,England,Professor,2018/19,4810
+Sex,Female,England,Total,2018/19,83315
+Sex,Female,Northern Ireland,Other contract level,2018/19,1350
+Sex,Female,Northern Ireland,Other senior academic,2018/19,55
+Sex,Female,Northern Ireland,Professor,2018/19,90
+Sex,Female,Northern Ireland,Total,2018/19,1500
+Sex,Female,Scotland,Other contract level,2018/19,9890
+Sex,Female,Scotland,Other senior academic,2018/19,195
+Sex,Female,Scotland,Professor,2018/19,625
+Sex,Female,Scotland,Total,2018/19,10710
+Sex,Female,Wales,Other contract level,2018/19,4490
+Sex,Female,Wales,Other senior academic,2018/19,135
+Sex,Female,Wales,Professor,2018/19,225
+Sex,Female,Wales,Total,2018/19,4845
+Sex,Female,All,Other contract level,2018/19,92275
+Sex,Female,All,Other senior academic,2018/19,2345
+Sex,Female,All,Professor,2018/19,5750
+Sex,Female,All,Total,2018/19,100365
+Sex,Female,England,Other contract level,2019/20,79610
+Sex,Female,England,Other senior academic,2019/20,2020
+Sex,Female,England,Professor,2019/20,5290
+Sex,Female,England,Total,2019/20,86920
+Sex,Female,Northern Ireland,Other contract level,2019/20,1390
+Sex,Female,Northern Ireland,Other senior academic,2019/20,60
+Sex,Female,Northern Ireland,Professor,2019/20,100
+Sex,Female,Northern Ireland,Total,2019/20,1550
+Sex,Female,Scotland,Other contract level,2019/20,10155
+Sex,Female,Scotland,Other senior academic,2019/20,195
+Sex,Female,Scotland,Professor,2019/20,705
+Sex,Female,Scotland,Total,2019/20,11055
+Sex,Female,Wales,Other contract level,2019/20,4420
+Sex,Female,Wales,Other senior academic,2019/20,115
+Sex,Female,Wales,Professor,2019/20,250
+Sex,Female,Wales,Total,2019/20,4785
+Sex,Female,All,Other contract level,2019/20,95570
+Sex,Female,All,Other senior academic,2019/20,2390
+Sex,Female,All,Professor,2019/20,6345
+Sex,Female,All,Total,2019/20,104305
+Sex,Female,England,Other contract level,2020/21,80240
+Sex,Female,England,Other senior academic,2020/21,2115
+Sex,Female,England,Professor,2020/21,5410
+Sex,Female,England,Total,2020/21,87765
+Sex,Female,Northern Ireland,Other contract level,2020/21,1330
+Sex,Female,Northern Ireland,Other senior academic,2020/21,75
+Sex,Female,Northern Ireland,Professor,2020/21,105
+Sex,Female,Northern Ireland,Total,2020/21,1515
+Sex,Female,Scotland,Other contract level,2020/21,10460
+Sex,Female,Scotland,Other senior academic,2020/21,215
+Sex,Female,Scotland,Professor,2020/21,735
+Sex,Female,Scotland,Total,2020/21,11410
+Sex,Female,Wales,Other contract level,2020/21,4395
+Sex,Female,Wales,Other senior academic,2020/21,100
+Sex,Female,Wales,Professor,2020/21,255
+Sex,Female,Wales,Total,2020/21,4755
+Sex,Female,All,Other contract level,2020/21,96420
+Sex,Female,All,Other senior academic,2020/21,2515
+Sex,Female,All,Professor,2020/21,6510
+Sex,Female,All,Total,2020/21,105440
+Sex,Female,England,Other contract level,2021/22,85295
+Sex,Female,England,Other senior academic,2021/22,2235
+Sex,Female,England,Professor,2021/22,5805
+Sex,Female,England,Total,2021/22,93335
+Sex,Female,Northern Ireland,Other contract level,2021/22,1560
+Sex,Female,Northern Ireland,Other senior academic,2021/22,70
+Sex,Female,Northern Ireland,Professor,2021/22,120
+Sex,Female,Northern Ireland,Total,2021/22,1745
+Sex,Female,Scotland,Other contract level,2021/22,10990
+Sex,Female,Scotland,Other senior academic,2021/22,220
+Sex,Female,Scotland,Professor,2021/22,775
+Sex,Female,Scotland,Total,2021/22,11985
+Sex,Female,Wales,Other contract level,2021/22,4480
+Sex,Female,Wales,Other senior academic,2021/22,100
+Sex,Female,Wales,Professor,2021/22,280
+Sex,Female,Wales,Total,2021/22,4855
+Sex,Female,All,Other contract level,2021/22,102325
+Sex,Female,All,Other senior academic,2021/22,2620
+Sex,Female,All,Professor,2021/22,6980
+Sex,Female,All,Total,2021/22,111925
+Sex,Male,England,Other contract level,2017/18,78925
+Sex,Male,England,Other senior academic,2017/18,3270
+Sex,Male,England,Professor,2017/18,12740
+Sex,Male,England,Total,2017/18,94930
+Sex,Male,Northern Ireland,Other contract level,2017/18,1440
+Sex,Male,Northern Ireland,Other senior academic,2017/18,90
+Sex,Male,Northern Ireland,Professor,2017/18,230
+Sex,Male,Northern Ireland,Total,2017/18,1760
+Sex,Male,Scotland,Other contract level,2017/18,10425
+Sex,Male,Scotland,Other senior academic,2017/18,365
+Sex,Male,Scotland,Professor,2017/18,1775
+Sex,Male,Scotland,Total,2017/18,12560
+Sex,Male,Wales,Other contract level,2017/18,4435
+Sex,Male,Wales,Other senior academic,2017/18,205
+Sex,Male,Wales,Professor,2017/18,850
+Sex,Male,Wales,Total,2017/18,5490
+Sex,Male,All,Other contract level,2017/18,95220
+Sex,Male,All,Other senior academic,2017/18,3930
+Sex,Male,All,Professor,2017/18,15595
+Sex,Male,All,Total,2017/18,114745
+Sex,Male,England,Other contract level,2018/19,80370
+Sex,Male,England,Other senior academic,2018/19,3160
+Sex,Male,England,Professor,2018/19,13000
+Sex,Male,England,Total,2018/19,96530
+Sex,Male,Northern Ireland,Other contract level,2018/19,1475
+Sex,Male,Northern Ireland,Other senior academic,2018/19,120
+Sex,Male,Northern Ireland,Professor,2018/19,235
+Sex,Male,Northern Ireland,Total,2018/19,1830
+Sex,Male,Scotland,Other contract level,2018/19,10735
+Sex,Male,Scotland,Other senior academic,2018/19,330
+Sex,Male,Scotland,Professor,2018/19,1800
+Sex,Male,Scotland,Total,2018/19,12870
+Sex,Male,Wales,Other contract level,2018/19,4450
+Sex,Male,Wales,Other senior academic,2018/19,230
+Sex,Male,Wales,Professor,2018/19,735
+Sex,Male,Wales,Total,2018/19,5410
+Sex,Male,All,Other contract level,2018/19,97030
+Sex,Male,All,Other senior academic,2018/19,3840
+Sex,Male,All,Professor,2018/19,15770
+Sex,Male,All,Total,2018/19,116640
+Sex,Male,England,Other contract level,2019/20,81685
+Sex,Male,England,Other senior academic,2019/20,3155
+Sex,Male,England,Professor,2019/20,13505
+Sex,Male,England,Total,2019/20,98340
+Sex,Male,Northern Ireland,Other contract level,2019/20,1595
+Sex,Male,Northern Ireland,Other senior academic,2019/20,100
+Sex,Male,Northern Ireland,Professor,2019/20,270
+Sex,Male,Northern Ireland,Total,2019/20,1965
+Sex,Male,Scotland,Other contract level,2019/20,11020
+Sex,Male,Scotland,Other senior academic,2019/20,305
+Sex,Male,Scotland,Professor,2019/20,1860
+Sex,Male,Scotland,Total,2019/20,13190
+Sex,Male,Wales,Other contract level,2019/20,4425
+Sex,Male,Wales,Other senior academic,2019/20,170
+Sex,Male,Wales,Professor,2019/20,775
+Sex,Male,Wales,Total,2019/20,5365
+Sex,Male,All,Other contract level,2019/20,98725
+Sex,Male,All,Other senior academic,2019/20,3725
+Sex,Male,All,Professor,2019/20,16415
+Sex,Male,All,Total,2019/20,118865
+Sex,Male,England,Other contract level,2020/21,81345
+Sex,Male,England,Other senior academic,2020/21,3095
+Sex,Male,England,Professor,2020/21,13390
+Sex,Male,England,Total,2020/21,97830
+Sex,Male,Northern Ireland,Other contract level,2020/21,1675
+Sex,Male,Northern Ireland,Other senior academic,2020/21,125
+Sex,Male,Northern Ireland,Professor,2020/21,270
+Sex,Male,Northern Ireland,Total,2020/21,2070
+Sex,Male,Scotland,Other contract level,2020/21,11320
+Sex,Male,Scotland,Other senior academic,2020/21,325
+Sex,Male,Scotland,Professor,2020/21,1875
+Sex,Male,Scotland,Total,2020/21,13520
+Sex,Male,Wales,Other contract level,2020/21,4355
+Sex,Male,Wales,Other senior academic,2020/21,155
+Sex,Male,Wales,Professor,2020/21,765
+Sex,Male,Wales,Total,2020/21,5275
+Sex,Male,All,Other contract level,2020/21,98695
+Sex,Male,All,Other senior academic,2020/21,3700
+Sex,Male,All,Professor,2020/21,16300
+Sex,Male,All,Total,2020/21,118695
+Sex,Male,England,Other contract level,2021/22,84045
+Sex,Male,England,Other senior academic,2021/22,3100
+Sex,Male,England,Professor,2021/22,13595
+Sex,Male,England,Total,2021/22,100745
+Sex,Male,Northern Ireland,Other contract level,2021/22,1500
+Sex,Male,Northern Ireland,Other senior academic,2021/22,125
+Sex,Male,Northern Ireland,Professor,2021/22,280
+Sex,Male,Northern Ireland,Total,2021/22,1905
+Sex,Male,Scotland,Other contract level,2021/22,11510
+Sex,Male,Scotland,Other senior academic,2021/22,330
+Sex,Male,Scotland,Professor,2021/22,1890
+Sex,Male,Scotland,Total,2021/22,13730
+Sex,Male,Wales,Other contract level,2021/22,4405
+Sex,Male,Wales,Other senior academic,2021/22,155
+Sex,Male,Wales,Professor,2021/22,750
+Sex,Male,Wales,Total,2021/22,5310
+Sex,Male,All,Other contract level,2021/22,101460
+Sex,Male,All,Other senior academic,2021/22,3710
+Sex,Male,All,Professor,2021/22,16515
+Sex,Male,All,Total,2021/22,121690
+Sex,Other,England,Other contract level,2017/18,25
+Sex,Other,England,Other senior academic,2017/18,0
+Sex,Other,England,Professor,2017/18,0
+Sex,Other,England,Total,2017/18,25
+Sex,Other,Scotland,Other contract level,2017/18,5
+Sex,Other,Scotland,Other senior academic,2017/18,0
+Sex,Other,Scotland,Professor,2017/18,0
+Sex,Other,Scotland,Total,2017/18,5
+Sex,Other,Wales,Other contract level,2017/18,5
+Sex,Other,Wales,Other senior academic,2017/18,0
+Sex,Other,Wales,Professor,2017/18,0
+Sex,Other,Wales,Total,2017/18,5
+Sex,Other,All,Other contract level,2017/18,30
+Sex,Other,All,Other senior academic,2017/18,0
+Sex,Other,All,Professor,2017/18,0
+Sex,Other,All,Total,2017/18,35
+Sex,Other,England,Other contract level,2018/19,50
+Sex,Other,England,Other senior academic,2018/19,0
+Sex,Other,England,Professor,2018/19,0
+Sex,Other,England,Total,2018/19,50
+Sex,Other,Scotland,Other contract level,2018/19,5
+Sex,Other,Scotland,Other senior academic,2018/19,0
+Sex,Other,Scotland,Professor,2018/19,0
+Sex,Other,Scotland,Total,2018/19,5
+Sex,Other,Wales,Other contract level,2018/19,5
+Sex,Other,Wales,Other senior academic,2018/19,0
+Sex,Other,Wales,Professor,2018/19,0
+Sex,Other,Wales,Total,2018/19,5
+Sex,Other,All,Other contract level,2018/19,60
+Sex,Other,All,Other senior academic,2018/19,0
+Sex,Other,All,Professor,2018/19,5
+Sex,Other,All,Total,2018/19,65
+Sex,Other,England,Other contract level,2019/20,290
+Sex,Other,England,Other senior academic,2019/20,0
+Sex,Other,England,Professor,2019/20,50
+Sex,Other,England,Total,2019/20,340
+Sex,Other,Scotland,Other contract level,2019/20,5
+Sex,Other,Scotland,Other senior academic,2019/20,0
+Sex,Other,Scotland,Professor,2019/20,0
+Sex,Other,Scotland,Total,2019/20,5
+Sex,Other,Wales,Other contract level,2019/20,10
+Sex,Other,Wales,Other senior academic,2019/20,0
+Sex,Other,Wales,Professor,2019/20,0
+Sex,Other,Wales,Total,2019/20,15
+Sex,Other,All,Other contract level,2019/20,305
+Sex,Other,All,Other senior academic,2019/20,0
+Sex,Other,All,Professor,2019/20,50
+Sex,Other,All,Total,2019/20,355
+Sex,Other,England,Other contract level,2020/21,315
+Sex,Other,England,Other senior academic,2020/21,5
+Sex,Other,England,Professor,2020/21,45
+Sex,Other,England,Total,2020/21,370
+Sex,Other,Scotland,Other contract level,2020/21,10
+Sex,Other,Scotland,Other senior academic,2020/21,0
+Sex,Other,Scotland,Professor,2020/21,0
+Sex,Other,Scotland,Total,2020/21,10
+Sex,Other,Wales,Other contract level,2020/21,10
+Sex,Other,Wales,Other senior academic,2020/21,0
+Sex,Other,Wales,Professor,2020/21,0
+Sex,Other,Wales,Total,2020/21,15
+Sex,Other,All,Other contract level,2020/21,340
+Sex,Other,All,Other senior academic,2020/21,5
+Sex,Other,All,Professor,2020/21,50
+Sex,Other,All,Total,2020/21,390
+Sex,Other,England,Other contract level,2021/22,225
+Sex,Other,England,Other senior academic,2021/22,5
+Sex,Other,England,Professor,2021/22,15
+Sex,Other,England,Total,2021/22,240
+Sex,Other,Scotland,Other contract level,2021/22,55
+Sex,Other,Scotland,Other senior academic,2021/22,0
+Sex,Other,Scotland,Professor,2021/22,0
+Sex,Other,Scotland,Total,2021/22,60
+Sex,Other,Wales,Other contract level,2021/22,10
+Sex,Other,Wales,Other senior academic,2021/22,0
+Sex,Other,Wales,Professor,2021/22,0
+Sex,Other,Wales,Total,2021/22,15
+Sex,Other,All,Other contract level,2021/22,295
+Sex,Other,All,Other senior academic,2021/22,5
+Sex,Other,All,Professor,2021/22,20
+Sex,Other,All,Total,2021/22,315
+Total,Total,England,Other contract level,2017/18,153395
+Total,Total,England,Other senior academic,2017/18,5180
+Total,Total,England,Professor,2017/18,17145
+Total,Total,England,Total,2017/18,175715
+Total,Total,Northern Ireland,Other contract level,2017/18,2725
+Total,Total,Northern Ireland,Other senior academic,2017/18,130
+Total,Total,Northern Ireland,Professor,2017/18,315
+Total,Total,Northern Ireland,Total,2017/18,3170
+Total,Total,Scotland,Other contract level,2017/18,19935
+Total,Total,Scotland,Other senior academic,2017/18,550
+Total,Total,Scotland,Professor,2017/18,2350
+Total,Total,Scotland,Total,2017/18,22840
+Total,Total,Wales,Other contract level,2017/18,8810
+Total,Total,Wales,Other senior academic,2017/18,320
+Total,Total,Wales,Professor,2017/18,1125
+Total,Total,Wales,Total,2017/18,10255
+Total,Total,All,Other contract level,2017/18,184860
+Total,Total,All,Other senior academic,2017/18,6175
+Total,Total,All,Professor,2017/18,20940
+Total,Total,All,Total,2017/18,211980
+Total,Total,England,Other contract level,2018/19,156960
+Total,Total,England,Other senior academic,2018/19,5120
+Total,Total,England,Professor,2018/19,17815
+Total,Total,England,Total,2018/19,179895
+Total,Total,Northern Ireland,Other contract level,2018/19,2825
+Total,Total,Northern Ireland,Other senior academic,2018/19,180
+Total,Total,Northern Ireland,Professor,2018/19,325
+Total,Total,Northern Ireland,Total,2018/19,3325
+Total,Total,Scotland,Other contract level,2018/19,20630
+Total,Total,Scotland,Other senior academic,2018/19,525
+Total,Total,Scotland,Professor,2018/19,2425
+Total,Total,Scotland,Total,2018/19,23580
+Total,Total,Wales,Other contract level,2018/19,8945
+Total,Total,Wales,Other senior academic,2018/19,360
+Total,Total,Wales,Professor,2018/19,955
+Total,Total,Wales,Total,2018/19,10265
+Total,Total,All,Other contract level,2018/19,189360
+Total,Total,All,Other senior academic,2018/19,6185
+Total,Total,All,Professor,2018/19,21520
+Total,Total,All,Total,2018/19,217065
+Total,Total,England,Other contract level,2019/20,161585
+Total,Total,England,Other senior academic,2019/20,5175
+Total,Total,England,Professor,2019/20,18845
+Total,Total,England,Total,2019/20,185600
+Total,Total,Northern Ireland,Other contract level,2019/20,2985
+Total,Total,Northern Ireland,Other senior academic,2019/20,160
+Total,Total,Northern Ireland,Professor,2019/20,370
+Total,Total,Northern Ireland,Total,2019/20,3515
+Total,Total,Scotland,Other contract level,2019/20,21180
+Total,Total,Scotland,Other senior academic,2019/20,500
+Total,Total,Scotland,Professor,2019/20,2565
+Total,Total,Scotland,Total,2019/20,24250
+Total,Total,Wales,Other contract level,2019/20,8855
+Total,Total,Wales,Other senior academic,2019/20,280
+Total,Total,Wales,Professor,2019/20,1030
+Total,Total,Wales,Total,2019/20,10165
+Total,Total,All,Other contract level,2019/20,194600
+Total,Total,All,Other senior academic,2019/20,6115
+Total,Total,All,Professor,2019/20,22810
+Total,Total,All,Total,2019/20,223525
+Total,Total,England,Other contract level,2020/21,161900
+Total,Total,England,Other senior academic,2020/21,5215
+Total,Total,England,Professor,2020/21,18850
+Total,Total,England,Total,2020/21,185965
+Total,Total,Northern Ireland,Other contract level,2020/21,3005
+Total,Total,Northern Ireland,Other senior academic,2020/21,200
+Total,Total,Northern Ireland,Professor,2020/21,375
+Total,Total,Northern Ireland,Total,2020/21,3585
+Total,Total,Scotland,Other contract level,2020/21,21785
+Total,Total,Scotland,Other senior academic,2020/21,545
+Total,Total,Scotland,Professor,2020/21,2610
+Total,Total,Scotland,Total,2020/21,24940
+Total,Total,Wales,Other contract level,2020/21,8765
+Total,Total,Wales,Other senior academic,2020/21,255
+Total,Total,Wales,Professor,2020/21,1020
+Total,Total,Wales,Total,2020/21,10045
+Total,Total,All,Other contract level,2020/21,195455
+Total,Total,All,Other senior academic,2020/21,6220
+Total,Total,All,Professor,2020/21,22855
+Total,Total,All,Total,2020/21,224530
+Total,Total,England,Other contract level,2021/22,169565
+Total,Total,England,Other senior academic,2021/22,5335
+Total,Total,England,Professor,2021/22,19415
+Total,Total,England,Total,2021/22,194320
+Total,Total,Northern Ireland,Other contract level,2021/22,3065
+Total,Total,Northern Ireland,Other senior academic,2021/22,190
+Total,Total,Northern Ireland,Professor,2021/22,400
+Total,Total,Northern Ireland,Total,2021/22,3655
+Total,Total,Scotland,Other contract level,2021/22,22555
+Total,Total,Scotland,Other senior academic,2021/22,550
+Total,Total,Scotland,Professor,2021/22,2670
+Total,Total,Scotland,Total,2021/22,25775
+Total,Total,Wales,Other contract level,2021/22,8895
+Total,Total,Wales,Other senior academic,2021/22,255
+Total,Total,Wales,Professor,2021/22,1030
+Total,Total,Wales,Total,2021/22,10180
+Total,Total,All,Other contract level,2021/22,204080
+Total,Total,All,Other senior academic,2021/22,6330
+Total,Total,All,Professor,2021/22,23515
+Total,Total,All,Total,2021/22,233930

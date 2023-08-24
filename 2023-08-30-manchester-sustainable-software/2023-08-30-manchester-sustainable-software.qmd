@@ -1,0 +1,147 @@
+---
+title: "Sustainable Software and Reproducible Research"
+date: 2023-08-30
+date-format: long
+author: Eli Chadwick *(he/him and they/them)*
+institute: "The Carpentries; Software Sustainability Institute"
+format: 
+    revealjs:
+        code-fold: true
+        css: themes/theme.css
+toc: true
+toc-depth: 1
+slide-number: true
+logo: images/combined_logos.svg
+fig-cap-location: bottom
+tbl-cap-location: top
+lang: en-GB
+fontsize: 35px
+
+---
+
+# Introduction
+
+## About Me
+
+* 2018: MSci Physics from University of Birmingham
+    * Final project in computational astrophysics
+* 2018-2022: Science and Technology Facilities Council (STFC)
+    * 2-year Scientific Computing graduate scheme
+    <!-- * 3-month placement at Institute Laue-Langevin (ILL)-->
+    * Permanent project on muon spectroscopy simulations
+    * Delivered training workshops for early career staff (graduates, apprentices)
+* 2021: Software Sustainability Institute Fellowship (focus: training and accessibility)
+* 2023: The Carpentries - IT Developer
+
+---
+
+## Why This Career Path?
+
+* Wanted to remain close to research and academia after graduating
+* But I do not like doing research enough to do a PhD
+* What I do like is writing scientific code
+
+---
+
+## Why This Career Path?
+    
+My ideal job: *writing code that helps people to do their research*
+
+This has a name: **Research Software Engineering**
+
+If you develop software to support your own research or that of others, you are doing Research Software Engineering! 
+
+---
+
+## Why I'm Here
+
+* At STFC I learned various approaches to software engineering, testing, etc.
+* These would have been useful during my degree, but they were never mentioned during my programming modules
+* Realised that I left uni with *advanced coding skills, but minimal knowledge of best practices*
+* Now I support other early-career researchers coming behind me
+    * Led workshops at STFC, supported by SSI Fellowship
+    * Supported learners to become instructors in later years
+
+<!-- * Led workshops for new starters at STFC to build this knowledge, and supported learners to become instructors in later years
+
+This has a name too: **Community of Practice**
+-->
+
+---
+
+# What We Mean by "Sustainable Software"
+
+## What is Sustainable Software?
+
+**Sustainability** means that the software you use today will be available - and continue to be improved and supported - in the future. <!-- https://software.ac.uk/about -->
+
+Sustainable software is software which is:
+– Easy to evolve and maintain
+– Fulfils its intent over time
+– Survives uncertainty
+– Supports relevant concerns (Political, Economic, Social, Technical, Legal, Environmental)
+
+this is weirdly hard to pin down
+
+---
+
+## Aspects of Sustainability
+
+* documentation for users and developers, at all levels of experience
+* planning and governance
+* support and issue tracking
+* community and external contributions
+* licensing – the conditions under which a person can use and re-use your software
+* funding and contributor time
+
+---
+
+## More Aspects of Sustainability
+
+* availability and accessibility
+* compatibility with operating systems, browsers, and/or assistive technology
+* software design and coding standards 
+* testing
+* version control (e.g. Git)
+
+---
+
+## Why Go to All This Effort?
+
+ - Good software practices create better software
+ - Better software improves the reproducibility and reusability of research
+ - read that article by carole so I can argue this better
+
+ ![Better Software, Better Research](images/BetterSoftwareBetterResearchImage.jpg)
+
+---
+
+## Case Study
+
+Pull a case study from the SSI archives
+
+---
+
+# Stages of Sustainability
+
+## How Sustainable is Your Software?
+
+We're now going to look at different levels of sustainability that a project could be at
+
+Think of a project that you work on, and try to figure out where it is on the scale
+
+There is no shame in a project being at the lower end – only space for improvement
+
+---
+
+## Stages of Sustainability 
+
+Image goes here
+
+Slido vote
+
+---
+
+more...
+
+# Questions

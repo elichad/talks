@@ -37,55 +37,68 @@ fontsize: 35px
 
 ## Why This Career Path?
 
+::: {.incremental}
 * Wanted to remain close to research and academia after graduating
 * But I do not like doing research enough to do a PhD
 * What I do like is writing scientific code
+:::
 
----
+. . .
 
-## Why This Career Path?
-    
-My ideal job: *writing code that helps people to do their research*
+My ideal job: 
 
-This has a name: **Research Software Engineering**
+:::{.r-stack}
+*writing code that helps people to do their research*
+:::
+
+. . .
+
+This has a name: 
+
+:::{.r-stack}
+**Research Software Engineering**
+:::
+
+## Research Software Engineering
 
 If you develop software to support your own research or that of others, you are doing Research Software Engineering! 
 
----
+. . .
+
+You may like to describe yourself as a Research Software Engineer (RSE)
+
+You're welcome in RSE events and spaces! (more on this later)
 
 ## Why I'm Here
 
 * At STFC I learned various approaches to software engineering, testing, etc.
 * These would have been useful during my degree, but they were never mentioned during my programming modules
 * Realised that I left uni with *advanced coding skills, but minimal knowledge of best practices*
-* Now I support other early-career researchers coming behind me
-    * Led workshops at STFC, supported by SSI Fellowship
-    * Supported learners to become instructors in later years
+* I want to see these knowledge gaps closed earlier in a person's academic career
+* So I make time to teach other early-career researchers coming behind me
 
-<!-- * Led workshops for new starters at STFC to build this knowledge, and supported learners to become instructors in later years
+# What is Sustainable Software?
 
-This has a name too: **Community of Practice**
--->
+## Slido Poll
 
----
-
-# What We Mean by "Sustainable Software"
-
-## What is Sustainable Software?
+## Definition of Sustainable Software
 
 **Sustainability** means that the software you use today will be available - and continue to be improved and supported - in the future. <!-- https://software.ac.uk/about -->
 
-Sustainable software is software which is:
-– Easy to evolve and maintain
-– Fulfils its intent over time
-– Survives uncertainty
-– Supports relevant concerns (Political, Economic, Social, Technical, Legal, Environmental)
+. . .
 
-this is weirdly hard to pin down
+**Sustainable software** is software which is:
+
+:::{.incremental}
+* Easy to evolve and maintain
+* Fulfils its intent over time
+* Survives uncertainty
+* Supports relevant concerns (Political, Economic, Social, Technical, Legal, Environmental)
+:::
 
 ---
 
-## Aspects of Sustainability
+## Aspects of Sustainability (1/2)
 
 * documentation for users and developers, at all levels of experience
 * planning and governance
@@ -96,7 +109,7 @@ this is weirdly hard to pin down
 
 ---
 
-## More Aspects of Sustainability
+## Aspects of Sustainability (1/2)
 
 * availability and accessibility
 * compatibility with operating systems, browsers, and/or assistive technology
@@ -112,7 +125,7 @@ this is weirdly hard to pin down
  - Better software improves the reproducibility and reusability of research
  - read that article by carole so I can argue this better
 
- ![Better Software, Better Research](images/BetterSoftwareBetterResearchImage.jpg)
+ ![](images/BetterSoftwareBetterResearchImage.jpg){fig-alt="Better Software, Better Research" fig-align="center"}
 
 ---
 
@@ -120,7 +133,8 @@ this is weirdly hard to pin down
 
 Pull a case study from the SSI archives
 
----
+
+<!--
 
 # Stages of Sustainability
 
@@ -136,12 +150,210 @@ There is no shame in a project being at the lower end – only space for improve
 
 ## Stages of Sustainability 
 
-Image goes here
-
-Slido vote
+| Level | Summary | Description | If owner leaves...
+| -- | -- | --------- | --- |
+| 0 | Seed | Single developer with no knowledge of best practices | Won't survive |
+| 1 | Seedling | Awareness of best practices. Ad-hoc application. Sparse funding/time. Minimal documentation. | Won't survive |
+| 2 | Juvenile | Colleagues may contribute. Basic application of version control, testing, bug tracking. Open source with a license.  | Won't survive |
 
 ---
 
-more...
+| Level | Summary | Description | If owner leaves...
+| -- | -- | --------- | --- |
+| 3 | Flowering | Some community. Guidelines for external contributions. Short-term funding. Code standards and linting. Documentation for users and developers. | Unlikely to survive |
+| 4 | Fruiting | Community influences development. Many external contributions. Code review enforced. | Could survive |
+| 5 | Dispersing | Self-supporting community which drives development. Long-term funding. Full, up to date documentation. | Will survive |
+
+
+## Slido Poll
+
+-->
+
+# How Do I Improve the Sustainability of my Software?
+
+Heavily inspired by [9 steps for quality research software](https://software.ac.uk/blog/2016-09-12-9-steps-quality-research-software) by Laurence Billingham, Steven Lamerton, Nick Rees, Mike Croucher, Richard Domander, and Carl Wilson
+
+## 1. Admit that you have a problem
+
+Hello, I am Eli, and I've written terrible software.
+
+. . .
+
+It's ok to not write perfect code
+
+. . .
+
+It's ok to write very imperfect code
+
+. . .
+
+Just don't deny that your code could be better out of pride or shame
+
+. . .
+
+Spend some effort to make your code a little bit better every time you write something new
+
+When you look back in a year, you'll see how far you've come
+
+## 2a. Introduce a version control system...
+
+Version control:
+
+* helps us to track _when_ and _why_ our code was changed
+* allows us to _undo_ changes when we discover we broke something
+* is essential for large collaborative projects and their contributors
+* most commonly Git, but there are others (e.g. Mercurial)
+
+. . .
+
+Invest a couple of days in learning, then practice, practice, practice
+
+. . .
+
+Make your code open-source while you're at it (on a platform like GitHub, GitLab, or Bitbucket). Now you have a backup!
+
+## 2b. ... and make changes little and often
+
+How often do you hit save in your word processor or code editor?
+
+Is it almost reflexive?
+
+. . .
+
+Committing to version control should be similar!
+
+This builds up a richer, more searchable, more undo-able history of changes (and it means more practice)
+
+. . .
+
+It's ok to commit something broken, then fix it in the next commit
+
+## 3a. Get your code to build and run on another machine
+
+Now that your code is hosted openly online, anyone can download it to any other machine - so make sure it will run there!
+
+Try to compile, build, and **run** your code on a machine that's not yours
+
+. . .
+
+You will end up figuring out exactly what compiler version, library versions, and operating systems your code depends on. Document these and put them in the same place as your code.
+
+When you add a new library, add the version to your documentation!
+
+. . .
+
+**If your research isn't reproducible, it isn't reliable.**
+
+## 3b. Actually, why should building and running be separate?
+
+Save time by using tools that can automate the process
+
+An hour invested now will save you many in the future
+
+Popular choices for C++ are `make` and `cmake`
+
+## 4. You already test things, now formalise it
+
+You (hopefully) already test your code by putting in a known input and making sure it gives you the output you expect.
+
+When you've confirmed it works, you delete the test.
+
+. . . 
+
+Instead, wire that test up permanently using a **testing framework**, and run it whenever you make a change to ensure you didn't break anything.
+
+Do this every time you write a new piece of code, and suddenly you have a test suite!
+
+## 5a Modularise within your code...
+
+Break your code down into simple chunks or units that do one thing each, and turn them into functions (e.g. loading a file, checking inputs are within valid ranges, plotting a chart)
+
+Now your software is built from many simple interacting components.
+
+It's much simpler to verify that each function works correctly with individual 'unit tests.'
+
+## 5b. ... and then modularise within your group
+
+You've written a function to solve a particular problem, and now your colleague has the same problem
+
+. . .
+
+Get them using the same code!
+
+Specifically, get them to download your code (since it's publicly available), and import the function from there.
+
+. . .
+
+Now you have another set of eyes making sure your code works - and if either of you find a bug, you can fix it for both of you
+
+. . .
+
+In the same way, use functions that your colleagues/friends/enemies have written, rather than reinventing them yourself.
+
+And if you make improvements, share them with the original authors so everyone can benefit
+
+Research is better when everyone helps each other
+
+## 6. Show someone your code, and offer to read theirs
+
+This one can be scary! But it will make your code better
+
+Being the only person to know how X works makes you the wrong kind of indispensable: the kind that has you debugging code over the phone on your honeymoon.
+
+You (hopefully) ask people to review your grant proposals and papers, even if you've been writing for years. Why not your code?
+
+In return, offer to review your colleagues' code too.
+
+Maybe even start a code club to **constructively** review code as a group
+
+## 7. Automate it all (except the human element)
+
+**Continuous integration** services (e.g. Travis CI, GitHub Actions) can run automated tools to build and test your code every time you make a change
+
+You can test different OSs, compilers, and environments, all simultaneously, without needing to set up your own machines or VMs
+
+Rapid feedback means you can fix bugs faster
+
+Many tools are free for open-source/academic projects!
+
+But be warned: **this is not a substitute for code review by a human**
+
+## 8. Join a community of people doing the same thing
+
+a.k.a. **Community of Practice**, or sometimes a **Working Group**
+
+* HEP communities (I don't know these, but your teachers do)
+* [Research Software Engineers](https://researchsoftware.org) (International/UK/US/DE/more...)
+    * [UKRSE Slack](https://join.slack.com/t/ukrse/signup) welcomes RSEs at all levels, from all places (it's ok to join and lurk)
+* Software Sustainability Institute
+    * Offers Fellowships to all career levels and domains to improve software sustainability in their communities
+
+## Summary
+
+* Use version control, little and often
+* Write your code as small, testable, combinable chunks
+* Use automated tools to build, run, and test your code across environments
+* Give and receive code review
+* Participate in larger communities to learn and share knowledge
+
+# Conclusion
+
+## Conclusion
+
+* Research Software Engineering is a real and viable career path
+* Sustainable software is continuously improved and supported, and is not dependent on only one person to survive
+* Improve your practices a little bit every time you code, and it will pay dividends
+* Better software, better research
+
+## Resources
+
+* [HEP Software Foundation Training Center](https://hepsoftwarefoundation.org/training/center.html) - links to modules on Git, Continuous Integration, testing, `cmake`, and HEP tools
+* [The Carpentries - Software Carpentry](https://software-carpentry.org) - workshops and self-study material for the Bash Shell, Git, Python, R, and more
+* [Software Sustainability Institute resources](https://www.software.ac.uk/resources)
 
 # Questions
+
+Ask now, or contact me: 
+
+* [elichadwick@carpentries.org](mailto:elichadwick@carpentries.org)
+* Chat to me after!

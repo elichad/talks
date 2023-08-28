@@ -7,7 +7,7 @@ institute: "The Carpentries; Software Sustainability Institute"
 format: 
     revealjs:
         code-fold: true
-        css: themes/theme.css
+        theme:  [default, ../theme/general.scss, theme/theme.scss]
 toc: true
 toc-depth: 1
 slide-number: true
@@ -304,7 +304,7 @@ You (hopefully) ask people to review your grant proposals and papers, even if yo
 
 In return, offer to review your colleagues' code too.
 
-Maybe even start a code club to **constructively** review code as a group
+Maybe even start a code club to _constructively_ review code as a group
 
 ## 7. Automate it all (except the human element)
 

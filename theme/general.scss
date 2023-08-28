@@ -1,0 +1,18 @@
+/*-- scss:defaults --*/
+
+// custom colours I use frequently
+$ssi-red: #d2232a;
+$eli-purple: #8212bc;
+$carpentries-blue: #001483;
+$link-blue: #2a76dd;
+
+// Sass variable overrides
+// see https://quarto.org/docs/presentations/revealjs/themes.html#sass-variables
+$link-color: $link-blue;
+$presentation-heading-color: $carpentries-blue !default;
+
+/*-- scss:rules --*/
+
+.slide-logo {
+    max-height: 7.5% !important;
+}

@@ -8,7 +8,7 @@ institute: "The Carpentries"
 format:
     revealjs:
         code-fold: true
-        css: themes/theme.css
+        theme:  [default, ../theme/general.scss, theme/theme.scss]
 toc: true
 toc-depth: 1
 slide-number: true

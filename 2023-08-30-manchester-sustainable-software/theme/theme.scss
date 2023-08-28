@@ -1,0 +1,11 @@
+@import "../../theme/general.scss";
+
+/*-- scss:defaults --*/
+
+$presentation-heading-color: $ssi-red;
+
+/*-- scss:rules --*/
+
+.reveal .slide strong {
+    color: $ssi-red;
+}

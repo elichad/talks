@@ -1,5 +1,5 @@
 ---
-title: "Sustainable Software and Reproducible Research"
+title: "Making Software Sustainable"
 date: 2023-08-30
 date-format: long
 author: Eli Chadwick *(he/him and they/them)*
@@ -21,17 +21,33 @@ fontsize: 35px
 
 # Introduction
 
+## Slido Setup
+
 ## About Me
 
+:::{layout=[[80,20]]}
+
 * 2018: MSci Physics from University of Birmingham
-    * Final project in computational astrophysics
-* 2018-2022: Science and Technology Facilities Council (STFC)
-    * 2-year Scientific Computing graduate scheme
-    <!-- * 3-month placement at Institute Laue-Langevin (ILL)-->
-    * Permanent project on muon spectroscopy simulations
-    * Delivered training workshops for early career staff (graduates, apprentices)
-* 2021: Software Sustainability Institute Fellowship (focus: training and accessibility)
+    * Final project on computational astrophysics
+* 2018-2022: Science and Technology Facilities Council
+    * 2 years on Scientific Computing graduate scheme
+    * 2 years on muon spectroscopy simulations
+    * Led training workshops for early career staff
+* 2021: Software Sustainability Institute Fellowship 
+    * Focus on training and accessibility
 * 2023: The Carpentries - IT Developer
+
+![](images/university_of_birmingham_logo.png)
+![](images/ukri-stfc-square-logo.png)
+![](images/SSI_PRIMARY_LOGO.svg)
+![](images/TheCarpentries.svg)
+
+:::
+
+::: {.notes}
+
+:::
+
 
 ---
 
@@ -67,33 +83,41 @@ If you develop software to support your own research or that of others, you are 
 
 You may like to describe yourself as a Research Software Engineer (RSE)
 
-You're welcome in RSE events and spaces! (more on this later)
+. . .
+
+You're welcome in RSE events and spaces, such as the yearly UK RSE Conference
+
+![](images/rse_logo.png){width="30%" fig-align="center"}
 
 ## Why I'm Here
 
-* At STFC I learned various approaches to software engineering, testing, etc.
-* These would have been useful during my degree, but they were never mentioned during my programming modules
-* Realised that I left uni with *advanced coding skills, but minimal knowledge of best practices*
-* I want to see these knowledge gaps closed earlier in a person's academic career
-* So I make time to teach other early-career researchers coming behind me
+* At STFC I learned many approaches to software engineering, testing, collaboration, and so on
+* These were never mentioned during my programming modules at uni
+* I left uni with *advanced coding skills, but minimal knowledge of best practices*
+* I want you to know more than I did
+* Workshops and talks help to close these knowledge gaps
 
 # What is Sustainable Software?
 
 ## Slido Poll
 
+::: {.notes}
+F11, switch to Slido tab, Present (if not already)
+:::
+
 ## Definition of Sustainable Software
 
-**Sustainability** means that the software you use today will be available - and continue to be improved and supported - in the future. <!-- https://software.ac.uk/about -->
+**Sustainability** means that the software you use today will be available - and continue to be improved and supported - in the future. ^[[About the Software Sustainability Institute](https://software.ac.uk/about)]
 
 . . .
 
-**Sustainable software** is software which is:
+**Sustainable software** is software which is: ^[[Defining Software Sustainability](https://danielskatzblog.wordpress.com/2016/09/13/defining-software-sustainability/) by Daniel S. Katz]
 
 :::{.incremental}
 * Easy to evolve and maintain
 * Fulfils its intent over time
 * Survives uncertainty
-* Supports relevant concerns (Political, Economic, Social, Technical, Legal, Environmental)
+* Supports relevant concerns (political, economic, social, technical, legal, environmental)
 :::
 
 ---
@@ -109,7 +133,7 @@ You're welcome in RSE events and spaces! (more on this later)
 
 ---
 
-## Aspects of Sustainability (1/2)
+## Aspects of Sustainability (2/2)
 
 * availability and accessibility
 * compatibility with operating systems, browsers, and/or assistive technology
@@ -121,18 +145,102 @@ You're welcome in RSE events and spaces! (more on this later)
 
 ## Why Go to All This Effort?
 
- - Good software practices create better software
- - Better software improves the reproducibility and reusability of research
- - read that article by carole so I can argue this better
+. . .
+
+Would you use and trust the results of a microscope or telescope that hadn’t been built by qualified engineers or tested? ^[[Better Software, Better Research](https://www.software.ac.uk/resources/publications/better-software-better-research)]
+
+. . .
+
+Software is the most prevalent of all the instruments used in modern science
+
+* 84% of scientists say developing scientific software is important for their own research ^[[How do scientists develop and use scientific software?](https://dl.acm.org/doi/10.1109/SECSE.2009.5069155)]
+* But most have learned through self-study, and this leaves gaps
+* Only 47% have a good understanding of testing
+
+## Why Go to All This Effort?
+
+The consequences of *not* following best practices can be massive
+
+* A software bug led to the retraction of three Science papers
+ ^[[A Scientist's Nightmare: Software Problem Leads to Five Retractions](https://www.science.org/doi/10.1126/science.314.5807.1856)]
+* Journals increasingly demand that both code & data be openly available for review and reproducibility
 
  ![](images/BetterSoftwareBetterResearchImage.jpg){fig-alt="Better Software, Better Research" fig-align="center"}
 
----
+# Case Studies
 
-## Case Study
+## Unsustainable Software
 
-Pull a case study from the SSI archives
+Two students collaborate to model telescope observations of a specific type of astronomical event.
 
+:::{.incremental}
+* They put their code on GitHub, but don't update it often
+* Their code diverges as they each study a different telescope
+* As they prepare to submit a paper, one of them introduces a major bug and only notices it at the last minute while doing a manual check
+* Six months later, changes are requested -- but they no longer remember which code files worked and which were broken
+* Replicating their own results is tough
+* After the paper is accepted, both students move onto other projects, and don't touch the code again
+:::
+
+:::{.notes}
+Two students collaborate on a project modelling how telescopes may observe a specific astronomical event. They put their code on GitHub, but don't update it often.
+
+As they each study a different telescope, their code begins to diverge, until each of them has a slightly different model for the events as well as the telescopes.
+
+At the end of the project, they make their code public on GitHub and write a paper with their findings. One of them introduces a major bug during a late-night deadline-induced frenzy, and only notices while checking the code over manually before submission.
+
+Six months later, with changes to the paper requested, they go back to adjust their code -- but they no longer remember which code files worked, and which were faulty and abandoned. They have to spend a long time figuring out how to replicate their own results.
+
+While the telescope models were general enough to be applied to other types of astronomical event, their implementation is not easy to understand, and both students move onto other projects, so after the paper is accepted, the code ceases to be used, and eventually falls out of support.
+
+:::
+
+
+## Unsustainable Software - Consequences
+
+:::{.incremental}
+* The code is difficult to understand and use
+    * Replicating the results is extremely challenging
+* The code for the telescope models cannot be applied to other types of astronomical event, even though the maths is generalised
+    * A later student must start from scratch
+* The code was never reviewed for bugs
+    * The results could have contained major errors
+* The code is abandoned after the paper is published, and the Python version it used falls out of support soon after
+    * Using the code in any way becomes harder over time
+:::
+
+## Sustainable Software
+
+The C++ tool FABBER processes functional magnetic resonance imaging to recognise blood flow patterns in the brain and measure brain activity.
+
+:::{.incremental}
+* Originally developed by a single researcher for use in his group
+    * "while I tried to make it flexible from the outset, it morphed a bit over time and I reached a ceiling of what I could do myself" ^[[Magnetic imaging software now FABBERlously easy to use](https://www.software.ac.uk/blog/2016-09-26-magnetic-imaging-software-now-fabberlously-easy-use)]
+* Developer requested support from experienced RSEs, and together they redesigned the code
+    * turned core functions into a reusable library
+    * allowed analysis models to be plugged in, written by anyone
+    * added tests using known example inputs and outputs
+:::
+
+## Sustainable Software - Consequences
+
+:::{.incremental}
+* The code is easier to understand and use
+    * More groups can use it
+    * Maintenance is easier
+* Generalised core features form a standalone package
+    * Can be applied in new, unforeseen applications
+* The code includes a test suite which checks for bugs
+    * Results are less likely to contain errors
+* The code is open-source
+    * Developers from other groups can contribute and keep the project going
+:::
+
+## Halfway Point - Question Break
+
+Post questions in Slido Q&A tab
+
+Coming next: **How Do I Improve the Sustainability of my Software?**
 
 <!--
 
@@ -173,6 +281,30 @@ There is no shame in a project being at the lower end – only space for improve
 
 Heavily inspired by [9 steps for quality research software](https://software.ac.uk/blog/2016-09-12-9-steps-quality-research-software) by Laurence Billingham, Steven Lamerton, Nick Rees, Mike Croucher, Richard Domander, and Carl Wilson
 
+## There are a lot of suggestions coming up
+
+You don't need to do all of them right now
+
+You don't need to follow them in order
+
+Pick one that resonates with you, and focus on that
+
+. . .
+
+:::: {.columns}
+
+::: {.column width="40%"}
+![Image © James Clear](images/tiny-gains-graph.jpg){fig-alt="The aggregation of marginal gains shows how small improvements and one percent gains compound."}
+:::
+
+::: {.column width="60%"}
+In the long run:
+
+*Strive to make a small improvement every time you write a new piece of code*
+:::
+
+:::
+
 ## 1. Admit that you have a problem
 
 Hello, I am Eli, and I've written terrible software.
@@ -189,12 +321,6 @@ It's ok to write very imperfect code
 
 Just don't deny that your code could be better out of pride or shame
 
-. . .
-
-Spend some effort to make your code a little bit better every time you write something new
-
-When you look back in a year, you'll see how far you've come
-
 ## 2a. Introduce a version control system...
 
 Version control:
@@ -210,7 +336,9 @@ Invest a couple of days in learning, then practice, practice, practice
 
 . . .
 
-Make your code open-source while you're at it (on a platform like GitHub, GitLab, or Bitbucket). Now you have a backup!
+Put your code on a platform like GitLab or Bitbucket while you're at it. Now you have a backup! 
+
+Ideally, make this open-source
 
 ## 2b. ... and make changes little and often
 
@@ -220,13 +348,15 @@ Is it almost reflexive?
 
 . . .
 
-Committing to version control should be similar!
+Do the same with committing to version control!
 
-This builds up a richer, more searchable, more undo-able history of changes (and it means more practice)
+You will build up a richer, more searchable, more undo-able history of changes (and it means more practice)
 
 . . .
 
-It's ok to commit something broken, then fix it in the next commit
+It's ok to commit something broken, then fix it in a later commit
+
+![](images/little_and_often_commits.png){width=70%}
 
 ## 3a. Get your code to build and run on another machine
 
@@ -236,9 +366,11 @@ Try to compile, build, and **run** your code on a machine that's not yours
 
 . . .
 
-You will end up figuring out exactly what compiler version, library versions, and operating systems your code depends on. Document these and put them in the same place as your code.
+Document these alongside your code:
 
-When you add a new library, add the version to your documentation!
+* Compiler version(s)
+* Library version(s)
+* Operating system(s)
 
 . . .
 
@@ -264,13 +396,17 @@ Instead, wire that test up permanently using a **testing framework**, and run it
 
 Do this every time you write a new piece of code, and suddenly you have a test suite!
 
-## 5a Modularise within your code...
+![](images/example_test.png){fig-align="center"}
+
+## 5a. Modularise within your code...
 
 Break your code down into simple chunks or units that do one thing each, and turn them into functions (e.g. loading a file, checking inputs are within valid ranges, plotting a chart)
 
 Now your software is built from many simple interacting components.
 
 It's much simpler to verify that each function works correctly with individual 'unit tests.'
+
+![](images/example_modular_unit.png){fig-align="center"}
 
 ## 5b. ... and then modularise within your group
 
@@ -280,67 +416,86 @@ You've written a function to solve a particular problem, and now your colleague 
 
 Get them using the same code!
 
-Specifically, get them to download your code (since it's publicly available), and import the function from there.
-
 . . .
 
 Now you have another set of eyes making sure your code works - and if either of you find a bug, you can fix it for both of you
 
 . . .
 
-In the same way, use functions that your colleagues/friends/enemies have written, rather than reinventing them yourself.
+In the same way, use and improve functions that your colleagues/friends/enemies have written
 
-And if you make improvements, share them with the original authors so everyone can benefit
+Research is better when we help each other
 
-Research is better when everyone helps each other
+:::{.notes}
+Get them using the same code!
+
+Specifically, get them to download your code (since it's publicly available), and import the function from there.
+
+In the same way, use and improve functions that your colleagues have written, rather than reinventing them yourself.
+:::
 
 ## 6. Show someone your code, and offer to read theirs
 
 This one can be scary! But it will make your code better
 
-Being the only person to know how X works makes you the wrong kind of indispensable: the kind that has you debugging code over the phone on your honeymoon.
-
 You (hopefully) ask people to review your grant proposals and papers, even if you've been writing for years. Why not your code?
 
-In return, offer to review your colleagues' code too.
+In return, offer to review your colleagues' code too - and **be nice**
 
-Maybe even start a code club to _constructively_ review code as a group
+You will learn about functions, packages, and techniques you wouldn't know about otherwise
 
-## 7. Automate it all (except the human element)
+![](images/example_code_review.png){fig-align="center" width="70%"}
 
-**Continuous integration** services (e.g. Travis CI, GitHub Actions) can run automated tools to build and test your code every time you make a change
+:::{.notes}
+Being the only person to know how X works makes you the wrong kind of indispensable: the kind that has you debugging code over the phone on your honeymoon.
+:::
 
-You can test different OSs, compilers, and environments, all simultaneously, without needing to set up your own machines or VMs
+## 7. Automate it all (except the human bits)
 
-Rapid feedback means you can fix bugs faster
+Use **continuous integration** services to automatically build and test your code every time you make changes (e.g. Travis CI, GitHub Actions)
+
+Test multiple OSs, compilers, and environments simultaneously with minimal setup
 
 Many tools are free for open-source/academic projects!
 
+:::{.r-stack}
+![](images/example_ci.png){fig-align="center" width=80%}
+:::
+
+. . .
+
 But be warned: **this is not a substitute for code review by a human**
 
-## 8. Join a community of people doing the same thing
 
-a.k.a. **Community of Practice**, or sometimes a **Working Group**
+## 8. Join a Community of Practice
 
-* HEP communities (I don't know these, but your teachers do)
+A **community of practice** is a group of people who share a concern or a passion for something they do and learn how to do it better as they interact regularly
+
+. . .
+
+* HEP communities
 * [Research Software Engineers](https://researchsoftware.org) (International/UK/US/DE/more...)
-    * [UKRSE Slack](https://join.slack.com/t/ukrse/signup) welcomes RSEs at all levels, from all places (it's ok to join and lurk)
-* Software Sustainability Institute
-    * Offers Fellowships to all career levels and domains to improve software sustainability in their communities
+    * [UKRSE Slack](https://join.slack.com/t/ukrse/signup) welcomes RSEs at all levels
+* [Software Sustainability Institute](https://software.ac.uk)
+    * Offers [Fellowships](https://software.ac.uk/programmes-and-events/fellowship-programme) to all career levels and domains to improve software sustainability in their communities
 
-## Summary
 
-* Use version control, little and often
-* Write your code as small, testable, combinable chunks
-* Use automated tools to build, run, and test your code across environments
-* Give and receive code review
-* Participate in larger communities to learn and share knowledge
+## Recap of Steps
+
+1. Admit you have a problem
+2. Use version control, little and often
+3. Build and run your code on another machine
+4. Formalise your tests
+5. Modularise and share
+6. Give and receive code review
+7. Automate as much as you can
+8. Join a community of practice
 
 # Conclusion
 
 ## Conclusion
 
-* Research Software Engineering is a real and viable career path
+* Research Software Engineering is a real and viable career path (that you may already be following)
 * Sustainable software is continuously improved and supported, and is not dependent on only one person to survive
 * Improve your practices a little bit every time you code, and it will pay dividends
 * Better software, better research
@@ -350,10 +505,15 @@ a.k.a. **Community of Practice**, or sometimes a **Working Group**
 * [HEP Software Foundation Training Center](https://hepsoftwarefoundation.org/training/center.html) - links to modules on Git, Continuous Integration, testing, `cmake`, and HEP tools
 * [The Carpentries - Software Carpentry](https://software-carpentry.org) - workshops and self-study material for the Bash Shell, Git, Python, R, and more
 * [Software Sustainability Institute resources](https://www.software.ac.uk/resources)
+* [The Turing Way](https://the-turing-way.netlify.app/index.html) - handbook to reproducible, ethical and collaborative data science
 
 # Questions
 
-Ask now, or contact me: 
+Post questions in the Slido Q&A tab, or contact me: 
 
+* Eli Chadwick *(he/him and they/them)*
 * [elichadwick@carpentries.org](mailto:elichadwick@carpentries.org)
+* [@elichad](https://github.com/elichad) on GitHub
 * Chat to me after!
+
+Find these slides at [https://github.com/elichad/talks](https://github.com/elichad/talks)

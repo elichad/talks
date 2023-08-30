@@ -1,6 +1,6 @@
 ---
 title: "The Other Kind of Accessible"
-subtitle: "Removing software barriers for disabled researchers and RSEs"
+subtitle: "**Removing software barriers for disabled researchers and RSEs**"
 date: 2023-09-05
 date-format: long
 author: "Eli Chadwick *(he/him and they/them)*"
@@ -49,15 +49,17 @@ fontsize: 35px
 
 ## "Accessible" in FAIR for research software
 
-**Findable**: Software, and its associated metadata, is easy for both humans and machines to find.
+*Findable*: Software, and its associated metadata, is easy for both humans and machines to find.
 
-**Accessible: Software, and its metadata, is retrievable via standardised protocols.**
+*Accessible*: Software, and its metadata, is **retrievable via standardised protocols**.
 
-**Interoperable**: Software interoperates with other software by exchanging data and/or metadata, and/or through interaction via application programming interfaces (APIs), described through standards.
+*Interoperable*: Software **interoperates with other software** by exchanging data and/or metadata, and/or through interaction via application programming interfaces (APIs), described through standards.
 
-**Reusable**: Software is both usable (can be executed) and reusable (can be understood, modified, built upon, or incorporated into other software).
+*Reusable*: Software is both **usable (can be executed)** and reusable (can be understood, modified, built upon, or incorporated into other software).
 
-_Nothing here discusses whether research software should be usable by all types of people!_
+. . .
+
+**None of these explicitly say that software should be usable by all types of people!**
 
 ::: {.notes}
 https://www.nature.com/articles/s41597-022-01710-x
@@ -178,6 +180,7 @@ get_student_data <- function(desired_category_marker) {
 library(readr)
 library(dplyr)
 library(ggplot2)
+library(RColorBrewer)
 
 data_staff <- get_staff_data("Disability status")
 data_students <- get_student_data("Disability Status")
@@ -194,6 +197,7 @@ general_population_percentage <- 17.8
 fig <- ggplot(data = data_all[data_all$category == "Known disability", ], mapping = aes(x = academic_year, y = percentage, group = level, color = level, shape = level)) +
     geom_line(size = 1) +
     geom_point(size = 3) +
+    scale_colour_brewer(palette = "Set1") +
     geom_hline(
         yintercept = general_population_percentage,
         linetype = "dashed",
@@ -257,6 +261,7 @@ ethnicity_general_population_percentage <- 100 - 81.7
 fig <- ggplot(data = sex_all[sex_all$category == "Female", ], mapping = aes(x = academic_year, y = percentage, group = level, color = level, shape = level)) +
     geom_line(size = 1) +
     geom_point(size = 3) +
+    scale_colour_brewer(palette = "Set1") +
     geom_hline(
         yintercept = sex_general_population_percentage,
         linetype = "dashed",
@@ -278,6 +283,7 @@ ggsave(file = "images/he_sex.png", plot = fig, width = 10, height = 8, bg = "whi
 fig <- ggplot(data = ethnicity_all_grouped, mapping = aes(x = academic_year, y = percentage, group = level, color = level, shape = level)) +
     geom_line(size = 1) +
     geom_point(size = 3) +
+    scale_colour_brewer(palette = "Set1") +
     geom_hline(
         yintercept = ethnicity_general_population_percentage,
         linetype = "dashed",
@@ -317,7 +323,11 @@ ggsave(file = "images/he_ethnicity.png", plot = fig, width = 10, height = 8, bg 
 * It is everyone’s responsibility to remove barriers that disable people
 * “She can’t read the newspaper because it’s not published in large text or Braille”
 
+. . .
+
 **The social model is broadly preferred by the disabled community**
+
+. . .
 
 Ask yourself: what barriers exist within my software that I could remove?
 
@@ -330,11 +340,11 @@ https://www.ombudsman.org.uk/sites/default/files/FDN-218144_Introduction_to_the_
 
 UK Equality Act 2010
 
-* The first requirement is a requirement, where a provision, criterion or practice of A's puts a disabled person at a substantial disadvantage in relation to a relevant matter in comparison with persons who are not disabled, to take such steps as it is reasonable to have to take to avoid the disadvantage.
+* "...where a provision, criterion or practice of A's puts a disabled person at a substantial disadvantage... take such steps as it is reasonable to have to take to avoid the disadvantage."
 
-Public Sector Bodies (Websites and Mobile Applications) (No. 2) Accessibility Regulations 2018.
+Public Sector Bodies (Websites and Mobile Applications) (No. 2) Accessibility Regulations 2018
 
-* https://www.gov.uk/guidance/accessibility-requirements-for-public-sector-websites-and-apps
+* You must make your website or mobile app more accessible by making it ‘perceivable, operable, understandable and robust’. ^[[Understanding accessibility requirements for public sector bodies](https://www.gov.uk/guidance/accessibility-requirements-for-public-sector-websites-and-apps)]
 
 # What Can I Do?
 
@@ -362,7 +372,7 @@ Or pick a checklist to follow for a deeper dive:
 ## I create papers, blog posts, videos...
 
 * Check use of colour
-* Ensure images have alt text (unless they are decorative)
+* Ensure non-decorative images have alt text
 * Provide a text alternative for complex images such as charts, graphs, maps
 * Ensure videos have human-generated captions and/or transcripts
 

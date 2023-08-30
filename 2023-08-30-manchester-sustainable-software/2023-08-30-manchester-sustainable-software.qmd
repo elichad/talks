@@ -37,14 +37,10 @@ fontsize: 35px
     * Focus on training and accessibility
 * 2023: The Carpentries - IT Developer
 
-![](images/university_of_birmingham_logo.png)
-![](images/ukri-stfc-square-logo.png)
-![](images/SSI_PRIMARY_LOGO.svg)
-![](images/TheCarpentries.svg)
-
-:::
-
-::: {.notes}
+![](images/university_of_birmingham_logo.png){fig-alt="University of Birmingham"}
+![](images/ukri-stfc-square-logo.png){fig-alt="UKRI Science and Technology Facilities Council"}
+![](images/SSI_PRIMARY_LOGO.svg){fig-alt="Software Sustainability Institute"}
+![](images/TheCarpentries.svg){fig-alt="The Carpentries"}
 
 :::
 
@@ -77,7 +73,7 @@ This has a name:
 
 ## Research Software Engineering
 
-If you develop software to support your own research or that of others, you are doing Research Software Engineering! 
+If you develop software ^[and by 'software', I mean just about any code] to support your own research or that of others, you are doing Research Software Engineering!
 
 . . .
 
@@ -87,13 +83,21 @@ You may like to describe yourself as a Research Software Engineer (RSE)
 
 You're welcome in RSE events and spaces, such as the yearly UK RSE Conference
 
-![](images/rse_logo.png){width="30%" fig-align="center"}
+:::{.r-stack}
+![](images/rse_logo.png){width="50%" fig-align="center"}{fig-alt="RSE logo"}
+:::
 
 ## Why I'm Here
 
 * At STFC I learned many approaches to software engineering, testing, collaboration, and so on
 * These were never mentioned during my programming modules at uni
+
+. . .
+
 * I left uni with *advanced coding skills, but minimal knowledge of best practices*
+
+. . .
+
 * I want you to know more than I did
 * Workshops and talks help to close these knowledge gaps
 
@@ -111,10 +115,10 @@ F11, switch to Slido tab, Present (if not already)
 
 . . .
 
-**Sustainable software** is software which is: ^[[Defining Software Sustainability](https://danielskatzblog.wordpress.com/2016/09/13/defining-software-sustainability/) by Daniel S. Katz]
+**Sustainable software** is software which: ^[[Defining Software Sustainability](https://danielskatzblog.wordpress.com/2016/09/13/defining-software-sustainability/) by Daniel S. Katz]
 
 :::{.incremental}
-* Easy to evolve and maintain
+* Is easy to evolve and maintain
 * Fulfils its intent over time
 * Survives uncertainty
 * Supports relevant concerns (political, economic, social, technical, legal, environmental)
@@ -156,10 +160,11 @@ Software is the most prevalent of all the instruments used in modern science
 * 84% of scientists say developing scientific software is important for their own research ^[[How do scientists develop and use scientific software?](https://dl.acm.org/doi/10.1109/SECSE.2009.5069155)]
 * But most have learned through self-study, and this leaves gaps
 * Only 47% have a good understanding of testing
+* Yet even professional SEs introduce 15-50 bugs per 1,000 lines
 
 ## Why Go to All This Effort?
 
-The consequences of *not* following best practices can be massive
+The consequences of *not* following best practices can be serious
 
 * A software bug led to the retraction of three Science papers
  ^[[A Scientist's Nightmare: Software Problem Leads to Five Retractions](https://www.science.org/doi/10.1126/science.314.5807.1856)]
@@ -174,8 +179,7 @@ The consequences of *not* following best practices can be massive
 Two students collaborate to model telescope observations of a specific type of astronomical event.
 
 :::{.incremental}
-* They put their code on GitHub, but don't update it often
-* Their code diverges as they each study a different telescope
+* They start together, but their code diverges as they each study a different telescope
 * As they prepare to submit a paper, one of them introduces a major bug and only notices it at the last minute while doing a manual check
 * Six months later, changes are requested -- but they no longer remember which code files worked and which were broken
 * Replicating their own results is tough
@@ -200,11 +204,11 @@ While the telescope models were general enough to be applied to other types of a
 
 :::{.incremental}
 * The code is difficult to understand and use
-    * Replicating the results is extremely challenging
+    * Effectively nobody can replicate the results
 * The code for the telescope models cannot be applied to other types of astronomical event, even though the maths is generalised
-    * A later student must start from scratch
+    * A later student must start over from scratch
 * The code was never reviewed for bugs
-    * The results could have contained major errors
+    * The published results could contain major errors
 * The code is abandoned after the paper is published, and the Python version it used falls out of support soon after
     * Using the code in any way becomes harder over time
 :::
@@ -294,7 +298,7 @@ Pick one that resonates with you, and focus on that
 :::: {.columns}
 
 ::: {.column width="40%"}
-![Image © James Clear](images/tiny-gains-graph.jpg){fig-alt="The aggregation of marginal gains shows how small improvements and one percent gains compound."}
+![Image © James Clear](images/tiny-gains-graph.jpg){fig-alt="The aggregation of marginal gains shows how small improvements and one percent gains compound. Starting at 1, 1% better every day means 1.01^365=37.78. 1% worse every day means 0.99^365=0.03"}
 :::
 
 ::: {.column width="60%"}
@@ -356,7 +360,9 @@ You will build up a richer, more searchable, more undo-able history of changes (
 
 It's ok to commit something broken, then fix it in a later commit
 
-![](images/little_and_often_commits.png){width=70%}
+:::{.r-stack}
+![](images/little_and_often_commits.png){width=70% fig-align="center" fig-alt="Screenshot of 4 sequential commits from August 15, 2023. Commit messages read: 'add new page to index'; 'remove mailing list from procedures'; 'add previously undocumented deployment steps'; 'remove references to forks as we no longer use this method'"}
+:::
 
 ## 3a. Get your code to build and run on another machine
 
@@ -396,7 +402,7 @@ Instead, wire that test up permanently using a **testing framework**, and run it
 
 Do this every time you write a new piece of code, and suddenly you have a test suite!
 
-![](images/example_test.png){fig-align="center"}
+![](images/example_test.png){fig-align="center" fig-alt="Screenshot of a Python test using the unittest package. The test ensures people with hyphens in names have correct usernames generated"}
 
 ## 5a. Modularise within your code...
 
@@ -406,7 +412,7 @@ Now your software is built from many simple interacting components.
 
 It's much simpler to verify that each function works correctly with individual 'unit tests.'
 
-![](images/example_modular_unit.png){fig-align="center"}
+![](images/example_modular_unit.png){fig-align="center" fig-alt="Screenshot of a Python function called 'normalize_name' which removes spaces and accented characters from an input string"}
 
 ## 5b. ... and then modularise within your group
 
@@ -444,7 +450,7 @@ In return, offer to review your colleagues' code too - and **be nice**
 
 You will learn about functions, packages, and techniques you wouldn't know about otherwise
 
-![](images/example_code_review.png){fig-align="center" width="70%"}
+![](images/example_code_review.png){fig-align="center" width="70%" fig-alt="Screenshot of GitHub review comment from klbarnes20: This looks great! I made one comment but it is more of a suggestion. I learned some things by reading this that I hope are going to make my admin work quicker too! Thank you!"}
 
 :::{.notes}
 Being the only person to know how X works makes you the wrong kind of indispensable: the kind that has you debugging code over the phone on your honeymoon.
@@ -459,7 +465,7 @@ Test multiple OSs, compilers, and environments simultaneously with minimal setup
 Many tools are free for open-source/academic projects!
 
 :::{.r-stack}
-![](images/example_ci.png){fig-align="center" width=80%}
+![](images/example_ci.png){fig-align="center" width=80% fig-alt="Screenshot of GitHub checks on a pull request: All checks have passed. Accessibility testing with pa11y, Code scanning, Lint Code Base, Unit tests on Python 3.11"}
 :::
 
 . . .
@@ -495,7 +501,7 @@ A **community of practice** is a group of people who share a concern or a passio
 
 ## Conclusion
 
-* Research Software Engineering is a real and viable career path (that you may already be following)
+* Research Software Engineering is a viable career path (that you may already be following)
 * Sustainable software is continuously improved and supported, and is not dependent on only one person to survive
 * Improve your practices a little bit every time you code, and it will pay dividends
 * Better software, better research

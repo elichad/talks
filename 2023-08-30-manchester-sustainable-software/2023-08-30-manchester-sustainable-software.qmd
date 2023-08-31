@@ -8,6 +8,7 @@ format:
     revealjs:
         code-fold: true
         theme:  [default, ../theme/general.scss, theme/theme.scss]
+        embed-resources: true
 toc: true
 toc-depth: 1
 slide-number: true

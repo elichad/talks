@@ -3,4 +3,4 @@
 
 # local Jekyll build artifacts
 _site/
-.jekyll_cache
+.jekyll-cache

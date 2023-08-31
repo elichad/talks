@@ -523,4 +523,4 @@ Post questions in the Slido Q&A tab, or contact me:
 * [@elichad](https://github.com/elichad) on GitHub
 * Chat to me after!
 
-Find these slides at [https://github.com/elichad/talks](https://github.com/elichad/talks)
+Find these slides at [https://elichad.github.io/talks/](https://elichad.github.io/talks/)

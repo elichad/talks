@@ -9,6 +9,7 @@ format:
     revealjs:
         code-fold: true
         theme:  [default, ../theme/general.scss, theme/theme.scss]
+        embed-resources: true
 toc: true
 toc-depth: 1
 slide-number: true
@@ -414,6 +415,8 @@ Contact me:
 * [elichadwick@carpentries.org](mailto:elichadwick@carpentries.org)
 * Eli Chadwick - UKRSE Slack (the profile that says I'm at The Carpentries)
 * Chat to me at any break or social during RSECon!
+
+Find these slides at [https://elichad.github.io/talks](https://elichad.github.io/talks)
 
 <!--
 

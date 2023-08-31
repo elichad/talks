@@ -1,3 +1,7 @@
+---
+title: Talks by Eli Chadwick
+---
+
 # Talks by Eli Chadwick
 
 I like to talk about:
@@ -8,7 +12,7 @@ I like to talk about:
 
 Ordered by date, most recent first.
 
-* 30 August 2023: *Making Software Sustainable*. Delivered in person at HEP C++ Course, Manchester. [[slides](./2023-08-30-manchester-sustainable-software/2023-08-30-manchester-sustainable-software.html)] [[source]([./2023-08-30-manchester-sustainable-software/](https://github.com/elichad/talks/blob/main/2023-08-30-manchester-sustainable-software/2023-08-30-manchester-sustainable-software.qmd))]
+* 30 August 2023: *Making Software Sustainable*. Delivered in person at HEP C++ Course, Manchester. [[slides](./2023-08-30-manchester-sustainable-software/2023-08-30-manchester-sustainable-software.html)] [[source](https://github.com/elichad/talks/blob/main/2023-08-30-manchester-sustainable-software/2023-08-30-manchester-sustainable-software.qmd)]
 
 ## Talks in development
 

@@ -1,2 +1,6 @@
 .vscode
 **/*_files/
+
+# local Jekyll build artifacts
+_site/
+.jekyll_cache

@@ -1,5 +1,6 @@
 ---
 title: Talks by Eli Chadwick
+layout: default
 ---
 
 I like to talk about:

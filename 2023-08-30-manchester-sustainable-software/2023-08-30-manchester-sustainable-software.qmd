@@ -151,13 +151,14 @@ F11, switch to Slido tab, Present (if not already)
 
 . . .
 
-Would you use and trust the results of a microscope or telescope that hadn’t been built by qualified engineers or tested? ^[[Better Software, Better Research](https://www.software.ac.uk/resources/publications/better-software-better-research)]
+Would you use and trust the results of a microscope or telescope that hadn’t been built by qualified engineers or tested? ^[[Better Software, Better Research](https://www.software.ac.uk/resources/publications/better-software-better-research) by Carole Goble]
 
 . . .
 
 Software is the most prevalent of all the instruments used in modern science
 
-* 84% of scientists say developing scientific software is important for their own research ^[[How do scientists develop and use scientific software?](https://dl.acm.org/doi/10.1109/SECSE.2009.5069155)]
+* 84% of scientists say developing scientific software is important for their own research ^[[How do scientists develop and use scientific software?](https://dl.acm.org/doi/10.1109/SECSE.2009.5069155) by Jo Erskine Hannay, 
+Carolyn MacLeod, Janice Singer, Hans Petter Langtangen, Dietmar Pfahl, Greg Wilson]
 * But most have learned through self-study, and this leaves gaps
 * Only 47% have a good understanding of testing
 
@@ -166,7 +167,7 @@ Software is the most prevalent of all the instruments used in modern science
 The consequences of *not* following best practices can be serious
 
 * A software bug led to the retraction of three Science papers
- ^[[A Scientist's Nightmare: Software Problem Leads to Five Retractions](https://www.science.org/doi/10.1126/science.314.5807.1856)]
+ ^[[A Scientist's Nightmare: Software Problem Leads to Five Retractions](https://www.science.org/doi/10.1126/science.314.5807.1856) by Greg Miller]
 * Journals increasingly demand that both code & data be openly available for review and reproducibility
 
  ![](images/BetterSoftwareBetterResearchImage.jpg){fig-alt="Better Software, Better Research" fig-align="center"}
@@ -218,7 +219,7 @@ The C++ tool FABBER processes functional magnetic resonance imaging to recognise
 
 :::{.incremental}
 * Originally developed by a single researcher for use in his group
-    * "while I tried to make it flexible from the outset, it morphed a bit over time and I reached a ceiling of what I could do myself" ^[[Magnetic imaging software now FABBERlously easy to use](https://www.software.ac.uk/blog/2016-09-26-magnetic-imaging-software-now-fabberlously-easy-use)]
+    * "while I tried to make it flexible from the outset, it morphed a bit over time and I reached a ceiling of what I could do myself" ^[[Magnetic imaging software now FABBERlously easy to use](https://www.software.ac.uk/blog/2016-09-26-magnetic-imaging-software-now-fabberlously-easy-use) by Gillian Law]
 * Developer requested support from experienced RSEs, and together they redesigned the code
     * turned core functions into a reusable library
     * allowed analysis models to be plugged in, written by anyone

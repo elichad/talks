@@ -84,7 +84,7 @@ You may like to describe yourself as a Research Software Engineer (RSE)
 You're welcome in RSE events and spaces, such as the yearly UK RSE Conference
 
 :::{.r-stack}
-![](images/rse_logo.png){width="50%" fig-align="center"}{fig-alt="RSE logo"}
+![](images/rse_logo.png){width="50%" fig-align="center" fig-alt="RSE logo"}
 :::
 
 ## Why I'm Here
@@ -160,7 +160,6 @@ Software is the most prevalent of all the instruments used in modern science
 * 84% of scientists say developing scientific software is important for their own research ^[[How do scientists develop and use scientific software?](https://dl.acm.org/doi/10.1109/SECSE.2009.5069155)]
 * But most have learned through self-study, and this leaves gaps
 * Only 47% have a good understanding of testing
-* Yet even professional SEs introduce 15-50 bugs per 1,000 lines
 
 ## Why Go to All This Effort?
 

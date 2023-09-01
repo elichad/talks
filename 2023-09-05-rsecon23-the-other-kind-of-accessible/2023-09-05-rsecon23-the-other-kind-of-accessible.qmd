@@ -22,7 +22,7 @@ fontsize: 35px
 
 # Introduction
 
-## Introduction
+## About Me
 
 * RSE for 5 years
 * SSI Fellow since 2021
@@ -31,36 +31,41 @@ fontsize: 35px
 * Started studying disability and accessibility after discovering how much harder it was to use the web with assistive tech
 
 <!--
----
-
 ## Motivation
 
-* Software ergonomics talk at deRSE
-* Good, but barely mentioned disability!
-* Bringing back the disability justice angle
-* There is a great wealth of accessibility expertise in industry that has not yet made it across to the RSE community
-
----
-
-![](images/assistive-tech-setup.png)
-
--->
-
-# What is the "Other Kind of Accessible"?
-
-## "Accessible" in FAIR for research software
-
-*Findable*: Software, and its associated metadata, is easy for both humans and machines to find.
-
-*Accessible*: Software, and its metadata, is **retrievable via standardised protocols**.
-
-*Interoperable*: Software **interoperates with other software** by exchanging data and/or metadata, and/or through interaction via application programming interfaces (APIs), described through standards.
-
-*Reusable*: Software is both **usable (can be executed)** and reusable (can be understood, modified, built upon, or incorporated into other software).
+* I straddle two worlds - RSE and web accessibility
+* The word "accessible" is thrown around a lot in both
+* But it means very different things
 
 . . .
 
-**None of these explicitly say that software should be usable by all types of people!**
+* Occasionally I encounter talks and discussions on 'software ergonomics,' 'software usability,' etc.
+* These tread the same ground, but rarely mention disability
+
+. . .
+
+* I want to bring back the disability justice angle
+* There is a great wealth of accessibility expertise in industry that we as RSEs can learn from
+-->
+<!--- 
+---
+
+![](images/assistive-tech-setup.png) 
+--->
+
+# What is the "Other Kind of Accessible"?
+
+## "Accessible" in FAIR for research software ^[[Introducing the FAIR Principles for research software](https://www.nature.com/articles/s41597-022-01710-x) by Michelle Barker, Neil P. Chue Hong, Daniel S. Katz, Anna-Lena Lamprecht, Carlos Martinez-Ortiz, Fotis Psomopoulos, Jennifer Harrow, Leyla Jael Castro, Morane Gruenpeter, Paula Andrea Martinez, and Tom Honeyman]
+
+**Software, and its metadata, is retrievable via standardised protocols**.
+
+A1. Software is retrievable by its identifier using a standardised communications protocol.
+
+A1.1. The protocol is open, free, and universally implementable.
+
+A1.2. The protocol allows for an authentication and authorization procedure, where necessary.
+
+A2. Metadata are accessible, even when the software is no longer available.
 
 ::: {.notes}
 https://www.nature.com/articles/s41597-022-01710-x
@@ -68,7 +73,11 @@ https://www.nature.com/articles/s41597-022-01710-x
 
 ## "Accessible" in a disability context
 
-Ensures that everyone, including people with disabilities, older adults, and people from diverse cultural and linguistic backgrounds, can access and participate fully in society. This includes access to physical spaces, transportation, **digital content**, and communication.
+"Accessibility means that [disabled] people can do what they need to do in a **similar amount of time and effort** as someone that does not have a disability. It means that people are empowered, can be independent, and will not be frustrated by something that is poorly designed or implemented." ^[[What we mean when we talk about accessibility](https://accessibility.blog.gov.uk/2016/05/16/what-we-mean-when-we-talk-about-accessibility-2/) by Alistair Duggin]
+
+. . .
+
+**The A in FAIR does not cover this!**
 
 ## Digital Accessibility, a.k.a. "a11y"
 
@@ -78,34 +87,65 @@ There are 11 letters between the ‘a’ and ‘y’ in 'accessibility'!
 
 Typically pronounced "ah-lee" or "A-eleven-Y"
 
-## Types of Disability
+Other numeronyms: i18n (internationalisation), P2P (peer-to-peer), K9 (canine)
 
-* Visual
-* Auditory
-* Speech
-* Mobility/Body Structure (e.g. fine motor control, ambulation, muscle fatigue)
-* Cognitive (e.g. learning, reading, attention, sensory sensitivity)
-* Seizure
-* Psychological/Psychiatric (e.g. social, behavioural, mental health)
+# Disability Crash Course
 
-A person may have multiple disabilities, which may or may not intersect.
+## Models of Disability: Medical model
+* Disability is the result of an impairment
+* Treatment aims to ‘fix’ the disability or provide special individual services
+* The disabled individual is expected to take the responsibility for adjusting
+* “She can’t read the newspaper because she is blind”
 
----
+## Models of Disability: Social model
+* Disability is the result of barriers in society; separate to impairment
+* A person may be more disabled by some environments than others
+* It is everyone’s responsibility to remove barriers that disable people
+* “She can’t read the newspaper because it’s not published in large text or Braille”
 
-| Type of disability | Barriers in software |
-| --- | --- | 
-| Visual | Colour, text size, screen reader incompatibility |
-| Auditory | Lack of captions/sign language interpretation |
-| Speech | Lack of text-based alternatives for speech communication |
-| Mobility| Operating specific controls |
-| Cognitive | Complex page layout, animations, long or complex text |
-| Seizure | Moving, blinking, or flickering content |
-| Psychological |  |
-| All | Lack of support, reduced access to events, lack of representation |
+. . .
 
-: {tbl-colwidths="[30,70]"}
+**The social model is broadly preferred by the disabled community**
 
-# Why Should I Care About This?
+. . .
+
+Ask yourself: what barriers exist within my software that I could remove?
+
+::: {.notes}
+https://www.ombudsman.org.uk/sites/default/files/FDN-218144_Introduction_to_the_Social_and_Medical_Models_of_Disability.pdf
+:::
+
+## Barriers We Create
+
+* Text formatting - colour, size, font
+* Screen reader incompatibility
+* Lack of captions/transcripts
+* Small buttons and other controls
+* Controls that don't support both keyboard & mouse
+* Complex page layout
+* Complex text
+* Animations, especially moving/flickering/blinking content
+* Lack of instruction
+* Lack of support
+* Inaccessible events
+* ...
+
+## Example study - Jupyter Notebooks
+
+In a study of 100,000 randomly chosen Jupyter notebooks: ^[[Notably Inaccessible -- Data Driven Understanding of Data Science Notebook (In)Accessibility](https://arxiv.org/abs/2308.03241) by Venkatesh Potluri, Sudheesh Singanamalla, Nussara Tieanklin, and Jennifer Mankoff]
+
+* 0.19% of notebook images had alt text - and most of those are just "image," "png," "alt," etc.
+* 4.53% of notebooks included data tables after a chart
+* 48.36% start with a heading in the first cell
+
+. . .
+
+The study also found systemic issues:
+
+* matplotlib doesn't support embedding alt text into image files
+* Jupyter default themes for HTML exports don't meet a11y guidelines
+
+# Why Should I Care?
 
 ## I don't have disabled users!
 
@@ -116,12 +156,6 @@ A person may have multiple disabilities, which may or may not intersect.
     * They will not tell you
     * They will just leave
 :::
-
-## Accessibility benefits everyone...
-
-## ...but it benefits disabled people most
-
-## Statistics
 
 ---
 
@@ -228,6 +262,7 @@ https://www.hesa.ac.uk/data-and-analysis/students/whos-in-he
 
 ---
 
+<!--
 ```{r}
 # | label: HE staff and students - female & POC
 # | output-location: slide
@@ -235,6 +270,8 @@ library(readr)
 library(dplyr)
 library(ggplot2)
 
+# I suspect this is actually data on _gender_ rather than sex
+# but sticking with the column name in variables for clarity
 sex_staff <- get_staff_data("Sex")
 sex_students <- get_student_data("Sex")
 
@@ -306,42 +343,30 @@ ggsave(file = "images/he_ethnicity.png", plot = fig, width = 10, height = 8, bg 
 
 ::: {layout-ncol="2"}
 
-![](images/he_sex.png){fig-alt="Chart showing percentage of higher education staff and students with known disabilities from academic year 2017/18 to 2021/22. 2021 census data for the general population is shown at 18%. 'All undergraduate' rises from 14% to 18%. 'All postgraduate' rises from 9% to 11%. 'Other contract level' rises from 4% to 7%. 'Other senior academic' rises from 3% to 5%. 'Professor' rises from 2% to 3%. Sources: HESA, ONS"}
+![](images/he_sex.png){fig-alt="Chart showing percentage of higher education staff and students who identify as female from academic year 2017/18 to 2021/22. 2021 census data for the general population is shown at 51%. 'All undergraduate' is constant around 57%. 'All postgraduate' is constant around 58%%. 'Other contract level' is constant around 48%. 'Other senior academic' rises from 36% to 42%. 'Professor' rises from 25% to 30%. Sources: HESA, ONS"}
 
-![](images/he_ethnicity.png){fig-alt="Chart showing percentage of higher education staff and students with known disabilities from academic year 2017/18 to 2021/22. 2021 census data for the general population is shown at 18%. 'All undergraduate' rises from 14% to 18%. 'All postgraduate' rises from 9% to 11%. 'Other contract level' rises from 4% to 7%. 'Other senior academic' rises from 3% to 5%. 'Professor' rises from 2% to 3%. Sources: HESA, ONS"}
+![](images/he_ethnicity.png){fig-alt="Chart showing percentage of higher education staff and students of colour from academic year 2017/18 to 2021/22. 2021 census data for the general population is shown at 18%. 'All undergraduate' rises from 25% to 28%. 'All postgraduate' rises from 22% to 24%. 'Other contract level' rises from 15% to 20%. 'Other senior academic' rises from 4% to 9%. 'Professor' rises from 9% to 12%. Sources: HESA, ONS"}
 
 :::
 
-## Models of Disability: Medical model
-* Disability is the result of an impairment
-* Treatment aims to ‘fix’ the disability or provide special individual services
-* The disabled individual is expected to take the responsibility for adjusting
-* “She can’t read the newspaper because she is blind”
+-->
 
-## Models of Disability: Social model
-* Disability is the result of barriers in society; separate to impairment
-* A person may be more disabled by some environments than others
-* It is everyone’s responsibility to remove barriers that disable people
-* “She can’t read the newspaper because it’s not published in large text or Braille”
+<!--
+## Accessibility benefits everyone...
 
-. . .
+![[Sketchplanations](https://sketchplanations.com/the-curb-cut-effect)](images/sketchplanations-the-curb-cut-effect.png){fig-alt="People using different wheeled devices utilising the curb cut. The picture is titled The Curb-Cut Effect and states 'when we design for disabilities, we make things better for everyone.'" fig-align="center"}
 
-**The social model is broadly preferred by the disabled community**
+## ...though it benefits disabled people most
 
-. . .
+rewatch crystal's talk to argue this one
 
-Ask yourself: what barriers exist within my software that I could remove?
-
-::: {.notes}
-https://www.ombudsman.org.uk/sites/default/files/FDN-218144_Introduction_to_the_Social_and_Medical_Models_of_Disability.pdf
-:::
-
+-->
 
 ## It's the law
 
 UK Equality Act 2010
 
-* "...where a provision, criterion or practice of A's puts a disabled person at a substantial disadvantage... take such steps as it is reasonable to have to take to avoid the disadvantage."
+* "...where a provision, criterion or practice of A's puts a disabled person at a substantial disadvantage... take such steps as it is reasonable to have to take to avoid the disadvantage." ^[[Equality Act 2010, Section 20 (3)](https://www.legislation.gov.uk/ukpga/2010/15/section/20)]
 
 Public Sector Bodies (Websites and Mobile Applications) (No. 2) Accessibility Regulations 2018
 
@@ -359,10 +384,14 @@ But there are parts that apply to every project, be it web, GUI, or CLI
 
 Basic checks:
 
+:::{.incremental}
 * Try completing tasks with only the keyboard, or only the mouse
 * Try different visual settings (200% zoom, high contrast, greyscale)
-* Check your use of colour (good contrast, other styling)
+* Check your use of colour ([sufficient contrast](https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum.html), other styling)
 * [web only] Try an automated testing tool such as [WAVE](https://wave.webaim.org/extension/)
+:::
+
+. . .
 
 Or pick a checklist to follow for a deeper dive:
 
@@ -372,31 +401,41 @@ Or pick a checklist to follow for a deeper dive:
 
 ## I create papers, blog posts, videos...
 
+:::{.incremental}
 * Check use of colour
 * Ensure non-decorative images have alt text
-* Provide a text alternative for complex images such as charts, graphs, maps
+* Provide a text alternative or data table for complex images such as charts, graphs, maps
 * Ensure videos have human-generated captions and/or transcripts
+* Remember that headings and tables are useful landmarks
+:::
 
 ## I guide project direction
 
+:::{.incremental}
 * Set a11y requirements and targets for development
-    * e.g. use automated a11y tests in CI (we use [pa11y](https://pa11y.org))
-* Prioritise a11y in the planning process
-    * treat a11y issues as bugs!
+    * Use automated a11y tests in CI (we use [pa11y](https://pa11y.org))
+    * Prioritise a11y in the planning process
+    * **treat a11y issues as bugs**
 * Arrange user testing, including disabled users
 * Arrange a professional a11y audit
+* Ask: are there barriers in the _development process_ that would prevent some disabled people from contributing?
+:::
 
 ## I guide organisational direction
 
+:::{.incremental}
 * Set a11y requirements and targets for projects
 * Invest in a11y training for developers
 * Follow an [accessibility playbook](https://adhoc.team/playbook-accessibility/)
 * Consider using a maturity model ([simple](https://www.metamatrix.se/avocado) or [advanced](https://abilitynet.org.uk/accessibility-services/DAMM))
+:::
 
 ## I can influence funding bodies
 
+:::{.incremental}
 * Push for a11y to be prioritised in _all_ research outputs (including but not limited to software)
 * Reward grant applications that describe how they will consider and design for disabled users
+:::
 
 ## I want to learn more
 

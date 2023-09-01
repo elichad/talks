@@ -30,7 +30,6 @@ fontsize: 35px
 * Use voice control and eye tracking software due to chronic RSI
 * Started studying disability and accessibility after discovering how much harder it was to use the web with assistive tech
 
-<!--
 ## Motivation
 
 * I straddle two worlds - RSE and web accessibility
@@ -39,14 +38,14 @@ fontsize: 35px
 
 . . .
 
-* Occasionally I encounter talks and discussions on 'software ergonomics,' 'software usability,' etc.
+* Sometimes see 'software ergonomics,' 'software usability,' mentioned in RSE space
 * These tread the same ground, but rarely mention disability
 
 . . .
 
-* I want to bring back the disability justice angle
-* There is a great wealth of accessibility expertise in industry that we as RSEs can learn from
--->
+* I want to bring disability back into these conversations
+* There is accessibility expertise in industry that we as RSEs can learn from
+
 <!--- 
 ---
 
@@ -83,25 +82,30 @@ https://www.nature.com/articles/s41597-022-01710-x
 
 a11y is a numeronym - like an acronym, but with numbers
 
-There are 11 letters between the ‘a’ and ‘y’ in 'accessibility'!
-
 Typically pronounced "ah-lee" or "A-eleven-Y"
 
-Other numeronyms: i18n (internationalisation), P2P (peer-to-peer), K9 (canine)
+![Image © [The A11y Collective](https://www.a11y-collective.com)](images/a11y-numeronym.png){fig-align="center" fig-alt="A graphic explaining the origin of the a11y numeronym by showing the 11 letters between a and y in accessibility."}
 
-# Disability Crash Course
 
-## Models of Disability: Medical model
+# Disability and Barriers
+
+## Models of Disability: Medical model ^[[Introduction to the Social and Medical Models of Disability](https://www.ombudsman.org.uk/sites/default/files/FDN-218144_Introduction_to_the_Social_and_Medical_Models_of_Disability.pdf)]
+
+:::{.incremental}
 * Disability is the result of an impairment
 * Treatment aims to ‘fix’ the disability or provide special individual services
 * The disabled individual is expected to take the responsibility for adjusting
 * “She can’t read the newspaper because she is blind”
+:::
 
-## Models of Disability: Social model
+## Models of Disability: Social model ^[[Introduction to the Social and Medical Models of Disability](https://www.ombudsman.org.uk/sites/default/files/FDN-218144_Introduction_to_the_Social_and_Medical_Models_of_Disability.pdf)]
+
+:::{.incremental}
 * Disability is the result of barriers in society; separate to impairment
 * A person may be more disabled by some environments than others
 * It is everyone’s responsibility to remove barriers that disable people
 * “She can’t read the newspaper because it’s not published in large text or Braille”
+:::
 
 . . .
 
@@ -134,9 +138,9 @@ https://www.ombudsman.org.uk/sites/default/files/FDN-218144_Introduction_to_the_
 
 In a study of 100,000 randomly chosen Jupyter notebooks: ^[[Notably Inaccessible -- Data Driven Understanding of Data Science Notebook (In)Accessibility](https://arxiv.org/abs/2308.03241) by Venkatesh Potluri, Sudheesh Singanamalla, Nussara Tieanklin, and Jennifer Mankoff]
 
-* 0.19% of notebook images had alt text - and most of those are just "image," "png," "alt," etc.
-* 4.53% of notebooks included data tables after a chart
 * 48.36% start with a heading in the first cell
+* 4.53% of notebooks included data tables after a chart
+* 0.19% of notebook images had alt text - and most of those are just "image," "png," "alt," etc.
 
 . . .
 
@@ -260,8 +264,6 @@ https://www.hesa.ac.uk/news/17-01-2023/sb264-higher-education-staff-statistics
 https://www.hesa.ac.uk/data-and-analysis/students/whos-in-he
 :::
 
----
-
 <!--
 ```{r}
 # | label: HE staff and students - female & POC
@@ -368,13 +370,21 @@ UK Equality Act 2010
 
 * "...where a provision, criterion or practice of A's puts a disabled person at a substantial disadvantage... take such steps as it is reasonable to have to take to avoid the disadvantage." ^[[Equality Act 2010, Section 20 (3)](https://www.legislation.gov.uk/ukpga/2010/15/section/20)]
 
+. . .
+
 Public Sector Bodies (Websites and Mobile Applications) (No. 2) Accessibility Regulations 2018
 
 * You must make your website or mobile app more accessible by making it ‘perceivable, operable, understandable and robust’. ^[[Understanding accessibility requirements for public sector bodies](https://www.gov.uk/guidance/accessibility-requirements-for-public-sector-websites-and-apps)]
 
 # What Can I Do?
 
-## Disclaimer
+## Suggestions Incoming
+
+You don't have to do all these things at once
+
+Pick one thing that resonates, and focus on that first
+
+. . .
 
 A lot of the resources I share are focused on web development
 
@@ -415,10 +425,10 @@ Or pick a checklist to follow for a deeper dive:
 * Set a11y requirements and targets for development
     * Use automated a11y tests in CI (we use [pa11y](https://pa11y.org))
     * Prioritise a11y in the planning process
-    * **treat a11y issues as bugs**
+    * **Treat a11y issues as bugs**
 * Arrange user testing, including disabled users
 * Arrange a professional a11y audit
-* Ask: are there barriers in the _development process_ that would prevent some disabled people from contributing?
+* Ask: are there barriers in the _development process_ that would prevent some people from contributing?
 :::
 
 ## I guide organisational direction

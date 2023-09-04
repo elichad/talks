@@ -4,7 +4,7 @@
 $ssi-red: #d2232a;
 $eli-purple: #8212bc;
 $carpentries-blue: #001483;
-$link-blue: #2a76dd;
+$link-blue: #2c74d8;
 
 // Sass variable overrides
 // see https://quarto.org/docs/presentations/revealjs/themes.html#sass-variables
@@ -15,4 +15,8 @@ $presentation-heading-color: $carpentries-blue !default;
 
 .slide-logo {
     max-height: 7.5% !important;
+}
+
+.reveal .slide a {
+    text-decoration: underline;
 }

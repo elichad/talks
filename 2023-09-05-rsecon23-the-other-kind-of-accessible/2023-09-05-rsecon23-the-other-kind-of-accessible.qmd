@@ -14,6 +14,7 @@ toc: true
 toc-depth: 1
 slide-number: true
 logo: "images/combined_logos.svg"
+logo-alt: "The Carpentries and Software Sustainability Institute"
 fig-cap-location: bottom
 tbl-cap-location: top
 lang: en-GB
@@ -27,6 +28,9 @@ fontsize: 35px
 * RSE for 5 years
 * SSI Fellow since 2021
 * Currently an IT Developer at The Carpentries
+
+. . .
+
 * Use voice control and eye tracking software due to chronic RSI
 * Started studying disability and accessibility after discovering how much harder it was to use the web with assistive tech
 
@@ -72,7 +76,10 @@ https://www.nature.com/articles/s41597-022-01710-x
 
 ## "Accessible" in a disability context
 
-"Accessibility means that [disabled] people can do what they need to do in a **similar amount of time and effort** as someone that does not have a disability. It means that people are empowered, can be independent, and will not be frustrated by something that is poorly designed or implemented." ^[[What we mean when we talk about accessibility](https://accessibility.blog.gov.uk/2016/05/16/what-we-mean-when-we-talk-about-accessibility-2/) by Alistair Duggin]
+::: {.r-stack}
+> Accessibility means that [disabled] people can do what they need to do in a **similar amount of time and effort** as someone that does not have a disability.  
+It means that people are empowered, can be independent, and will not be frustrated by something that is poorly designed or implemented. ^[[What we mean when we talk about accessibility](https://accessibility.blog.gov.uk/2016/05/16/what-we-mean-when-we-talk-about-accessibility-2/) by Alistair Duggin]
+:::
 
 . . .
 
@@ -220,6 +227,8 @@ library(readr)
 library(dplyr)
 library(ggplot2)
 library(RColorBrewer)
+library(maditr)
+library(knitr)
 
 data_staff <- get_staff_data("Disability status")
 data_students <- get_student_data("Disability Status")
@@ -253,16 +262,24 @@ fig <- ggplot(data = data_all[data_all$category == "Known disability", ], mappin
     ) +
     theme_minimal(base_size = 20)
 ggsave(file = "images/he_staff_student_disability.png", plot = fig, width = 10, height = 8, bg = "white")
-
 ```
 
-![](images/he_staff_student_disability.png){fig-alt="Chart showing percentage of higher education staff and students with known disabilities from academic year 2017/18 to 2021/22. 2021 census data for the general population is shown at 18%. 'All undergraduate' rises from 14% to 18%. 'All postgraduate' rises from 9% to 11%. 'Other contract level' rises from 4% to 7%. 'Other senior academic' rises from 3% to 5%. 'Professor' rises from 2% to 3%. Sources: HESA, ONS"}
-
-::: {.notes}
-https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/bulletins/disabilityenglandandwales/census2021#disability-england-and-wales
-https://www.hesa.ac.uk/news/17-01-2023/sb264-higher-education-staff-statistics
-https://www.hesa.ac.uk/data-and-analysis/students/whos-in-he
+:::{.r-stack}
+![](images/he_staff_student_disability.png){fig-alt="Chart showing percentage of higher education staff and students with known disabilities from academic year 2017/18 to 2021/22. Data table follows on next slide. Sources: HESA, ONS"}
 :::
+
+
+---
+
+```{r}
+data_all[data_all$category == "Known disability", ] %>%
+    dcast(level ~ academic_year, value.var = "percentage") %>%
+    kable(digits = 1, caption = "Percentage of students/staff with known disabilities. ^[[Higher Education Staff Statistics: UK, 2021/22](https://www.hesa.ac.uk/news/17-01-2023/sb264-higher-education-staff-statistics
+https://www.hesa.ac.uk/data-and-analysis/students/whos-in-he)] ^[[Higher Education Student Statistics: UK, 2021/22](https://www.hesa.ac.uk/news/19-01-2023/sb265-higher-education-student-statistics)]
+")
+``` 
+General population: 17.8% ^[[Disability, England and Wales - 2021 Census](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/bulletins/disabilityenglandandwales/census2021#disability-england-and-wales)]
+
 
 <!--
 ```{r}
@@ -401,6 +418,13 @@ Basic checks:
 * [web only] Try an automated testing tool such as [WAVE](https://wave.webaim.org/extension/)
 :::
 
+<!--
+::: {.fragment .fade-in-then-out}
+
+![](images/sketchplanations-the-curb-cut-effect.png)
+
+:::
+-->
 . . .
 
 Or pick a checklist to follow for a deeper dive:

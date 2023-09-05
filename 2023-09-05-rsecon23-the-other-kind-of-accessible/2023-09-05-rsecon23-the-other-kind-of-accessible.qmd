@@ -264,9 +264,7 @@ fig <- ggplot(data = data_all[data_all$category == "Known disability", ], mappin
 ggsave(file = "images/he_staff_student_disability.png", plot = fig, width = 10, height = 8, bg = "white")
 ```
 
-:::{.r-stack}
 ![](images/he_staff_student_disability.png){fig-alt="Chart showing percentage of higher education staff and students with known disabilities from academic year 2017/18 to 2021/22. Data table follows on next slide. Sources: HESA, ONS"}
-:::
 
 
 ---

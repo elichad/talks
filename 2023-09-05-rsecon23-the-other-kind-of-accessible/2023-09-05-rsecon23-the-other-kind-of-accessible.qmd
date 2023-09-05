@@ -416,13 +416,6 @@ Basic checks:
 * [web only] Try an automated testing tool such as [WAVE](https://wave.webaim.org/extension/)
 :::
 
-<!--
-::: {.fragment .fade-in-then-out}
-
-![](images/sketchplanations-the-curb-cut-effect.png)
-
-:::
--->
 . . .
 
 Or pick a checklist to follow for a deeper dive:

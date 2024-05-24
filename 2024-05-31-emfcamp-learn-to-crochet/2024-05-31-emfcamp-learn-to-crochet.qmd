@@ -1,0 +1,118 @@
+---
+title: "Learn to crochet"
+subtitle: "and contribute to an EMF community blanket"
+date: 2023-05-31
+date-format: long
+author: "Eli Chadwick *(he/him and they/them)*"
+format:
+    revealjs:
+        code-fold: true
+        theme:  [default, ../theme/general.scss]
+        embed-resources: true
+toc: true
+toc-depth: 1
+slide-number: true
+fig-cap-location: bottom
+tbl-cap-location: top
+lang: en-GB
+fontsize: 35px
+---
+
+# Introduction
+
+## About Me
+
+* Crochet since 2018
+* Loom knitting since 2021
+* I have taught people to use Unix and Git... but I have not taught people how to crochet
+* I will probably make mistakes or not explain things well
+
+. . .
+
+* Fortunately, I have help!
+
+## Workshop Objectives
+
+* Be comfortable handling your hook and yarn and forming basic stitches
+* Know how to follow a crochet pattern
+* Feel confident enough to continue practicing on your own
+* Contribute to the community blanket!
+
+# Yarn, Hooks, And Other Materials
+
+## Yarn
+
+![](images/label_front.jpg){fig-align="center" fig-alt="Ball of yarn with label showing brand and weight"}
+
+## Weight
+
+![](images/yarn-weights-and-wpi-1536x1434.png){fig-align="center" fig-alt="Table of yarn weights. The yarn in this workshop is category 5, aka bulky or chunky."}
+
+## Fibre and dye lot
+
+![](images/label_fibre.jpg){fig-align="center" fig-alt="Zoomed yarn label showing the fibre is 100% acrylic, the shade is HEC08 GREEN, and the dye lot is 80."}
+
+. . .
+
+Exact colour may vary between balls of same shade - if buying lots of balls of the same color, try to match the dye lot
+
+We'll talk more about fibre choices later
+
+## Gauge and care instructions
+
+![](images/label_gauge.jpg){fig-align="center" fig-alt="Zoomed yarn label showing that 6mm hooks/needles should be used, the gauge is 14 sts/20 rows for a 10x10 cms square, and the yarn should be washed gently and cool."}
+
+. . .
+
+It's a good idea to keep labels so you know how to care for your projects
+
+## Hooks
+
+![](images/hooks.jpg){fig-align="center" fig-alt="Eli's collection of crochet hooks, ranging from 3 mm to 20 mm."}
+
+Hooks are cheap (~£2 each) and can be bought individually or in sets
+
+## Hook anatomy
+
+![](images/hook_anatomy.jpg){fig-align="center" fig-alt="Anatomy of a crochet hook. The long part is called the shaft and may have a grip or thumb rest. The hook part is called the head, and features a throat which is a narrow straight part, a point or tip where the hook turns back on itself, a lip which juts backwards, and a bowl which is the inside of the lip and throat."}
+
+. . .
+
+Some of our hooks have ergonomic handles, some do not - please swap if the one you have isn't working for you
+
+## Hook size
+
+![](images/hook_zoom.jpg){fig-align="center" fig-alt="The size indicator at the end of a hook shaft furthest from the head. This one reads USJ10/6.00mm."}
+
+Your hook size should match your yarn label (in most cases)
+
+## Other materials
+
+* tape measure/ruler
+* yarn needle aka darning needle aka tapestry needle - we'll use this at the end
+* stitch markers - optional, but useful for some patterns
+* scissors
+
+# Time to start crocheting!
+
+# Following a pattern
+
+## A note on stitch terminology
+
+UK vs US...
+
+## Tips for finding patterns online
+
+# Wrap-up
+
+## Fibre choices
+
+## Tekhnē-cal Village
+
+Home to the blanket!
+
+Feel free to visit - you can work on projects and/or pick up some yarn from the stash swap
+
+Camping H (near Stage A)
+
+Please be quiet if visiting at night - DO NOT WAKE THE BABY

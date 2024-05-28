@@ -1,0 +1,13 @@
+@import "../../theme/general.scss";
+
+/*-- scss:defaults --*/
+
+$presentation-heading-color: $eli-purple;
+
+/*-- scss:rules --*/
+
+table { border: solid 1px;}
+td, th {
+  border-right: solid 1px;
+  border-left: solid 1px;
+}

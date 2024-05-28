@@ -7,7 +7,7 @@ author: "Eli Chadwick *(he/him and they/them)*"
 format:
     revealjs:
         code-fold: true
-        theme:  [default, ../theme/general.scss]
+        theme:  [default, ../theme/general.scss, theme/theme.scss]
         embed-resources: true
 toc: true
 toc-depth: 1
@@ -95,24 +95,68 @@ Your hook size should match your yarn label (in most cases)
 
 # Time to start crocheting!
 
+# Changing colour
+
 # Following a pattern
+
+## Following a pattern
+
+Most patterns are repetitive – once you have done a couple of repeats, they become much easier!
+
+Almost all patterns use shorthand to keep instructions concise, for example:
+
+* ch 10 = make 10 chain stitches
+* 1 dc in next st = make one double crochet in the next stitch from the row below
+
+Some patterns will invent their own shorthand for advanced stitches or repeats, but they will always explain them in full first.
+
 
 ## A note on stitch terminology
 
-UK vs US...
+| US Crochet Term	| UK Crochet Term |
+| --- | --- |
+| yarn over (yo) | 	yarn over hook (yoh) |
+| stitch (st) | stitch (st)	|
+| chain (ch) | 	chain (ch) |
+| slip stitch (sl st or ss)	 | slip stitch (sl st or ss) |
+| single crochet (sc) | 	double crochet (dc) |
+| half double crochet (hdc)	 | half treble (htr) |
+| double crochet (dc) | 	treble (tr) |
+| triple/treble crochet (tr) | 	double treble (dtr) |
+
+Most patterns online use US terms (because there are more Americans), so we're also using US terms in this workshop
 
 ## Tips for finding patterns online
+
+There are many crochet blogs out there, and also sites like Ravelry [https://www.ravelry.com]
+
+. . .
+
+<span style="color:red">**BEWARE CHATGPT**</span>: LLMs do not know how to write sensible crochet patterns, but they can write something that looks like a real crochet pattern to the untrained eye.
+
+. . .
+
+* Is it clear whether the patterns uses US or UK terms?
+* Is there guidance on yarn choice and gauge?
+* Are there step by step pictures and/or a video that match what the pattern claims to be?
+* Read through the pattern before starting – can you visualize how it comes together?
+
+# Adding your square to the blanket
 
 # Wrap-up
 
 ## Fibre choices
 
+![](images/fibres.png){fig-align="center" fig-alt="Fibre attributes. Synthetic is cheap, versatile, but heat sensitive. Wool is good for cold weather clothing, but felts and must be handwashed. Bamboo is sustainable and soft, but weak when wet. Cotton is strong and good for clothes, but easily distorted and can be rough. Linen is good for warm weather clothing, but is expensive and wrinkles easily."}
+
 ## Tekhnē-cal Village
 
 Home to the blanket!
 
-Feel free to visit - you can work on projects and/or pick up some yarn from the stash swap
+Feel free to visit - you can work on projects (including blanket squares) and/or pick up some yarn from the stash swap
 
 Camping H (near Stage A)
 
-Please be quiet if visiting at night - DO NOT WAKE THE BABY
+Please be quiet if visiting at night - **_do not wake the baby_**
+
+## Thank you for coming!
